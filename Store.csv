@@ -1,0 +1,3504 @@
+Order ID,Product ID,Date of Purchase,Store,Rep Names
+1,Prod1,12/10/2021,Adelaide,"Angus Young, Malcolm Young, Brian Johnson"
+1,Prod2,12/10/2021,Melbourne,
+1,Prod3,12/10/2021,Melbourne,"F. Baltes, S. Kaufman, U. Dirkscneider & W. Hoffman"
+1,Prod4,12/10/2021,Melbourne,"F. Baltes, R.A. Smith-Diesel, S. Kaufman, U. Dirkscneider & W. Hoffman"
+1,Prod5,12/10/2021,Melbourne,Deaffy & R.A. Smith-Diesel
+1,Prod6,12/10/2021,Adelaide,"Angus Young, Malcolm Young, Brian Johnson"
+1,Prod7,12/10/2021,Adelaide,"Angus Young, Malcolm Young, Brian Johnson"
+1,Prod8,12/10/2021,Adelaide,"Angus Young, Malcolm Young, Brian Johnson"
+1,Prod9,12/10/2021,Adelaide,"Angus Young, Malcolm Young, Brian Johnson"
+1,Prod10,12/10/2021,Adelaide,"Angus Young, Malcolm Young, Brian Johnson"
+1,Prod11,12/10/2021,Adelaide,"Angus Young, Malcolm Young, Brian Johnson"
+1,Prod12,12/10/2021,Adelaide,"Angus Young, Malcolm Young, Brian Johnson"
+1,Prod13,12/10/2021,Adelaide,"Angus Young, Malcolm Young, Brian Johnson"
+1,Prod14,12/10/2021,Adelaide,"Angus Young, Malcolm Young, Brian Johnson"
+1,Prod15,12/10/2021,Adelaide,AC/DC
+1,Prod16,12/10/2021,Adelaide,AC/DC
+1,Prod17,12/10/2021,Adelaide,AC/DC
+1,Prod18,12/10/2021,Adelaide,AC/DC
+1,Prod19,12/10/2021,Adelaide,AC/DC
+1,Prod20,12/10/2021,Adelaide,AC/DC
+1,Prod21,12/10/2021,Adelaide,AC/DC
+1,Prod22,12/10/2021,Adelaide,AC/DC
+1,Prod23,12/10/2021,Adelaide,"Steven Tyler, Joe Perry, Jack Blades, Tommy Shaw"
+1,Prod24,12/10/2021,Adelaide,"Steven Tyler, Joe Perry"
+1,Prod25,12/10/2021,Adelaide,"Steven Tyler, Joe Perry, Jim Vallance, Holly Knight"
+1,Prod26,12/10/2021,Adelaide,"Steven Tyler, Joe Perry, Desmond Child"
+1,Prod27,12/10/2021,Adelaide,"Steven Tyler, Joe Perry, Desmond Child"
+1,Prod28,12/10/2021,Adelaide,"Steven Tyler, Tom Hamilton"
+1,Prod29,12/10/2021,Adelaide,"Steven Tyler, Joe Perry, Taylor Rhodes"
+1,Prod30,12/10/2021,Adelaide,"Steven Tyler, Richie Supa"
+1,Prod31,12/10/2021,Adelaide,"Steven Tyler, Joe Perry, Taylor Rhodes"
+1,Prod32,12/10/2021,Adelaide,"Steven Tyler, Jim Vallance"
+1,Prod33,12/10/2021,Adelaide,"Steven Tyler, Jim Vallance"
+1,Prod34,12/10/2021,Adelaide,"Steven Tyler, Joe Perry, Desmond Child"
+1,Prod35,12/10/2021,Adelaide,"Steven Tyler, Joe Perry, Jim Vallance"
+1,Prod36,12/10/2021,Adelaide,"Steven Tyler, Desmond Child"
+1,Prod37,12/10/2021,Adelaide,"Steven Tyler, Joe Perry, Mark Hudson"
+1,Prod38,12/10/2021,Adelaide,Alanis Morissette & Glenn Ballard
+1,Prod39,12/10/2021,Adelaide,Alanis Morissette & Glenn Ballard
+1,Prod40,12/10/2021,Adelaide,Alanis Morissette & Glenn Ballard
+1,Prod41,12/10/2021,Adelaide,Alanis Morissette & Glenn Ballard
+1,Prod42,12/10/2021,Adelaide,Alanis Morissette & Glenn Ballard
+1,Prod43,12/10/2021,Adelaide,Alanis Morissette & Glenn Ballard
+1,Prod44,12/10/2021,Adelaide,Alanis Morissette & Glenn Ballard
+1,Prod45,12/10/2021,Adelaide,Alanis Morissette & Glenn Ballard
+1,Prod46,12/10/2021,Adelaide,Alanis Morissette & Glenn Ballard
+1,Prod47,12/10/2021,Adelaide,Alanis Morissette & Glenn Ballard
+1,Prod48,12/10/2021,Adelaide,Alanis Morissette & Glenn Ballard
+1,Prod49,12/10/2021,Adelaide,Alanis Morissette & Glenn Ballard
+1,Prod50,12/10/2021,Adelaide,Alanis Morissette & Glenn Ballard
+1,Prod51,12/10/2021,Adelaide,Jerry Cantrell
+1,Prod52,12/10/2021,Adelaide,"Jerry Cantrell, Layne Staley"
+1,Prod53,12/10/2021,Adelaide,Jerry Cantrell
+1,Prod54,12/10/2021,Adelaide,Jerry Cantrell
+1,Prod55,12/10/2021,Adelaide,"Jerry Cantrell, Layne Staley"
+1,Prod56,12/10/2021,Adelaide,"Jerry Cantrell, Layne Staley"
+1,Prod57,12/10/2021,Adelaide,"Jerry Cantrell, Michael Starr, Sean Kinney"
+1,Prod58,12/10/2021,Adelaide,Jerry Cantrell
+1,Prod59,12/10/2021,Adelaide,Jerry Cantrell
+1,Prod60,12/10/2021,Adelaide,"Jerry Cantrell, Michael Starr, Layne Staley"
+1,Prod61,12/10/2021,Adelaide,Jerry Cantrell
+1,Prod62,12/10/2021,Adelaide,"Jerry Cantrell, Layne Staley"
+2,Prod63,12/10/2021,Adelaide,
+2,Prod64,12/10/2021,Adelaide,
+2,Prod65,12/10/2021,Adelaide,
+2,Prod66,12/10/2021,Adelaide,
+2,Prod67,12/10/2021,Adelaide,
+2,Prod68,12/10/2021,Adelaide,
+2,Prod69,12/10/2021,Adelaide,
+2,Prod70,12/10/2021,Adelaide,
+2,Prod71,12/10/2021,Adelaide,
+2,Prod72,12/10/2021,Adelaide,
+2,Prod73,12/10/2021,Adelaide,
+2,Prod74,12/10/2021,Adelaide,
+2,Prod75,12/10/2021,Adelaide,
+2,Prod76,12/10/2021,Adelaide,
+1,Prod85,12/10/2021,Adelaide,Audioslave/Chris Cornell
+1,Prod86,12/10/2021,Adelaide,Audioslave/Chris Cornell
+1,Prod87,12/10/2021,Adelaide,Audioslave/Chris Cornell
+1,Prod88,12/10/2021,Adelaide,Audioslave/Chris Cornell
+1,Prod89,12/10/2021,Adelaide,Audioslave/Chris Cornell
+1,Prod90,12/10/2021,Adelaide,Audioslave/Chris Cornell
+1,Prod91,12/10/2021,Adelaide,Audioslave/Chris Cornell
+1,Prod92,12/10/2021,Adelaide,Audioslave/Chris Cornell
+1,Prod93,12/10/2021,Adelaide,Audioslave/Chris Cornell
+1,Prod94,12/10/2021,Adelaide,Audioslave/Chris Cornell
+1,Prod95,12/10/2021,Adelaide,Audioslave/Chris Cornell
+1,Prod96,12/10/2021,Adelaide,Audioslave/Chris Cornell
+1,Prod97,12/10/2021,Adelaide,Audioslave/Chris Cornell
+1,Prod98,12/10/2021,Adelaide,Audioslave/Chris Cornell
+2,Prod123,12/10/2021,Adelaide,Billy Cobham
+2,Prod124,12/10/2021,Adelaide,Billy Cobham
+2,Prod125,12/10/2021,Adelaide,Billy Cobham
+2,Prod126,12/10/2021,Adelaide,Billy Cobham
+2,Prod127,12/10/2021,Adelaide,Billy Cobham
+2,Prod128,12/10/2021,Adelaide,Billy Cobham
+2,Prod129,12/10/2021,Adelaide,Billy Cobham
+2,Prod130,12/10/2021,Adelaide,George Duke
+1,Prod325,12/10/2021,Adelaide,J B Lenoir/Willie Dixon
+1,Prod326,12/10/2021,Adelaide,Willie Dixon
+1,Prod327,12/10/2021,Adelaide,Jimmy Page/John Bonham/John Paul Jones
+1,Prod328,12/10/2021,Adelaide,Jimmy Page
+1,Prod329,12/10/2021,Adelaide,Jimmy Page/John Bonham/John Estes/John Paul Jones/Robert Plant
+1,Prod330,12/10/2021,Adelaide,Jimmy Page/Robert Plant
+1,Prod331,12/10/2021,Adelaide,Jimmy Page/John Bonham/John Paul Jones
+1,Prod332,12/10/2021,Adelaide,Jimmy Page/Robert Johnson/Robert Plant
+1,Prod333,12/10/2021,Adelaide,Jimmy Page/John Bonham/John Paul Jones/Robert Plant/Willie Dixon
+1,Prod334,12/10/2021,Adelaide,Bob Cochran/Sharon Sheeley
+1,Prod335,12/10/2021,Adelaide,Jimmy Page/John Bonham/John Paul Jones
+1,Prod336,12/10/2021,Adelaide,Willie Dixon
+1,Prod337,12/10/2021,Adelaide,J B Lenoir/Willie Dixon
+1,Prod338,12/10/2021,Adelaide,Chester Burnett/Jimmy Page/John Bonham/John Paul Jones/Robert Plant
+1,Prod339,12/10/2021,Adelaide,Frank Zappa
+1,Prod340,12/10/2021,Adelaide,Frank Zappa
+1,Prod341,12/10/2021,Adelaide,Don Van Vliet
+1,Prod342,12/10/2021,Adelaide,Frank Zappa
+1,Prod343,12/10/2021,Adelaide,Frank Zappa
+1,Prod344,12/10/2021,Adelaide,Frank Zappa
+1,Prod345,12/10/2021,Adelaide,Frank Zappa
+1,Prod346,12/10/2021,Adelaide,Don Van Vliet
+1,Prod347,12/10/2021,Adelaide,Frank Zappa
+1,Prod406,12/10/2021,Adelaide,Roger Taylor
+1,Prod407,12/10/2021,Adelaide,Queen & David Bowie
+1,Prod408,12/10/2021,Adelaide,Roger Taylor
+1,Prod409,12/10/2021,Adelaide,Queen
+1,Prod410,12/10/2021,Adelaide,John Deacon
+1,Prod411,12/10/2021,Adelaide,Queen
+1,Prod412,12/10/2021,Adelaide,Freddie Mercury
+1,Prod413,12/10/2021,Adelaide,Queen
+1,Prod414,12/10/2021,Adelaide,Brian May
+1,Prod415,12/10/2021,Adelaide,Queen
+1,Prod416,12/10/2021,Adelaide,Queen
+1,Prod417,12/10/2021,Adelaide,Queen
+1,Prod418,12/10/2021,Adelaide,Queen
+1,Prod419,12/10/2021,Adelaide,Brian May
+1,Prod420,12/10/2021,Adelaide,Freddie Mercury & John Deacon
+1,Prod421,12/10/2021,Adelaide,Queen
+1,Prod422,12/10/2021,Adelaide,Queen
+1,Prod423,12/10/2021,Adelaide,"Paul Stanley, B. Ezrin"
+1,Prod424,12/10/2021,Adelaide,Paul Stanley
+1,Prod425,12/10/2021,Adelaide,Paul Stanley
+1,Prod426,12/10/2021,Adelaide,"Paul Stanley, Vincent Poncia"
+1,Prod427,12/10/2021,Adelaide,Paul Stanley
+1,Prod428,12/10/2021,Adelaide,Gene Simmons
+1,Prod429,12/10/2021,Adelaide,"Gene Simmons, S. Coronel"
+1,Prod430,12/10/2021,Adelaide,Ace Frehley
+1,Prod431,12/10/2021,Adelaide,"Paul Stanley, B. Ezrin, K. Fowley"
+1,Prod432,12/10/2021,Adelaide,"Gene Simmons, S. Coronel"
+1,Prod433,12/10/2021,Adelaide,"Paul Stanley, Vincent Poncia, Desmond Child"
+1,Prod434,12/10/2021,Adelaide,"Paul Stanley, Gene Simmons, B. Ezrin"
+1,Prod435,12/10/2021,Adelaide,Paul Stanley
+1,Prod436,12/10/2021,Adelaide,Gene Simmons
+1,Prod437,12/10/2021,Adelaide,"S. Penridge, Bob Ezrin, Peter Criss"
+1,Prod438,12/10/2021,Adelaide,"Paul Stanley, Gene Simmons"
+1,Prod439,12/10/2021,Adelaide,"Paul Stanley, Gene Simmons"
+1,Prod440,12/10/2021,Adelaide,Ace Frehley
+1,Prod441,12/10/2021,Adelaide,Gene Simmons
+1,Prod442,12/10/2021,Adelaide,"Paul Stanley, Gene Simmons, Rus Ballard, Bob Ezrin"
+2,Prod443,12/10/2021,Adelaide,
+2,Prod444,12/10/2021,Adelaide,
+2,Prod445,12/10/2021,Adelaide,
+2,Prod446,12/10/2021,Adelaide,
+2,Prod447,12/10/2021,Adelaide,
+2,Prod448,12/10/2021,Adelaide,
+2,Prod449,12/10/2021,Adelaide,
+2,Prod450,12/10/2021,Adelaide,
+2,Prod451,12/10/2021,Adelaide,
+2,Prod452,12/10/2021,Adelaide,
+2,Prod453,12/10/2021,Adelaide,
+2,Prod454,12/10/2021,Adelaide,
+1,Prod474,12/10/2021,Adelaide,David Coverdale
+1,Prod475,12/10/2021,Adelaide,David Coverdale
+1,Prod476,12/10/2021,Adelaide,David Coverdale
+1,Prod477,12/10/2021,Adelaide,David Coverdale
+1,Prod478,12/10/2021,Adelaide,David Coverdale/Earl Slick
+1,Prod479,12/10/2021,Adelaide,David Coverdale/Earl Slick
+1,Prod480,12/10/2021,Adelaide,Bossi/David Coverdale/Earl Slick
+1,Prod481,12/10/2021,Adelaide,Bossi/David Coverdale/Earl Slick
+1,Prod482,12/10/2021,Adelaide,David Coverdale/Earl Slick
+1,Prod483,12/10/2021,Adelaide,Adrian Vanderberg/David Coverdale
+1,Prod484,12/10/2021,Adelaide,David Coverdale/Earl Slick
+1,Prod485,12/10/2021,Adelaide,David Coverdale
+1,Prod525,12/10/2021,Adelaide,Coverdale/Lord/Paice
+1,Prod526,12/10/2021,Adelaide,Coverdale
+1,Prod527,12/10/2021,Adelaide,Coverdale/Hughes/Lord/Paice
+1,Prod528,12/10/2021,Adelaide,Coverdale
+1,Prod529,12/10/2021,Adelaide,Coverdale
+1,Prod530,12/10/2021,Adelaide,Gillan/Glover/Lord/Paice
+1,Prod531,12/10/2021,Adelaide,Coverdale/Lord/Paice
+1,Prod532,12/10/2021,Adelaide,Jimmy Page/Robert Plant
+1,Prod533,12/10/2021,Adelaide,Jimmy Page/Robert Plant
+1,Prod534,12/10/2021,Adelaide,John Bonham/John Paul Jones
+1,Prod535,12/10/2021,Adelaide,Jimmy Page/Robert Plant
+1,Prod536,12/10/2021,Adelaide,John Paul Jones
+1,Prod537,12/10/2021,Adelaide,John Bonham
+1,Prod552,12/10/2021,Adelaide,Santana
+1,Prod553,12/10/2021,Adelaide,Carlos Santana & Dave Matthews
+1,Prod554,12/10/2021,Adelaide,E. Shrody
+1,Prod555,12/10/2021,Adelaide,"I. Toure, S. Tidiane Toure, Carlos Santana & K. Perazzo"
+1,Prod556,12/10/2021,Adelaide,M. Itaal Shur & Rob Thomas
+1,Prod557,12/10/2021,Adelaide,L. Hill
+1,Prod558,12/10/2021,Adelaide,"W. Jean, J. Duplessis, Carlos Santana, K. Perazzo & R. Rekow"
+1,Prod559,12/10/2021,Adelaide,"R. Taha, Carlos Santana & T. Lindsay"
+1,Prod560,12/10/2021,Adelaide,F. Olivera
+1,Prod561,12/10/2021,Adelaide,"Eale-Eye Cherry, M. Simpson, J. King & M. Nishita"
+1,Prod562,12/10/2021,Adelaide,Carlos Santana & KC Porter
+1,Prod563,12/10/2021,Adelaide,KC Porter & JB Eckl
+1,Prod564,12/10/2021,Adelaide,Carlos Santana & C. Thompson
+2,Prod578,12/10/2021,Adelaide,Miles Davis
+2,Prod579,12/10/2021,Adelaide,Miles Davis
+2,Prod580,12/10/2021,Adelaide,Miles Davis
+2,Prod581,12/10/2021,Adelaide,Miles Davis
+2,Prod582,12/10/2021,Adelaide,Miles Davis
+2,Prod583,12/10/2021,Adelaide,Miles Davis
+2,Prod584,12/10/2021,Adelaide,Miles Davis
+2,Prod585,12/10/2021,Adelaide,Miles Davis
+2,Prod586,12/10/2021,Adelaide,Miles Davis
+2,Prod587,12/10/2021,Adelaide,Miles Davis
+2,Prod588,12/10/2021,Adelaide,Miles Davis
+2,Prod589,12/10/2021,Adelaide,Miles Davis
+2,Prod590,12/10/2021,Adelaide,Miles Davis
+2,Prod591,12/10/2021,Adelaide,Miles Davis
+2,Prod592,12/10/2021,Adelaide,Miles Davis
+2,Prod593,12/10/2021,Adelaide,Miles Davis
+2,Prod594,12/10/2021,Adelaide,Miles Davis
+2,Prod595,12/10/2021,Adelaide,Miles Davis
+2,Prod596,12/10/2021,Adelaide,Miles Davis
+2,Prod597,12/10/2021,Adelaide,Miles Davis
+2,Prod598,12/10/2021,Adelaide,Miles Davis
+2,Prod599,12/10/2021,Adelaide,Miles Davis
+2,Prod600,12/10/2021,Adelaide,Miles Davis
+1,Prod601,12/10/2021,Adelaide,Blackmore/Gillan/Glover/Lord/Paice
+1,Prod602,12/10/2021,Adelaide,Gillan/Glover/Lord/Nix - Blackmore/Paice
+1,Prod603,12/10/2021,Adelaide,Blackmore/Coverdale
+1,Prod604,12/10/2021,Adelaide,Blackmore/Coverdale/Lord/Paice
+2,Prod605,12/10/2021,Adelaide,
+2,Prod606,12/10/2021,Adelaide,
+2,Prod607,12/10/2021,Adelaide,
+2,Prod608,12/10/2021,Adelaide,
+2,Prod609,12/10/2021,Adelaide,
+2,Prod610,12/10/2021,Adelaide,
+2,Prod611,12/10/2021,Adelaide,
+2,Prod612,12/10/2021,Adelaide,
+2,Prod613,12/10/2021,Adelaide,
+2,Prod614,12/10/2021,Adelaide,
+2,Prod615,12/10/2021,Adelaide,
+2,Prod616,12/10/2021,Adelaide,
+2,Prod617,12/10/2021,Adelaide,
+2,Prod618,12/10/2021,Adelaide,
+2,Prod619,12/10/2021,Adelaide,
+2,Prod620,12/10/2021,Adelaide,
+2,Prod621,12/10/2021,Adelaide,
+2,Prod622,12/10/2021,Adelaide,
+2,Prod623,12/10/2021,Adelaide,
+2,Prod624,12/10/2021,Adelaide,
+2,Prod625,12/10/2021,Adelaide,
+2,Prod626,12/10/2021,Adelaide,
+1,Prod656,12/10/2021,Adelaide,Hawkins-Lewis-Broadwater
+1,Prod657,12/10/2021,Adelaide,Jay Hawkins
+1,Prod658,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod659,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod660,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod661,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod662,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod663,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod664,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod665,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod666,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod667,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod668,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod669,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod670,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod671,12/10/2021,Adelaide,Whitfield-Strong
+1,Prod672,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod673,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod674,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod675,12/10/2021,Adelaide,J. C. Fogerty
+1,Prod676,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod677,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod678,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod121,12/10/2021,Adelaide,J.C. Fogerty
+8,Prod279,6/07/2024,Adelaide,Bino Farias/Da Gama/Lazão/Pedro Luis/Toni Garrido
+8,Prod280,6/07/2024,Adelaide,Da Gama/Toni Garrido
+8,Prod281,6/07/2024,Adelaide,Chuck Berry
+8,Prod282,6/07/2024,Adelaide,Herbert Vianna
+8,Prod283,6/07/2024,Adelaide,Bino Farias/Da Gama/Henry Lawes/Lazão/Toni Garrido/Winston Foser-Vers
+8,Prod284,6/07/2024,Adelaide,Gilberto Gil
+8,Prod285,6/07/2024,Adelaide,Bernardo Vilhena/Bino Farias/Da Gama/Lazão/Toni Garrido
+8,Prod286,6/07/2024,Adelaide,Bino Farias/Da Gama/Lazão/Toni Garrido
+8,Prod287,6/07/2024,Adelaide,Bino Farias/Da Gama/Lazão/Toni Garrido
+8,Prod288,6/07/2024,Adelaide,Da Gama/Toni Garrido
+8,Prod289,6/07/2024,Adelaide,Bino Farias/Da Gama/Lazão/Toni Garrido
+8,Prod290,6/07/2024,Adelaide,Marisa Monte/Nando Reis
+8,Prod291,6/07/2024,Adelaide,Bino Farias/Da Gamma/Lazão/Rás Bernard
+8,Prod292,6/07/2024,Adelaide,Da Gama/Lazão/Rás Bernardo
+8,Prod293,6/07/2024,Adelaide,Bino Farias/Da Gama/Lazão/Toni Garrido
+8,Prod294,6/07/2024,Adelaide,Bino Farias/Da Gama/Lazão/Rás Bernardo
+8,Prod295,6/07/2024,Adelaide,Bernardo Vilhena/Da Gama/Lazão
+8,Prod290,6/07/2024,Adelaide,Marisa Monte/Nando Reis
+8,Prod285,6/07/2024,Adelaide,Bernardo Vilhena/Bino/Da Gama/Lazao/Toni Garrido
+8,Prod280,6/07/2024,Adelaide,Da Gama/Toni Garrido
+8,Prod287,6/07/2024,Adelaide,Da Gama/Lazao/Toni Garrido
+8,Prod296,6/07/2024,Adelaide,Bino/Da Gama/Ras Bernardo
+8,Prod283,6/07/2024,Adelaide,Harry Lawes/Winston Foster-Vers
+8,Prod291,6/07/2024,Adelaide,Bino/Da Gama/Ras Bernardo
+8,Prod293,6/07/2024,Adelaide,Bino/Da Gamma/Lazao/Toni Garrido
+8,Prod297,6/07/2024,Adelaide,Bino/Da Gama/Toni Garrido
+8,Prod298,6/07/2024,Adelaide,Bino/Da Gama/Lazao/Ras Bernardo
+8,Prod299,6/07/2024,Adelaide,Cidade Negra
+8,Prod300,6/07/2024,Adelaide,Lulu Santos
+8,Prod295,6/07/2024,Adelaide,Bernardo Vilhena/Da Gama/Lazao
+8,Prod301,6/07/2024,Adelaide,Fausto Nilo/Moraes Moreira/Pepeu Gomes
+1,Prod679,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod680,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod681,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod682,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod683,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod684,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod685,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod686,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod687,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod688,12/10/2021,Adelaide,J.C. Fogerty
+9,Prod311,6/07/2024,Adelaide,Cassiano Costa/Cintia Maviane/J.F./Lucas Costa
+9,Prod312,6/07/2024,Adelaide,Augusto Conceição/Chiclete Com Banana
+9,Prod313,6/07/2024,Adelaide,Cal Adan/Paulo Levi
+9,Prod314,6/07/2024,Adelaide,Paulo Levi/W. Rangel
+9,Prod315,6/07/2024,Adelaide,Jorge Cardoso/Pierre Onasis
+9,Prod316,6/07/2024,Adelaide,Fábio Nolasco/Gal Sales/Ivan Brasil
+9,Prod317,6/07/2024,Adelaide,"Garay, Ricardo Engels/Luca Predabom/Ludwig, Carlos Henrique/Maurício Vieira"
+9,Prod318,6/07/2024,Adelaide,Luiz Wanderley/Paulo Levi
+9,Prod319,6/07/2024,Adelaide,"Do Vale, Valverde/Gal Oliveira/Luciano Pinto"
+9,Prod320,6/07/2024,Adelaide,Cal Adan/Ferrugem/Julinho Carioca/Tríona Ní Dhomhnaill
+9,Prod321,6/07/2024,Adelaide,Lucina/Luli
+9,Prod322,6/07/2024,Adelaide,"Cal Adan/Del Rey, Tension/Edu Casanova"
+9,Prod323,6/07/2024,Adelaide,Jauperi/Zeu Góes
+9,Prod324,6/07/2024,Adelaide,Adriano Bernandes/Edmar Neves
+1,Prod689,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod690,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod691,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod692,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod693,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod694,12/10/2021,Adelaide,J.C. Fogerty
+1,Prod725,12/10/2021,Adelaide,Bolin/Coverdale/Paice
+1,Prod726,12/10/2021,Adelaide,Cook/Coverdale
+1,Prod727,12/10/2021,Adelaide,Bolin/Hughes
+1,Prod728,12/10/2021,Adelaide,Bolin/Coverdale
+1,Prod729,12/10/2021,Adelaide,Bolin/Coverdale
+1,Prod730,12/10/2021,Adelaide,Bolin/Coverdale
+1,Prod731,12/10/2021,Adelaide,Bolin/Coverdale
+1,Prod732,12/10/2021,Adelaide,Bolin/Hughes/Lord
+1,Prod733,12/10/2021,Adelaide,Coverdale/Hughes
+1,Prod734,12/10/2021,Adelaide,"Blackmore, Gillan, Glover, Lord, Paice"
+1,Prod735,12/10/2021,Adelaide,"Blackmore, Gillan, Glover, Lord, Paice"
+1,Prod736,12/10/2021,Adelaide,"Blackmore, Gillan, Glover, Lord, Paice"
+1,Prod737,12/10/2021,Adelaide,"Blackmore, Gillan, Glover, Lord, Paice"
+1,Prod738,12/10/2021,Adelaide,"Blackmore, Gillan, Glover, Lord, Paice"
+1,Prod739,12/10/2021,Adelaide,"Blackmore, Gillan, Glover, Lord, Paice"
+1,Prod740,12/10/2021,Adelaide,"Blackmore, Gillan, Glover, Lord, Paice"
+1,Prod741,12/10/2021,Adelaide,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice"
+10,Prod348,6/07/2024,Adelaide,
+10,Prod349,6/07/2024,Adelaide,
+10,Prod350,6/07/2024,Adelaide,
+10,Prod351,6/07/2024,Adelaide,
+10,Prod352,6/07/2024,Adelaide,
+10,Prod353,6/07/2024,Adelaide,
+10,Prod354,6/07/2024,Adelaide,
+10,Prod355,6/07/2024,Adelaide,
+10,Prod356,6/07/2024,Adelaide,
+10,Prod357,6/07/2024,Adelaide,
+10,Prod358,6/07/2024,Adelaide,
+10,Prod359,6/07/2024,Adelaide,
+10,Prod360,6/07/2024,Adelaide,
+10,Prod361,6/07/2024,Adelaide,
+1,Prod742,12/10/2021,Adelaide,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice"
+1,Prod743,12/10/2021,Adelaide,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice"
+1,Prod744,12/10/2021,Adelaide,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice"
+1,Prod745,12/10/2021,Adelaide,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice"
+1,Prod746,12/10/2021,Adelaide,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice"
+1,Prod747,12/10/2021,Adelaide,"Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, Ian Paice"
+1,Prod748,12/10/2021,Adelaide,"Richie Blackmore, Ian Gillian, Roger Glover"
+1,Prod749,12/10/2021,Adelaide,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord"
+1,Prod750,12/10/2021,Adelaide,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice"
+1,Prod751,12/10/2021,Adelaide,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice"
+1,Prod752,12/10/2021,Adelaide,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice"
+1,Prod753,12/10/2021,Adelaide,"Richie Blackmore, Ian Gillian, Roger Glover"
+1,Prod754,12/10/2021,Adelaide,"Richie Blackmore, Ian Gillian, Roger Glover, Ian Paice"
+1,Prod755,12/10/2021,Adelaide,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord"
+1,Prod756,12/10/2021,Adelaide,South
+1,Prod530,12/10/2021,Adelaide,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice"
+1,Prod757,12/10/2021,Adelaide,"Richie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice"
+1,Prod758,12/10/2021,Adelaide,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover
+1,Prod759,12/10/2021,Adelaide,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover
+1,Prod760,12/10/2021,Adelaide,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover
+1,Prod761,12/10/2021,Adelaide,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover
+1,Prod530,12/10/2021,Adelaide,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover
+1,Prod762,12/10/2021,Adelaide,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover
+1,Prod601,12/10/2021,Adelaide,Ian Gillan/Ian Paice/Jon Lord/Ritchie Blckmore/Roger Glover
+1,Prod763,12/10/2021,Adelaide,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice"
+1,Prod764,12/10/2021,Adelaide,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice"
+1,Prod765,12/10/2021,Adelaide,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice"
+1,Prod766,12/10/2021,Adelaide,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice"
+1,Prod767,12/10/2021,Adelaide,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice"
+1,Prod768,12/10/2021,Adelaide,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice"
+1,Prod769,12/10/2021,Adelaide,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice"
+1,Prod770,12/10/2021,Adelaide,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice"
+1,Prod771,12/10/2021,Adelaide,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice"
+1,Prod772,12/10/2021,Adelaide,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice"
+1,Prod773,12/10/2021,Adelaide,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice"
+1,Prod774,12/10/2021,Adelaide,"Ian Gillan, Roger Glover, Jon Lord, Steve Morse, Ian Paice"
+1,Prod775,12/10/2021,Adelaide,"Blackmore, Glover, Turner"
+1,Prod776,12/10/2021,Adelaide,"Blackmore, Glover, Turner, Lord, Paice"
+1,Prod777,12/10/2021,Adelaide,"Blackmore, Glover, Turner, Lord, Paice"
+1,Prod778,12/10/2021,Adelaide,"Blackmore, Glover, Turner"
+1,Prod779,12/10/2021,Adelaide,"Blackmore, Glover, Turner"
+1,Prod780,12/10/2021,Adelaide,"Blackmore, Glover, Turner"
+1,Prod781,12/10/2021,Adelaide,"Blackmore, Glover, Turner, Lord, Paice"
+1,Prod782,12/10/2021,Adelaide,"Turner, Held, Greenwood"
+1,Prod783,12/10/2021,Adelaide,"Blackmore, Glover, Turner, Lord, Paice"
+1,Prod526,12/10/2021,Adelaide,D.Coverdale/R.Blackmore/Ritchie Blackmore
+1,Prod784,12/10/2021,Adelaide,D.Coverdale/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord/R.Blackmore/Ritchie Blackmore
+1,Prod785,12/10/2021,Adelaide,D.Coverdale/G.Hughes/Glenn Hughes/J.Lord/John Lord
+1,Prod786,12/10/2021,Adelaide,D.Coverdal/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord
+1,Prod528,12/10/2021,Adelaide,D.Coverdale/R.Blackmore/Ritchie Blackmore
+1,Prod787,12/10/2021,Adelaide,D.Coverdale/G.Hughes/Glenn Hughes/R.Blackmore/Ritchie Blackmore
+1,Prod788,12/10/2021,Adelaide,D.Coverdale/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord/R.Blackmore/Ritchie Blackmore
+1,Prod789,12/10/2021,Adelaide,D.Coverdale/G.Hughes/Glenn Hughes/I.Paice/Ian Paice/J.Lord/John Lord/R.Blackmore/Ritchie Blackmore
+1,Prod790,12/10/2021,Adelaide,D.Coverdale/R.Blackmore/Ritchie Blackmore
+1,Prod791,12/10/2021,Adelaide,ian paice/jon lord
+1,Prod792,12/10/2021,Adelaide,roger glover
+1,Prod793,12/10/2021,Adelaide,jon lord/roger glover
+1,Prod794,12/10/2021,Adelaide,roger glover
+1,Prod795,12/10/2021,Adelaide,roger glover
+1,Prod796,12/10/2021,Adelaide,roger glover
+1,Prod797,12/10/2021,Adelaide,roger glover
+1,Prod798,12/10/2021,Adelaide,jon lord/roger glover
+1,Prod799,12/10/2021,Adelaide,roger glover
+1,Prod800,12/10/2021,Adelaide,roger glover
+1,Prod801,12/10/2021,Adelaide,
+1,Prod802,12/10/2021,Adelaide,
+1,Prod803,12/10/2021,Adelaide,
+1,Prod804,12/10/2021,Adelaide,
+1,Prod805,12/10/2021,Adelaide,
+1,Prod806,12/10/2021,Adelaide,
+1,Prod807,12/10/2021,Adelaide,
+1,Prod808,12/10/2021,Adelaide,
+1,Prod809,12/10/2021,Adelaide,
+1,Prod810,12/10/2021,Adelaide,
+1,Prod811,12/10/2021,Adelaide,
+1,Prod812,12/10/2021,Adelaide,
+1,Prod813,12/10/2021,Adelaide,
+1,Prod814,12/10/2021,Adelaide,
+1,Prod815,12/10/2021,Adelaide,
+1,Prod816,12/10/2021,Adelaide,
+2,Prod817,12/10/2021,Adelaide,Jim Beard
+2,Prod818,12/10/2021,Adelaide,"John Scofield, Robert Aries, Milton Chambers and Gary Grainger"
+2,Prod819,12/10/2021,Adelaide,Jim Beard
+2,Prod820,12/10/2021,Adelaide,Jon Herington
+2,Prod821,12/10/2021,Adelaide,Sylvester Stewart
+2,Prod822,12/10/2021,Adelaide,"Dean Brown, Dennis Chambers & Jim Beard"
+2,Prod823,12/10/2021,Adelaide,Jim Beard & Jon Herington
+2,Prod824,12/10/2021,Adelaide,John Scofield
+2,Prod825,12/10/2021,Adelaide,James Brown & Bobby Byrd
+1,Prod920,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton"
+1,Prod921,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton"
+1,Prod922,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton, Trey Spruance"
+1,Prod923,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton"
+1,Prod924,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton"
+1,Prod925,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton, Trey Spruance"
+1,Prod926,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton, Trey Spruance"
+1,Prod927,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton"
+1,Prod928,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton"
+1,Prod929,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton, Trey Spruance"
+1,Prod930,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton, Trey Spruance"
+1,Prod931,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton"
+1,Prod932,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton"
+1,Prod933,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton"
+1,Prod934,12/10/2021,Adelaide,"Mike Bordin, Billy Gould, Mike Patton"
+1,Prod960,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett"
+1,Prod961,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett"
+1,Prod962,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett"
+1,Prod963,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett"
+1,Prod964,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett"
+1,Prod965,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett"
+1,Prod966,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett"
+1,Prod967,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett"
+1,Prod968,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett"
+1,Prod969,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett"
+1,Prod970,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS"
+1,Prod971,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS"
+1,Prod972,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS"
+1,Prod973,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS"
+1,Prod974,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS"
+1,Prod975,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS"
+1,Prod976,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS"
+1,Prod977,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS"
+1,Prod978,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS"
+1,Prod979,12/10/2021,Adelaide,"Dave Grohl, Taylor Hawkins, Nate Mendel, Chris Shiflett/FOO FIGHTERS"
+1,Prod991,12/10/2021,Adelaide,"Dave, Taylor, Nate, Chris"
+1,Prod992,12/10/2021,Adelaide,"Dave, Taylor, Nate, Chris"
+1,Prod993,12/10/2021,Adelaide,"Dave, Taylor, Nate, Chris"
+1,Prod994,12/10/2021,Adelaide,"Dave, Taylor, Nate, Chris"
+1,Prod995,12/10/2021,Adelaide,"Dave, Taylor, Nate, Chris"
+1,Prod996,12/10/2021,Adelaide,"Dave, Taylor, Nate, Chris"
+1,Prod997,12/10/2021,Adelaide,"Dave, Taylor, Nate, Chris"
+1,Prod998,12/10/2021,Adelaide,"Dave, Taylor, Nate, Chris"
+1,Prod999,12/10/2021,Adelaide,Dave Grohl
+1,Prod1000,12/10/2021,Adelaide,"Dave, Taylor, Nate, Chris"
+1,Prod1001,12/10/2021,Adelaide,Dave Grohl
+1,Prod1002,12/10/2021,Adelaide,Dave Grohl
+1,Prod1003,12/10/2021,Adelaide,"Dave, Taylor, Nate, Chris"
+2,Prod1073,12/10/2021,Adelaide,
+2,Prod1074,12/10/2021,Adelaide,
+2,Prod1075,12/10/2021,Adelaide,
+1,Prod1113,12/10/2021,Melbourne,
+1,Prod1114,12/10/2021,Melbourne,
+1,Prod1115,12/10/2021,Melbourne,
+1,Prod1116,12/10/2021,Melbourne,
+1,Prod1117,12/10/2021,Melbourne,
+1,Prod1118,12/10/2021,Melbourne,
+1,Prod1119,12/10/2021,Melbourne,
+1,Prod1120,12/10/2021,Melbourne,
+1,Prod1121,12/10/2021,Melbourne,
+1,Prod1122,12/10/2021,Melbourne,
+1,Prod1123,12/10/2021,Melbourne,
+1,Prod1124,12/10/2021,Melbourne,
+1,Prod1125,12/10/2021,Melbourne,
+1,Prod1126,12/10/2021,Melbourne,
+1,Prod1127,12/10/2021,Melbourne,
+1,Prod1128,12/10/2021,Melbourne,
+1,Prod1129,12/10/2021,Melbourne,
+1,Prod1130,12/10/2021,Melbourne,
+1,Prod1131,12/10/2021,Melbourne,
+1,Prod1132,12/10/2021,Melbourne,
+1,Prod1133,12/10/2021,Melbourne,
+1,Prod1134,12/10/2021,Melbourne,
+1,Prod1135,12/10/2021,Melbourne,
+1,Prod1136,12/10/2021,Melbourne,
+1,Prod1137,12/10/2021,Melbourne,
+1,Prod1138,12/10/2021,Melbourne,
+1,Prod1139,12/10/2021,Melbourne,
+1,Prod1140,12/10/2021,Melbourne,
+2,Prod1155,12/10/2021,Adelaide,Richard Bull
+2,Prod1156,12/10/2021,Adelaide,R. Carless
+2,Prod1157,12/10/2021,Adelaide,Patrick Claher/Richard Bull
+2,Prod1158,12/10/2021,Adelaide,Richard Bull
+2,Prod1159,12/10/2021,Adelaide,Kevin Robinson/Richard Bull
+2,Prod527,12/10/2021,Adelaide,Kevin Robinson
+2,Prod1160,12/10/2021,Adelaide,Jean Paul Maunick
+2,Prod1161,12/10/2021,Adelaide,Graham Harvey
+2,Prod1162,12/10/2021,Adelaide,Maxton Gig Beesley Jnr.
+2,Prod1163,12/10/2021,Adelaide,Fayyaz Virgi/Richard Bull
+2,Prod1164,12/10/2021,Adelaide,Julian Crampton
+2,Prod1165,12/10/2021,Adelaide,G Harvey/R Hope-Taylor
+2,Prod1166,12/10/2021,Adelaide,Jean Paul Maunick
+1,Prod1167,12/10/2021,Melbourne,
+1,Prod1168,12/10/2021,Melbourne,
+1,Prod1169,12/10/2021,Melbourne,
+1,Prod1170,12/10/2021,Melbourne,
+1,Prod1171,12/10/2021,Melbourne,
+1,Prod1172,12/10/2021,Melbourne,
+1,Prod1173,12/10/2021,Melbourne,
+1,Prod1174,12/10/2021,Melbourne,
+1,Prod1175,12/10/2021,Melbourne,
+1,Prod1176,12/10/2021,Melbourne,
+1,Prod1177,12/10/2021,Melbourne,
+1,Prod1201,12/10/2021,Adelaide,Adrian Smith/Bruce Dickinson/Steve Harris
+1,Prod1202,12/10/2021,Adelaide,Bruce Dickinson/Janick Gers/Steve Harris
+1,Prod1203,12/10/2021,Adelaide,Bruce Dickinson/David Murray/Steve Harris
+1,Prod1204,12/10/2021,Adelaide,Steve Harris
+1,Prod1205,12/10/2021,Adelaide,Janick Gers/Steve Harris
+1,Prod1206,12/10/2021,Adelaide,Janick Gers/Steve Harris
+1,Prod1207,12/10/2021,Adelaide,Adrian Smith/Steve Harris
+1,Prod1208,12/10/2021,Adelaide,David Murray/Steve Harris
+1,Prod1209,12/10/2021,Adelaide,Bruce Dickinson/Janick Gers/Steve Harris
+1,Prod1210,12/10/2021,Adelaide,David Murray/Steve Harris
+1,Prod1190,12/10/2021,Adelaide,Bruce Dickinson/Janick Gers
+1,Prod1191,12/10/2021,Adelaide,Steve Harris
+1,Prod1196,12/10/2021,Adelaide,Steve Harris
+1,Prod1222,12/10/2021,Adelaide,Bruce Dickinson/Janick Gers
+1,Prod1223,12/10/2021,Adelaide,Steve Harris
+1,Prod1193,12/10/2021,Adelaide,Bruce Dickinson/Janick Gers
+1,Prod1224,12/10/2021,Adelaide,Steve Harris
+1,Prod1225,12/10/2021,Adelaide,Bruce Dickinson/David Murray
+1,Prod1226,12/10/2021,Adelaide,Janick Gers/Steve Harris
+1,Prod1227,12/10/2021,Adelaide,Bruce Dickinson/David Murray
+1,Prod1228,12/10/2021,Adelaide,Janick Gers/Steve Harris
+1,Prod1200,12/10/2021,Adelaide,Steve Harris
+1,Prod1190,12/10/2021,Adelaide,
+1,Prod1178,12/10/2021,Adelaide,
+1,Prod1239,12/10/2021,Adelaide,
+1,Prod1191,12/10/2021,Adelaide,
+1,Prod1192,12/10/2021,Adelaide,
+1,Prod1193,12/10/2021,Adelaide,
+1,Prod1194,12/10/2021,Adelaide,
+1,Prod1195,12/10/2021,Adelaide,
+1,Prod1196,12/10/2021,Adelaide,
+1,Prod1200,12/10/2021,Adelaide,
+1,Prod1258,12/10/2021,Adelaide,
+1,Prod1199,12/10/2021,Adelaide,
+1,Prod1198,12/10/2021,Adelaide,
+1,Prod1253,12/10/2021,Adelaide,
+1,Prod1187,12/10/2021,Adelaide,Adrian Smith/Bruce Dickinson
+1,Prod1188,12/10/2021,Adelaide,
+1,Prod1189,12/10/2021,Adelaide,
+1,Prod1179,12/10/2021,Adelaide,
+1,Prod1184,12/10/2021,Adelaide,
+1,Prod1185,12/10/2021,Adelaide,
+1,Prod1206,12/10/2021,Adelaide,Janick Gers/Steve Harris
+1,Prod1279,12/10/2021,Adelaide,Steve Harris
+1,Prod1200,12/10/2021,Adelaide,Steve Harris
+1,Prod1188,12/10/2021,Adelaide,Steve Harris
+1,Prod1178,12/10/2021,Adelaide,Steve Harris
+1,Prod1189,12/10/2021,Adelaide,Steve Harris
+1,Prod1184,12/10/2021,Adelaide,David Murray/Paul Di'Anno/Steve Harris
+1,Prod1253,12/10/2021,Adelaide,Steve Harris
+1,Prod1178,12/10/2021,Adelaide,Steve Harris
+1,Prod1278,12/10/2021,Adelaide,Steve Harris
+1,Prod1296,12/10/2021,Adelaide,Janick Gers/Steve Harris
+1,Prod1297,12/10/2021,Adelaide,Blaze Bayley/Janick Gers
+1,Prod1298,12/10/2021,Adelaide,Steve Harris
+1,Prod1299,12/10/2021,Adelaide,Blaze Bayley/Janick Gers/Steve Harris
+1,Prod1300,12/10/2021,Adelaide,Blaze Bayley/Janick Gers/Steve Harris
+1,Prod1301,12/10/2021,Adelaide,Steve Harris
+1,Prod1302,12/10/2021,Adelaide,Steve Harris
+1,Prod1303,12/10/2021,Adelaide,Blaze Bayley/Janick Gers/Steve Harris
+1,Prod1304,12/10/2021,Adelaide,Blaze Bayley/Janick Gers/Steve Harris
+1,Prod1305,12/10/2021,Adelaide,Janick Gers/Steve Harris
+1,Prod1306,12/10/2021,Adelaide,Blaze Bayley/Steve Harris
+1,Prod1307,12/10/2021,Adelaide,Steve Harris
+1,Prod1308,12/10/2021,Adelaide,David Murray/Steve Harris
+1,Prod1279,12/10/2021,Adelaide,Steve Harris
+1,Prod1309,12/10/2021,Adelaide,Blaze Bayley/David Murray/Steve Harris
+1,Prod1310,12/10/2021,Adelaide,Steve Harris
+1,Prod1311,12/10/2021,Adelaide,Steve Harris
+1,Prod1312,12/10/2021,Adelaide,Blaze Bayley/Janick Gers
+1,Prod1333,12/10/2021,Adelaide,"Jay Kay/Kay, Jay"
+1,Prod1334,12/10/2021,Adelaide,"Smith, Toby"
+1,Prod1335,12/10/2021,Adelaide,"Smith, Toby"
+1,Prod1336,12/10/2021,Adelaide,"Gelder, Nick van"
+1,Prod1337,12/10/2021,Adelaide,"Smith, Toby"
+1,Prod1338,12/10/2021,Adelaide,"Smith, Toby"
+1,Prod1339,12/10/2021,Adelaide,"Jay Kay/Kay, Jay"
+1,Prod1340,12/10/2021,Adelaide,"Smith, Toby"
+1,Prod1341,12/10/2021,Adelaide,"Smith, Toby"
+1,Prod1342,12/10/2021,Adelaide,"Buchanan, Wallis"
+11,Prod627,11/09/2024,Adelaide,
+11,Prod628,11/09/2024,Adelaide,
+11,Prod629,11/09/2024,Adelaide,
+11,Prod630,11/09/2024,Adelaide,
+11,Prod631,11/09/2024,Adelaide,
+11,Prod632,11/09/2024,Adelaide,
+11,Prod633,11/09/2024,Adelaide,
+11,Prod634,11/09/2024,Adelaide,
+11,Prod635,11/09/2024,Adelaide,
+11,Prod636,11/09/2024,Adelaide,
+11,Prod637,11/09/2024,Adelaide,
+11,Prod638,11/09/2024,Adelaide,
+11,Prod639,11/09/2024,Adelaide,
+11,Prod640,11/09/2024,Adelaide,
+11,Prod641,11/09/2024,Adelaide,
+1,Prod1377,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1378,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1379,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1380,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1381,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1382,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1383,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1384,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1385,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1386,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1387,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1388,12/10/2021,Adelaide,Billy Roberts
+1,Prod1389,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1390,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1391,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1392,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1393,12/10/2021,Adelaide,Jimi Hendrix
+1,Prod1394,12/10/2021,Melbourne,
+1,Prod1395,12/10/2021,Melbourne,
+1,Prod1396,12/10/2021,Melbourne,
+1,Prod1397,12/10/2021,Melbourne,
+1,Prod1398,12/10/2021,Melbourne,
+1,Prod1399,12/10/2021,Melbourne,J. Satriani
+1,Prod1400,12/10/2021,Melbourne,
+1,Prod1401,12/10/2021,Melbourne,J. Satriani
+1,Prod446,12/10/2021,Melbourne,J. Satriani
+1,Prod1402,12/10/2021,Melbourne,J. Satriani
+1,Prod725,12/10/2021,Adelaide,"Paul Stanley, Ace Frehley"
+1,Prod441,12/10/2021,Adelaide,Gene Simmons
+1,Prod429,12/10/2021,Adelaide,"Gene Simmons, Stephen Coronel"
+1,Prod431,12/10/2021,Adelaide,"Paul Stanley, Bob Ezrin, Kim Fowley"
+1,Prod1459,12/10/2021,Adelaide,Gene Simmons
+1,Prod426,12/10/2021,Adelaide,"Paul Stanley, Vincent Poncia"
+1,Prod1460,12/10/2021,Adelaide,"Paul Stanley, Gene Simmons, Bob Ezrin, Lewis Reed"
+1,Prod1461,12/10/2021,Adelaide,"Paul Stanley, Ace Frehley"
+1,Prod1462,12/10/2021,Adelaide,Gene Simmons
+1,Prod1463,12/10/2021,Adelaide,Paul Stanley
+1,Prod1464,12/10/2021,Adelaide,"Paul Stanley, Vincent Cusano"
+1,Prod1465,12/10/2021,Adelaide,"Mick Jagger, Keith Richard"
+1,Prod437,12/10/2021,Adelaide,"Peter Criss, Stan Penridge, Bob Ezrin"
+1,Prod1466,12/10/2021,Adelaide,Gene Simmons
+1,Prod439,12/10/2021,Adelaide,"Paul Stanley, Gene Simmons"
+1,Prod1467,12/10/2021,Adelaide,Robert Plant
+1,Prod1468,12/10/2021,Adelaide,John Bonham/John Paul Jones/Robert Plant
+1,Prod1469,12/10/2021,Adelaide,John Paul Jones/Robert Plant
+1,Prod1470,12/10/2021,Adelaide,John Paul Jones/Robert Plant
+1,Prod328,12/10/2021,Adelaide,Jimmy Page/Led Zeppelin
+1,Prod1471,12/10/2021,Adelaide,Robert Plant
+1,Prod1472,12/10/2021,Adelaide,Robert Plant
+1,Prod1473,12/10/2021,Adelaide,Robert Plant
+1,Prod1474,12/10/2021,Adelaide,Arthur Crudup/Bernard Besman/Bukka White/Doc Pomus/John Bonham/John Lee Hooker/John Paul Jones/Mort Shuman/Robert Plant/Willie Dixon
+1,Prod1475,12/10/2021,Adelaide,Robert Plant
+1,Prod1476,12/10/2021,Adelaide,Ben E.King/James Bethea
+1,Prod1477,12/10/2021,Adelaide,Jimmy Page/Robert Plant
+1,Prod326,12/10/2021,Adelaide,Willie Dixon
+1,Prod1478,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1479,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1480,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, John Bonham, John Paul Jones"
+1,Prod1481,12/10/2021,Adelaide,John Bonham
+1,Prod1482,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1483,12/10/2021,Adelaide,Jimmy Page/Jimmy Page & Robert Plant/Robert Plant
+1,Prod1484,12/10/2021,Adelaide,Jimmy Page/Jimmy Page & Robert Plant/Robert Plant
+1,Prod1485,12/10/2021,Adelaide,Jimmy Page/Jimmy Page & Robert Plant/Robert Plant
+1,Prod1486,12/10/2021,Adelaide,John Bonham/John Paul Jones
+1,Prod1487,12/10/2021,Adelaide,Jimmy Page/Jimmy Page & Robert Plant/Robert Plant
+1,Prod1488,12/10/2021,Adelaide,John Bonham/John Paul Jones
+1,Prod1489,12/10/2021,Adelaide,John Paul Jones
+1,Prod1490,12/10/2021,Adelaide,John Bonham/John Paul Jones
+1,Prod1491,12/10/2021,Adelaide,"Jimmy Page, Robert Plant & John Paul Jones"
+1,Prod1492,12/10/2021,Adelaide,John Paul Jones & Robert Plant
+1,Prod1493,12/10/2021,Adelaide,"Jimmy Page, Robert Plant & John Paul Jones"
+1,Prod1494,12/10/2021,Adelaide,Jimmy Page & Robert Plant
+1,Prod1495,12/10/2021,Adelaide,"John Paul Jones, Jimmy Page & Robert Plant"
+1,Prod1496,12/10/2021,Adelaide,Robert Plant & John Paul Jones
+1,Prod1497,12/10/2021,Adelaide,"Jimmy Page, Robert Plant & John Paul Jones"
+1,Prod1470,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, John Paul Jones"
+1,Prod1498,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, John Paul Jones, John Bonham"
+1,Prod1499,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1471,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1500,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, John Paul Jones"
+1,Prod1501,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1472,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1502,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, John Paul Jones, John Bonham, Memphis Minnie"
+1,Prod1503,12/10/2021,Adelaide,Jimmy Page/John Bonham/John Paul Jones
+1,Prod1504,12/10/2021,Adelaide,Jimmy Page/Robert Plant
+1,Prod325,12/10/2021,Adelaide,J. B. Lenoir/Willie Dixon
+1,Prod328,12/10/2021,Adelaide,Jimmy Page
+1,Prod1505,12/10/2021,Adelaide,Jimmy Page/John Paul Jones
+1,Prod1506,12/10/2021,Adelaide,Jimmy Page
+1,Prod327,12/10/2021,Adelaide,Jimmy Page/John Bonham/John Paul Jones
+1,Prod326,12/10/2021,Adelaide,Willie Dixon
+1,Prod338,12/10/2021,Adelaide,Jimmy Page/John Bonham/John Paul Jones
+1,Prod333,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, John Paul Jones, John Bonham"
+1,Prod1507,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1508,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, John Paul Jones, John Bonham"
+1,Prod1475,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1468,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, John Paul Jones, John Bonham"
+1,Prod1509,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1510,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1511,12/10/2021,Adelaide,"John Bonham, John Paul Jones, Jimmy Page"
+1,Prod1512,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1467,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1513,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1514,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, John Paul Jones"
+1,Prod1469,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, John Paul Jones"
+1,Prod1515,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, John Bonham"
+1,Prod1516,12/10/2021,Adelaide,Traditional
+1,Prod1517,12/10/2021,Adelaide,Jimmy Page
+1,Prod1473,12/10/2021,Adelaide,"Jimmy Page, Robert Plant"
+1,Prod1518,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, John Paul Jones"
+1,Prod1519,12/10/2021,Adelaide,Traditional
+1,Prod1520,12/10/2021,Adelaide,John Paul Jones/Robert Plant
+1,Prod1521,12/10/2021,Adelaide,Jimmy Page
+1,Prod1522,12/10/2021,Adelaide,Robert Plant
+1,Prod1523,12/10/2021,Adelaide,Robert Plant
+1,Prod1524,12/10/2021,Adelaide,John Paul Jones/Robert Plant
+1,Prod1525,12/10/2021,Adelaide,Robert Plant
+1,Prod1526,12/10/2021,Adelaide,Ian Stewart/John Bonham/John Paul Jones/Mrs. Valens/Robert Plant
+1,Prod1527,12/10/2021,Adelaide,Robert Plant
+1,Prod1528,12/10/2021,Adelaide,Robert Plant
+1,Prod1529,12/10/2021,Adelaide,Jimmy Page/Robert Plant
+1,Prod1530,12/10/2021,Adelaide,Jimmy Page/Robert Plant
+1,Prod1531,12/10/2021,Adelaide,John Bonham/John Paul Jones
+1,Prod1532,12/10/2021,Adelaide,Jimmy Page/Robert Plant
+1,Prod1533,12/10/2021,Adelaide,Jimmy Page/Robert Plant
+1,Prod1534,12/10/2021,Adelaide,Jimmy Page/Robert Plant
+1,Prod1535,12/10/2021,Adelaide,Jimmy Page/Robert Plant
+1,Prod1498,12/10/2021,Adelaide,John Bonham/John Paul Jones/Robert Plant
+1,Prod1514,12/10/2021,Adelaide,John Paul Jones/Robert Plant
+1,Prod1483,12/10/2021,Adelaide,Robert Plant
+1,Prod1536,12/10/2021,Adelaide,Robert Plant
+1,Prod328,12/10/2021,Adelaide,Jimmy Page
+1,Prod1489,12/10/2021,Adelaide,John Paul Jones/Robert Plant
+1,Prod1471,12/10/2021,Adelaide,Robert Plant
+1,Prod1511,12/10/2021,Adelaide,John Bonham/John Paul Jones
+1,Prod333,12/10/2021,Adelaide,John Bonham/John Paul Jones/Robert Plant/Willie Dixon
+1,Prod1567,12/10/2021,Adelaide,Craig Ross/Lenny Kravitz
+1,Prod1568,12/10/2021,Adelaide,Lenny Kravitz
+1,Prod1569,12/10/2021,Adelaide,Lenny Kravitz
+1,Prod1570,12/10/2021,Adelaide,Lenny Kravitz
+1,Prod1571,12/10/2021,Adelaide,Lenny Kravitz
+1,Prod1572,12/10/2021,Adelaide,Lenny Kravitz
+1,Prod1573,12/10/2021,Adelaide,Lenny Kravitz
+1,Prod1574,12/10/2021,Adelaide,B. Cummings/G. Peterson/M.J. Kale/R. Bachman
+1,Prod1575,12/10/2021,Adelaide,Henry Kirssch/Lenny Kravitz/S. Pasch A. Krizan
+1,Prod1576,12/10/2021,Adelaide,Lenny Kravitz/Slash
+1,Prod1577,12/10/2021,Adelaide,Gerry DeVeaux/Terry Britten
+1,Prod1578,12/10/2021,Adelaide,Lenny Kravitz
+1,Prod450,12/10/2021,Adelaide,Henry Hirsch/Lenny Kravitz
+1,Prod1579,12/10/2021,Adelaide,Lenny Kravitz
+1,Prod1580,12/10/2021,Adelaide,Lenny Kravitz
+1,Prod1609,12/10/2021,Adelaide,"Kelly, Mosley, Rothery, Trewaves"
+1,Prod1610,12/10/2021,Adelaide,"Kelly, Mosley, Rothery, Trewaves"
+1,Prod1611,12/10/2021,Adelaide,"Kelly, Mosley, Rothery, Trewaves"
+1,Prod1612,12/10/2021,Adelaide,"Kelly, Mosley, Rothery, Trewaves"
+1,Prod1613,12/10/2021,Adelaide,"Kelly, Mosley, Rothery, Trewaves"
+1,Prod1614,12/10/2021,Adelaide,"Kelly, Mosley, Rothery, Trewaves"
+1,Prod1615,12/10/2021,Adelaide,"Kelly, Mosley, Rothery, Trewaves"
+1,Prod1616,12/10/2021,Adelaide,"Kelly, Mosley, Rothery, Trewaves"
+1,Prod1617,12/10/2021,Adelaide,"Kelly, Mosley, Rothery, Trewaves"
+1,Prod1618,12/10/2021,Adelaide,"Kelly, Mosley, Rothery, Trewaves"
+1,Prod1654,12/10/2021,Adelaide,
+1,Prod1655,12/10/2021,Adelaide,
+1,Prod1656,12/10/2021,Adelaide,
+1,Prod1657,12/10/2021,Adelaide,
+1,Prod1658,12/10/2021,Adelaide,
+1,Prod1659,12/10/2021,Adelaide,
+1,Prod1660,12/10/2021,Adelaide,
+1,Prod1661,12/10/2021,Adelaide,
+1,Prod1662,12/10/2021,Adelaide,
+1,Prod1663,12/10/2021,Adelaide,
+2,Prod1753,12/10/2021,Adelaide,J. Carisi
+2,Prod1754,12/10/2021,Adelaide,L. Delibes
+2,Prod1755,12/10/2021,Adelaide,Dave Brubeck
+2,Prod1756,12/10/2021,Adelaide,"Ira Gershwin, Kurt Weill"
+2,Prod1757,12/10/2021,Adelaide,"Miles Davis, Gil Evans"
+2,Prod1758,12/10/2021,Adelaide,Gil Evans
+2,Prod585,12/10/2021,Adelaide,A. Jamal
+2,Prod1759,12/10/2021,Adelaide,"R. Troup, L. Worth"
+2,Prod1760,12/10/2021,Adelaide,J.J. Johnson
+2,Prod1761,12/10/2021,Adelaide,"H. Spina, J. Elliott"
+2,Prod1762,12/10/2021,Adelaide,J. Carisi
+2,Prod1763,12/10/2021,Adelaide,Gil Evans
+2,Prod1764,12/10/2021,Adelaide,"J.J. Johnson/R. Troup, L. Worth"
+2,Prod1765,12/10/2021,Adelaide,"H. Spina, J. Elliott"
+1,Prod1277,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1834,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1835,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1836,12/10/2021,Adelaide,Nirvana
+1,Prod1837,12/10/2021,Adelaide,Nirvana
+1,Prod1838,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1839,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1840,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1841,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1842,12/10/2021,Adelaide,Nirvana
+1,Prod1843,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1844,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1845,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1846,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1847,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1848,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1849,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1837,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1850,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1851,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1847,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1839,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1846,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1852,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1835,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1853,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1854,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1855,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1856,12/10/2021,Adelaide,Kurt Cobain
+1,Prod1857,12/10/2021,Adelaide,
+1,Prod1858,12/10/2021,Adelaide,
+1,Prod1859,12/10/2021,Adelaide,
+1,Prod1860,12/10/2021,Adelaide,
+1,Prod1861,12/10/2021,Adelaide,
+1,Prod1862,12/10/2021,Adelaide,
+1,Prod1863,12/10/2021,Adelaide,
+1,Prod1864,12/10/2021,Adelaide,
+1,Prod1865,12/10/2021,Adelaide,
+1,Prod1866,12/10/2021,Adelaide,
+1,Prod1867,12/10/2021,Adelaide,
+1,Prod1868,12/10/2021,Adelaide,
+1,Prod1869,12/10/2021,Adelaide,
+1,Prod1870,12/10/2021,Adelaide,
+1,Prod1871,12/10/2021,Adelaide,
+1,Prod1928,12/10/2021,Melbourne,O. Osbourne
+1,Prod1929,12/10/2021,Melbourne,"B. Daisley, O. Osbourne & R. Rhoads"
+1,Prod1930,12/10/2021,Melbourne,"B. Daisley, O. Osbourne & R. Rhoads"
+1,Prod1931,12/10/2021,Melbourne,"L. Kerslake, O. Osbourne, R. Daisley & R. Rhoads"
+1,Prod1932,12/10/2021,Melbourne,"L. Kilmister, O. Osbourne & Z. Wylde"
+1,Prod142,12/10/2021,Melbourne,"J. Purdell, M. Inez, O. Osbourne, R. Castillo & Z. Wylde"
+1,Prod1944,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, Charlie Jones, Michael Lee"
+1,Prod1945,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, Charlie Jones, Michael Lee"
+1,Prod1946,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, Charlie Jones, Michael Lee"
+1,Prod1947,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, Charlie Jones, Michael Lee"
+1,Prod1948,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, Charlie Jones, Michael Lee"
+1,Prod1949,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, Charlie Jones, Michael Lee"
+1,Prod1950,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, Charlie Jones, Michael Lee"
+1,Prod1951,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, Charlie Jones, Michael Lee"
+1,Prod1952,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, Charlie Jones, Michael Lee"
+1,Prod1953,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, Charlie Jones, Michael Lee"
+1,Prod1954,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, Charlie Jones, Michael Lee"
+1,Prod1955,12/10/2021,Adelaide,"Jimmy Page, Robert Plant, Charlie Jones, Michael Lee"
+1,Prod1239,12/10/2021,Adelaide,Steve Harris
+1,Prod1244,12/10/2021,Adelaide,Paul Di'Anno/Steve Harris
+1,Prod1180,12/10/2021,Adelaide,Steve Harris
+1,Prod1240,12/10/2021,Adelaide,Steve Harris
+1,Prod1970,12/10/2021,Adelaide,Greg Macainsh
+1,Prod1182,12/10/2021,Adelaide,Paul Di'Anno/Steve Harris
+1,Prod1184,12/10/2021,Adelaide,David Murray/Paul Di'Anno/Steve Harris
+1,Prod1185,12/10/2021,Adelaide,Paul Di'Anno/Steve Harris
+1,Prod1257,12/10/2021,Adelaide,Steve Harris
+1,Prod1188,12/10/2021,Adelaide,Steve Harris
+1,Prod1971,12/10/2021,Adelaide,Pearl Jam & Eddie Vedder
+1,Prod1972,12/10/2021,Adelaide,Eddie Vedder & Mike McCready
+1,Prod1973,12/10/2021,Adelaide,Stone Gossard & Eddie Vedder & Jeff Ament & Mike McCready
+1,Prod1974,12/10/2021,Adelaide,Dave Abbruzzese & Jeff Ament & Stone Gossard & Mike McCready & Eddie Vedder
+1,Prod1975,12/10/2021,Adelaide,Dave Abbruzzese & Jeff Ament & Stone Gossard & Mike McCready & Eddie Vedder
+1,Prod1976,12/10/2021,Adelaide,Pearl Jam
+1,Prod1977,12/10/2021,Adelaide,Eddie Vedder
+1,Prod1978,12/10/2021,Adelaide,Dave Abbruzzese & Jeff Ament & Stone Gossard & Mike McCready & Eddie Vedder
+1,Prod1979,12/10/2021,Adelaide,Jeff Ament & Stone Gossard & Jack Irons & Mike McCready & Eddie Vedder
+1,Prod1980,12/10/2021,Adelaide,Stone Gossard & Eddie Vedder
+1,Prod1981,12/10/2021,Adelaide,Eddie Vedder
+1,Prod1982,12/10/2021,Adelaide,Jeff Ament & Eddie Vedder
+1,Prod1983,12/10/2021,Adelaide,Eddie Vedder & Stone Gossard
+1,Prod1984,12/10/2021,Adelaide,Eddie Vedder
+1,Prod1985,12/10/2021,Adelaide,Stone Gossard & Eddie Vedder
+1,Prod1986,12/10/2021,Adelaide,Neil Young
+1,Prod1999,12/10/2021,Adelaide,Eddie Vedder
+1,Prod2000,12/10/2021,Adelaide,Eddie Vedder/Jeff Ament/Matt Cameron/Mike McCready/Stone Gossard
+1,Prod2001,12/10/2021,Adelaide,Eddie Vedder
+1,Prod2002,12/10/2021,Adelaide,Matt Cameron
+1,Prod2003,12/10/2021,Adelaide,Jeff Ament
+1,Prod2004,12/10/2021,Adelaide,Eddie Vedder
+1,Prod2005,12/10/2021,Adelaide,Eddie Vedder
+1,Prod2006,12/10/2021,Adelaide,Matt Cameron
+1,Prod2007,12/10/2021,Adelaide,Matt Cameron
+1,Prod2008,12/10/2021,Adelaide,Eddie Vedder
+1,Prod2009,12/10/2021,Adelaide,Jeff Ament
+1,Prod2010,12/10/2021,Adelaide,Stone Gossard
+1,Prod2011,12/10/2021,Adelaide,Jeff Ament
+1,Prod2012,12/10/2021,Adelaide,Pearl Jam
+1,Prod2013,12/10/2021,Adelaide,Stone Gossard
+1,Prod2014,12/10/2021,Adelaide,Stone Gossard
+1,Prod2015,12/10/2021,Adelaide,Stone Gossard
+1,Prod2016,12/10/2021,Adelaide,Stone Gossard
+1,Prod2017,12/10/2021,Adelaide,Jeff Ament
+1,Prod1985,12/10/2021,Adelaide,Dave Krusen/Stone Gossard
+1,Prod2018,12/10/2021,Adelaide,Jeff Ament
+1,Prod2019,12/10/2021,Adelaide,Jeff Ament/Stone Gossard
+1,Prod2020,12/10/2021,Adelaide,Eddie Vedder
+1,Prod2021,12/10/2021,Adelaide,Jeff Ament/Stone Gossard
+1,Prod2022,12/10/2021,Adelaide,Jeff Ament/Stone Gossard
+1,Prod2023,12/10/2021,Adelaide,Jeff Ament/Mike McCready/Stone Gossard
+1,Prod1978,12/10/2021,Adelaide,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard
+1,Prod806,12/10/2021,Adelaide,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard
+1,Prod1974,12/10/2021,Adelaide,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard
+1,Prod2024,12/10/2021,Adelaide,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard
+1,Prod2025,12/10/2021,Adelaide,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard
+1,Prod2026,12/10/2021,Adelaide,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard
+1,Prod2027,12/10/2021,Adelaide,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard
+1,Prod2028,12/10/2021,Adelaide,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard
+1,Prod2029,12/10/2021,Adelaide,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard
+1,Prod1975,12/10/2021,Adelaide,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard
+1,Prod2030,12/10/2021,Adelaide,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard
+1,Prod2031,12/10/2021,Adelaide,Dave Abbruzzese/Eddie Vedder/Jeff Ament/Mike McCready/Stone Gossard
+1,Prod2044,12/10/2021,Adelaide,"Mason/Waters, Gilmour, Wright"
+1,Prod2045,12/10/2021,Adelaide,"Gilmour, Waters"
+1,Prod1857,12/10/2021,Adelaide,"Mason, Waters, Wright, Gilmour"
+1,Prod2046,12/10/2021,Adelaide,"Wright, Waters"
+1,Prod111,12/10/2021,Adelaide,Waters
+1,Prod2047,12/10/2021,Adelaide,"Waters, Wright"
+1,Prod2048,12/10/2021,Adelaide,"Gilmour, Mason, Wright, Waters"
+1,Prod2049,12/10/2021,Adelaide,Waters
+1,Prod2050,12/10/2021,Adelaide,Waters
+1,Prod2067,12/10/2021,Adelaide,"Mercury, Freddie"
+1,Prod2068,12/10/2021,Adelaide,"Deacon, John"
+1,Prod2069,12/10/2021,Adelaide,"Mercury, Freddie"
+1,Prod2070,12/10/2021,Adelaide,"May, Brian"
+1,Prod2071,12/10/2021,Adelaide,"Mercury, Freddie"
+1,Prod2072,12/10/2021,Adelaide,"Deacon, John"
+1,Prod2073,12/10/2021,Adelaide,"Mercury, Freddie"
+1,Prod2074,12/10/2021,Adelaide,"May, Brian"
+1,Prod2075,12/10/2021,Adelaide,"Mercury, Freddie"
+1,Prod2076,12/10/2021,Adelaide,"Mercury, Freddie"
+1,Prod2077,12/10/2021,Adelaide,"May, Brian"
+1,Prod2078,12/10/2021,Adelaide,"Mercury, Freddie"
+1,Prod2079,12/10/2021,Adelaide,"Mercury, Freddie"
+1,Prod2080,12/10/2021,Adelaide,"May, Brian"
+1,Prod2081,12/10/2021,Adelaide,"Mercury, Freddie"
+1,Prod2082,12/10/2021,Adelaide,"Deacon, John/May, Brian"
+1,Prod2083,12/10/2021,Adelaide,"Mercury, Freddie"
+1,Prod2082,12/10/2021,Adelaide,May
+1,Prod2083,12/10/2021,Adelaide,Mercury
+1,Prod2084,12/10/2021,Adelaide,Taylor
+1,Prod2085,12/10/2021,Adelaide,May
+1,Prod2086,12/10/2021,Adelaide,Deacon
+1,Prod2087,12/10/2021,Adelaide,Taylor
+1,Prod2088,12/10/2021,Adelaide,Mercury
+1,Prod2089,12/10/2021,Adelaide,May
+1,Prod2090,12/10/2021,Adelaide,Deacon
+1,Prod2091,12/10/2021,Adelaide,May
+1,Prod2092,12/10/2021,Adelaide,Mercury
+1,Prod2105,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2106,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2107,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2108,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2109,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2110,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2111,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2112,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2113,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2114,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2115,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2116,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2117,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2118,12/10/2021,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+1,Prod2152,12/10/2021,Adelaide,
+1,Prod2153,12/10/2021,Adelaide,
+1,Prod2154,12/10/2021,Adelaide,
+1,Prod2155,12/10/2021,Adelaide,
+1,Prod2156,12/10/2021,Adelaide,
+1,Prod2157,12/10/2021,Adelaide,
+1,Prod2158,12/10/2021,Adelaide,
+1,Prod2159,12/10/2021,Adelaide,
+1,Prod2160,12/10/2021,Adelaide,
+1,Prod2161,12/10/2021,Adelaide,
+12,Prod1004,11/09/2024,Adelaide,claude françois/gilles thibault/jacques revaux/paul anka
+12,Prod1005,11/09/2024,Adelaide,berthold kaempfert/charles singleton/eddie snyder
+12,Prod1006,11/09/2024,Adelaide,fred ebb/john kander
+12,Prod1007,11/09/2024,Adelaide,cole porter
+12,Prod1008,11/09/2024,Adelaide,carson c. parks
+12,Prod1009,11/09/2024,Adelaide,henry mancini/johnny mercer
+12,Prod1010,11/09/2024,Adelaide,carl sigman/gilbert becaud/pierre leroyer
+12,Prod1011,11/09/2024,Adelaide,hans bradtke/heinz meier/johnny mercer
+12,Prod1012,11/09/2024,Adelaide,orlando murden/ronald miller
+12,Prod1013,11/09/2024,Adelaide,jimmy van heusen/sammy cahn
+12,Prod1014,11/09/2024,Adelaide,george gershwin/ira gershwin
+12,Prod1015,11/09/2024,Adelaide,jimmy van heusen/sammy cahn
+12,Prod1016,11/09/2024,Adelaide,bart howard
+12,Prod1017,11/09/2024,Adelaide,cole porter
+12,Prod1018,11/09/2024,Adelaide,carolyn leigh/cy coleman
+12,Prod1019,11/09/2024,Adelaide,ervin drake
+12,Prod1020,11/09/2024,Adelaide,jimmy van heusen/sammy cahn
+12,Prod1021,11/09/2024,Adelaide,dean kay thompson/kelly gordon
+12,Prod1022,11/09/2024,Adelaide,antonio carlos jobim/norman gimbel/vinicius de moraes
+12,Prod1023,11/09/2024,Adelaide,lorenz hart/richard rodgers
+12,Prod1024,11/09/2024,Adelaide,jim croce
+12,Prod1025,11/09/2024,Adelaide,bert brecht/kurt weill/marc blitzstein
+12,Prod1026,11/09/2024,Adelaide,rod mckuen
+12,Prod1027,11/09/2024,Adelaide,alan bergman/marilyn bergman/peggy lipton jones/quincy jones
+1,Prod2162,12/10/2021,Adelaide,
+1,Prod2163,12/10/2021,Adelaide,
+1,Prod2164,12/10/2021,Adelaide,
+1,Prod2165,12/10/2021,Adelaide,
+1,Prod2183,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2184,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2185,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2186,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2187,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2188,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2189,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2190,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod446,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2191,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2192,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2193,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+10,Prod1044,6/07/2024,Adelaide,
+10,Prod1045,6/07/2024,Adelaide,
+10,Prod1046,6/07/2024,Adelaide,Manuca/Raimundinho DoAcordion/Targino Godim
+10,Prod1047,6/07/2024,Adelaide,Humberto Teixeira/Luiz Gonzaga
+10,Prod1048,6/07/2024,Adelaide,Corumbá/José Gumarães/Venancio
+10,Prod1049,6/07/2024,Adelaide,Humberto Teixeira/Luiz Gonzaga
+10,Prod1050,6/07/2024,Adelaide,Humberto Teixeira/Luiz Gonzaga
+10,Prod1051,6/07/2024,Adelaide,Humberto Teixeira/Luiz Gonzaga
+10,Prod1052,6/07/2024,Adelaide,"Guio De Morais E Seus ""Parentes""/Luiz Gonzaga"
+10,Prod1053,6/07/2024,Adelaide,Luiz Gonzaga/Zé Dantas
+10,Prod1054,6/07/2024,Adelaide,Gilberto Gil
+10,Prod1055,6/07/2024,Adelaide,Gilberto Gil
+10,Prod1056,6/07/2024,Adelaide,Dominguinhos/Gilberto Gil
+10,Prod1057,6/07/2024,Adelaide,Gilberto Gil
+1,Prod2194,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2195,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2196,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2197,12/10/2021,Adelaide,"Anthony Kiedis, Flea, John Frusciante, and Chad Smith"
+1,Prod2198,12/10/2021,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+1,Prod2199,12/10/2021,Adelaide,Red Hot Chili Peppers
+1,Prod2200,12/10/2021,Adelaide,Red Hot Chili Peppers
+1,Prod2201,12/10/2021,Adelaide,Red Hot Chili Peppers
+1,Prod2202,12/10/2021,Adelaide,Red Hot Chili Peppers
+1,Prod2203,12/10/2021,Adelaide,Red Hot Chili Peppers
+1,Prod2204,12/10/2021,Adelaide,Red Hot Chili Peppers
+1,Prod2205,12/10/2021,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+1,Prod2206,12/10/2021,Adelaide,Red Hot Chili Peppers
+1,Prod2207,12/10/2021,Adelaide,Red Hot Chili Peppers
+1,Prod2208,12/10/2021,Adelaide,Red Hot Chili Peppers
+1,Prod2209,12/10/2021,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+1,Prod2210,12/10/2021,Adelaide,Red Hot Chili Peppers
+1,Prod2211,12/10/2021,Adelaide,Red Hot Chili Peppers
+1,Prod2212,12/10/2021,Adelaide,Red Hot Chili Peppers
+1,Prod2213,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2214,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2215,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2216,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2217,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2218,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2219,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2220,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2221,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2222,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2223,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2224,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2225,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2226,12/10/2021,Adelaide,Geddy Lee And Alex Lifeson/Geddy Lee And Neil Peart/Rush
+1,Prod2227,12/10/2021,Adelaide,M.Babatunde Olantunji
+1,Prod2228,12/10/2021,Adelaide,E.Weiss
+1,Prod2229,12/10/2021,Adelaide,E.Weiss
+1,Prod2230,12/10/2021,Adelaide,Carlos Santana
+1,Prod2231,12/10/2021,Adelaide,Albert King
+1,Prod2232,12/10/2021,Adelaide,Carlos Santana
+1,Prod2233,12/10/2021,Adelaide,W.Correa
+1,Prod2234,12/10/2021,Adelaide,Carlos Santana
+1,Prod2235,12/10/2021,Adelaide,
+1,Prod2236,12/10/2021,Adelaide,
+1,Prod2237,12/10/2021,Adelaide,
+1,Prod2238,12/10/2021,Adelaide,
+1,Prod2239,12/10/2021,Adelaide,
+1,Prod2240,12/10/2021,Adelaide,
+1,Prod2241,12/10/2021,Adelaide,Mick Hucknall and Neil Moss
+1,Prod2242,12/10/2021,Adelaide,John and William Valentine
+1,Prod2243,12/10/2021,Adelaide,Mick Hucknall
+1,Prod2244,12/10/2021,Adelaide,Jimmy and Vella Cameron
+1,Prod2245,12/10/2021,Adelaide,Mick Hucknall
+1,Prod2246,12/10/2021,Adelaide,Mick Hucknall and Lamont Dozier
+1,Prod2247,12/10/2021,Adelaide,Kenny Gamble and Leon Huff
+1,Prod2248,12/10/2021,Adelaide,Mick Hucknall
+1,Prod2249,12/10/2021,Adelaide,Mick Hucknall and Fritz McIntyre
+1,Prod2250,12/10/2021,Adelaide,Mick Hucknall and Fritz McIntyre
+1,Prod2251,12/10/2021,Adelaide,Mick Hucknall
+1,Prod2252,12/10/2021,Adelaide,Mick Hucknall
+1,Prod2253,12/10/2021,Adelaide,Mick Hucknall
+1,Prod36,12/10/2021,Adelaide,Carolyn Franklin and Sonny Saunders
+1,Prod2254,12/10/2021,Adelaide,Mick Hucknall
+1,Prod2255,12/10/2021,Adelaide,Chico Amaral/Edgard Scandurra/Samuel Rosa
+1,Prod2256,12/10/2021,Adelaide,Chico Amaral/Samuel Rosa
+1,Prod2257,12/10/2021,Adelaide,Chico Amaral/Samuel Rosa
+1,Prod2258,12/10/2021,Adelaide,Fausto Fawcett/Samuel Rosa
+1,Prod2259,12/10/2021,Adelaide,Chico Amaral/Lelo Zanettik
+1,Prod2260,12/10/2021,Adelaide,"Leão, Rodrigo F./Samuel Rosa"
+1,Prod2261,12/10/2021,Adelaide,Chico Amaral/Samuel Rosa
+1,Prod2262,12/10/2021,Adelaide,Chico Amaral/Samuel Rosa
+1,Prod2263,12/10/2021,Adelaide,"Leão, Rodrigo F./Lô Borges/Samuel Rosa"
+1,Prod2264,12/10/2021,Adelaide,Chico Amaral/Samuel Rosa
+1,Prod2265,12/10/2021,Adelaide,Nando Reis/Samuel Rosa
+1,Prod2266,12/10/2021,Adelaide,Chico Amaral/Samuel Rosa
+1,Prod2267,12/10/2021,Adelaide,Samuel Rosa
+1,Prod2268,12/10/2021,Adelaide,Samuel Rosa
+1,Prod2269,12/10/2021,Adelaide,Samuel Rosa
+1,Prod2270,12/10/2021,Adelaide,Samuel Rosa
+1,Prod2271,12/10/2021,Adelaide,Samuel Rosa
+1,Prod2272,12/10/2021,Adelaide,Samuel Rosa
+1,Prod2273,12/10/2021,Adelaide,Samuel Rosa
+1,Prod2274,12/10/2021,Adelaide,Samuel Rosa
+1,Prod2275,12/10/2021,Adelaide,Samuel Rosa
+1,Prod2276,12/10/2021,Adelaide,Samuel Rosa
+1,Prod2277,12/10/2021,Adelaide,Samuel Rosa
+1,Prod2309,12/10/2021,Adelaide,Chris Cornell/Kim Thayil
+1,Prod2310,12/10/2021,Adelaide,Chris Cornell/Kim Thayil
+1,Prod2311,12/10/2021,Adelaide,Chris Cornell
+1,Prod2312,12/10/2021,Adelaide,Chris Cornell/Kim Thayil
+1,Prod2313,12/10/2021,Adelaide,Chris Cornell/Kim Thayil
+1,Prod2314,12/10/2021,Adelaide,Ben Shepherd/Chris Cornell/Kim Thayil/Matt Cameron
+1,Prod2315,12/10/2021,Adelaide,Chris Cornell
+1,Prod2316,12/10/2021,Adelaide,Chris Cornell
+1,Prod2317,12/10/2021,Adelaide,Chris Cornell
+1,Prod2318,12/10/2021,Adelaide,Chris Cornell
+1,Prod2319,12/10/2021,Adelaide,Soundgarden
+1,Prod2320,12/10/2021,Adelaide,Chris Cornell
+1,Prod2321,12/10/2021,Adelaide,Chris Cornell
+1,Prod2322,12/10/2021,Adelaide,Chris Cornell
+1,Prod2323,12/10/2021,Adelaide,Chris Cornell
+1,Prod2324,12/10/2021,Adelaide,Ben Shepherd/Chris Cornell
+1,Prod2325,12/10/2021,Adelaide,Chris Cornell
+2,Prod2326,12/10/2021,Adelaide,Jay Beckenstein
+2,Prod2327,12/10/2021,Adelaide,Jeremy Wall
+2,Prod2328,12/10/2021,Adelaide,Jeremy Wall
+2,Prod2329,12/10/2021,Adelaide,Jay Beckenstein
+2,Prod2330,12/10/2021,Adelaide,Jeremy Wall
+2,Prod2331,12/10/2021,Adelaide,Jay Beckenstein
+2,Prod2332,12/10/2021,Adelaide,Chet Catallo
+2,Prod2333,12/10/2021,Adelaide,Jeremy Wall
+2,Prod2334,12/10/2021,Adelaide,Rick Strauss
+1,Prod2343,12/10/2021,Adelaide,R. DeLeo/Weiland
+1,Prod2344,12/10/2021,Adelaide,D. DeLeo/Kretz/Weiland
+1,Prod2345,12/10/2021,Adelaide,D. DeLeo/R. DeLeo/Weiland
+1,Prod2346,12/10/2021,Adelaide,Dean Deleo
+1,Prod2347,12/10/2021,Adelaide,R. DeLeo/Weiland
+1,Prod2348,12/10/2021,Adelaide,D. DeLeo/Kretz/R. DeLeo/Weiland
+1,Prod2349,12/10/2021,Adelaide,R. DeLeo/Weiland
+1,Prod2350,12/10/2021,Adelaide,R. DeLeo/Weiland
+1,Prod2351,12/10/2021,Adelaide,R. DeLeo/Weiland
+1,Prod2352,12/10/2021,Adelaide,R. DeLeo/Weiland
+1,Prod2353,12/10/2021,Adelaide,Kretz/R. DeLeo/Weiland
+1,Prod2354,12/10/2021,Adelaide,D. DeLeo/Kretz/Weiland
+1,Prod2366,12/10/2021,Adelaide,"Terry Bozzio, Steve Stevens, Tony Levin"
+1,Prod2367,12/10/2021,Adelaide,"Terry Bozzio, Steve Stevens, Tony Levin"
+1,Prod2368,12/10/2021,Adelaide,"Terry Bozzio, Steve Stevens, Tony Levin"
+1,Prod2369,12/10/2021,Adelaide,"Terry Bozzio, Steve Stevens, Tony Levin"
+1,Prod2370,12/10/2021,Adelaide,"Terry Bozzio, Steve Stevens, Tony Levin"
+1,Prod2371,12/10/2021,Adelaide,"Terry Bozzio, Steve Stevens, Tony Levin"
+1,Prod2372,12/10/2021,Adelaide,"Terry Bozzio, Steve Stevens, Tony Levin"
+1,Prod2410,12/10/2021,Adelaide,Billy Duffy/Ian Astbury
+1,Prod2411,12/10/2021,Adelaide,Billy Duffy/Ian Astbury
+1,Prod2412,12/10/2021,Adelaide,Billy Duffy/Ian Astbury
+1,Prod2413,12/10/2021,Adelaide,Billy Duffy/Ian Astbury
+1,Prod2414,12/10/2021,Adelaide,Billy Duffy/Ian Astbury/Marti Frederiksen/Mick Jones
+1,Prod2415,12/10/2021,Adelaide,Billy Duffy/Ian Astbury
+1,Prod2416,12/10/2021,Adelaide,Billy Duffy/Ian Astbury
+1,Prod2417,12/10/2021,Adelaide,Billy Duffy/Bob Rock/Ian Astbury
+1,Prod2418,12/10/2021,Adelaide,Billy Duffy/Ian Astbury
+1,Prod2419,12/10/2021,Adelaide,Billy Duffy/Bob Rock/Ian Astbury
+1,Prod2420,12/10/2021,Adelaide,Billy Duffy/Ian Astbury
+1,Prod2421,12/10/2021,Adelaide,Billy Duffy/Ian Astbury
+1,Prod2422,12/10/2021,Adelaide,
+1,Prod2423,12/10/2021,Adelaide,
+1,Prod2424,12/10/2021,Adelaide,
+1,Prod2425,12/10/2021,Adelaide,
+1,Prod2426,12/10/2021,Adelaide,
+1,Prod2427,12/10/2021,Adelaide,
+1,Prod2428,12/10/2021,Adelaide,
+1,Prod2429,12/10/2021,Adelaide,
+1,Prod2430,12/10/2021,Adelaide,
+1,Prod2431,12/10/2021,Adelaide,
+1,Prod2432,12/10/2021,Adelaide,
+1,Prod2433,12/10/2021,Adelaide,
+1,Prod2434,12/10/2021,Adelaide,
+1,Prod2435,12/10/2021,Adelaide,
+1,Prod2436,12/10/2021,Adelaide,
+1,Prod2437,12/10/2021,Adelaide,
+13,Prod1211,11/09/2024,Adelaide,Adrian Smith/Steve Harris
+13,Prod1212,11/09/2024,Adelaide,Bruce Dickinson/David Murray/Steve Harris
+13,Prod1213,11/09/2024,Adelaide,Steve Harris
+13,Prod1214,11/09/2024,Adelaide,Bruce Dickinson/Janick Gers/Steve Harris
+13,Prod1215,11/09/2024,Adelaide,Janick Gers/Steve Harris
+13,Prod1216,11/09/2024,Adelaide,Bruce Dickinson/Janick Gers/Steve Harris
+13,Prod1217,11/09/2024,Adelaide,Adrian Smith/Bruce Dickinson/Nicko McBrain
+13,Prod1218,11/09/2024,Adelaide,Adrian Smith/Steve Harris
+13,Prod1219,11/09/2024,Adelaide,Adrian Smith/Bruce Dickinson/Steve Harris
+13,Prod1220,11/09/2024,Adelaide,David Murray/Steve Harris
+13,Prod1221,11/09/2024,Adelaide,Bruce Dickinson/David Murray/Steve Harris
+1,Prod2438,12/10/2021,Adelaide,
+1,Prod2439,12/10/2021,Adelaide,
+1,Prod2440,12/10/2021,Adelaide,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison"
+1,Prod2441,12/10/2021,Adelaide,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison"
+1,Prod2442,12/10/2021,Adelaide,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison"
+1,Prod2443,12/10/2021,Adelaide,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison"
+1,Prod2444,12/10/2021,Adelaide,Weill-Brecht
+1,Prod2445,12/10/2021,Adelaide,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison"
+1,Prod2446,12/10/2021,Adelaide,"Willie Dixon, C. Burnett"
+1,Prod2447,12/10/2021,Adelaide,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison"
+1,Prod2448,12/10/2021,Adelaide,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison"
+1,Prod2449,12/10/2021,Adelaide,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison"
+1,Prod2450,12/10/2021,Adelaide,"Robby Krieger, Ray Manzarek, John Densmore, Jim Morrison"
+1,Prod2451,12/10/2021,Adelaide,G M Sumner
+1,Prod2452,12/10/2021,Adelaide,G M Sumner
+1,Prod2453,12/10/2021,Adelaide,G M Sumner
+1,Prod2454,12/10/2021,Adelaide,G M Sumner
+1,Prod2455,12/10/2021,Adelaide,G M Sumner
+1,Prod2456,12/10/2021,Adelaide,G M Sumner
+1,Prod2457,12/10/2021,Adelaide,G M Sumner
+1,Prod2458,12/10/2021,Adelaide,G M Sumner
+13,Prod1238,11/09/2024,Adelaide,Steve Harris
+13,Prod1239,11/09/2024,Adelaide,Steve Harris
+13,Prod1240,11/09/2024,Adelaide,Steve Harris
+13,Prod1241,11/09/2024,Adelaide,Steve Harris
+13,Prod1242,11/09/2024,Adelaide,Steve Harris
+13,Prod1243,11/09/2024,Adelaide,Di´Anno/Harris
+13,Prod1244,11/09/2024,Adelaide,Steve Harris
+13,Prod1245,11/09/2024,Adelaide,Steve Harris
+13,Prod1246,11/09/2024,Adelaide,Steve Harris
+13,Prod730,11/09/2024,Adelaide,Steve Harris
+13,Prod1247,11/09/2024,Adelaide,
+13,Prod1248,11/09/2024,Adelaide,
+1,Prod2459,12/10/2021,Adelaide,G M Sumner
+1,Prod2460,12/10/2021,Adelaide,G M Sumner
+1,Prod2461,12/10/2021,Adelaide,G M Sumner
+1,Prod2462,12/10/2021,Adelaide,G M Sumner
+1,Prod2463,12/10/2021,Adelaide,G M Sumner
+1,Prod2464,12/10/2021,Adelaide,G M Sumner
+1,Prod2465,12/10/2021,Adelaide,Jerry Ragavoy
+1,Prod2466,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2467,12/10/2021,Adelaide,Nanker Phelge
+1,Prod2468,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2469,12/10/2021,Adelaide,Jagger/Richards/Oldham
+13,Prod1239,11/09/2024,Adelaide,Steve Harris
+13,Prod1254,11/09/2024,Adelaide,
+13,Prod1255,11/09/2024,Adelaide,Steve Harris
+13,Prod1256,11/09/2024,Adelaide,Adrian Smith/Bruce Dickinson/Steve Harris
+13,Prod1257,11/09/2024,Adelaide,Steve Harris
+1,Prod2470,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2471,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2472,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2473,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2474,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2475,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2476,12/10/2021,Adelaide,Jagger/Richards
+1,Prod1277,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2477,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2478,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2479,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2480,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2481,12/10/2021,Adelaide,Jesse Ed Davis III/Taj Mahal
+1,Prod2482,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2483,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2484,12/10/2021,Adelaide,Faithfull/Jagger/Richards
+1,Prod2485,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2486,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2487,12/10/2021,Adelaide,De Beauport/Jagger/Richards
+1,Prod2488,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2489,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2490,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2477,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2491,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2492,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2493,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2494,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2495,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2496,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2497,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2498,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2499,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2500,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2501,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2502,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2503,12/10/2021,Adelaide,Jagger/Richards
+1,Prod2524,12/10/2021,Adelaide,Pete Townshend
+1,Prod2525,12/10/2021,Adelaide,"Pete Townshend, Roger Daltrey"
+1,Prod2526,12/10/2021,Adelaide,John Entwistle/Pete Townshend
+1,Prod2527,12/10/2021,Adelaide,Pete Townshend
+1,Prod2528,12/10/2021,Adelaide,Pete Townshend
+1,Prod2529,12/10/2021,Adelaide,John Entwistle
+1,Prod2530,12/10/2021,Adelaide,Pete Townshend
+1,Prod2531,12/10/2021,Adelaide,Pete Townshend
+1,Prod2532,12/10/2021,Adelaide,Pete Townshend
+1,Prod2533,12/10/2021,Adelaide,Pete Townshend
+1,Prod2534,12/10/2021,Adelaide,John Entwistle/Pete Townshend
+1,Prod2535,12/10/2021,Adelaide,Pete Townshend
+1,Prod2536,12/10/2021,Adelaide,John Entwistle/Pete Townshend
+1,Prod2537,12/10/2021,Adelaide,John Entwistle/Pete Townshend
+1,Prod2538,12/10/2021,Adelaide,Pete Townshend
+1,Prod2539,12/10/2021,Adelaide,Pete Townshend
+1,Prod2540,12/10/2021,Adelaide,Pete Townshend
+1,Prod2541,12/10/2021,Adelaide,Pete Townshend
+1,Prod2542,12/10/2021,Adelaide,John Entwistle/Pete Townshend
+1,Prod2543,12/10/2021,Adelaide,Pete Townshend
+1,Prod2708,12/10/2021,Adelaide,U2
+1,Prod2709,12/10/2021,Adelaide,U2
+1,Prod1748,12/10/2021,Adelaide,U2
+1,Prod2710,12/10/2021,Adelaide,U2
+1,Prod2711,12/10/2021,Adelaide,U2
+1,Prod2712,12/10/2021,Adelaide,U2
+1,Prod2713,12/10/2021,Adelaide,U2
+1,Prod2714,12/10/2021,Adelaide,U2
+1,Prod2715,12/10/2021,Adelaide,U2
+1,Prod2716,12/10/2021,Adelaide,U2
+1,Prod2717,12/10/2021,Adelaide,U2
+1,Prod2718,12/10/2021,Adelaide,U2
+1,Prod2719,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen, The Edge"
+1,Prod2720,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen, The Edge"
+1,Prod2721,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen, The Edge"
+1,Prod2722,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen, The Edge"
+1,Prod2723,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen, The Edge"
+1,Prod2724,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen, The Edge"
+1,Prod2725,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen, The Edge"
+1,Prod2726,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen, The Edge"
+1,Prod2727,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen, The Edge"
+1,Prod2728,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen, The Edge"
+1,Prod2729,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen, The Edge"
+1,Prod2730,12/10/2021,Adelaide,U2
+1,Prod2731,12/10/2021,Adelaide,U2
+1,Prod2732,12/10/2021,Adelaide,U2
+1,Prod2733,12/10/2021,Adelaide,U2
+1,Prod2734,12/10/2021,Adelaide,U2
+1,Prod2735,12/10/2021,Adelaide,Ivan Kral/Patti Smith
+1,Prod2736,12/10/2021,Adelaide,Buzz Cason/Mac Gayden
+1,Prod2737,12/10/2021,Adelaide,Alex North/Hy Zaret
+1,Prod2738,12/10/2021,Adelaide,U2
+1,Prod2739,12/10/2021,Adelaide,Brian Eno/U2
+1,Prod2740,12/10/2021,Adelaide,U2
+1,Prod2741,12/10/2021,Adelaide,Bono
+1,Prod2742,12/10/2021,Adelaide,U2
+1,Prod2743,12/10/2021,Adelaide,U2
+1,Prod2744,12/10/2021,Adelaide,U2
+1,Prod2745,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen & The Edge"
+1,Prod2746,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen & The Edge"
+1,Prod2747,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen & The Edge"
+1,Prod2748,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen & The Edge"
+1,Prod2749,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen & The Edge"
+1,Prod2750,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen & The Edge"
+1,Prod2751,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen & The Edge"
+1,Prod2752,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen & The Edge"
+1,Prod2753,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen & The Edge"
+1,Prod2754,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen & The Edge"
+1,Prod2755,12/10/2021,Adelaide,"Adam Clayton, Bono, Larry Mullen & The Edge"
+1,Prod2756,12/10/2021,Adelaide,"Bono, The Edge, Adam Clayton, and Larry Mullen"
+1,Prod2757,12/10/2021,Adelaide,"Bono, The Edge, Adam Clayton, and Larry Mullen"
+1,Prod2758,12/10/2021,Adelaide,"Bono, The Edge, Adam Clayton, and Larry Mullen"
+1,Prod2759,12/10/2021,Adelaide,"Bono, The Edge, Adam Clayton, and Larry Mullen"
+14,Prod1313,11/09/2024,Adelaide,James Brown/Johnny Terry
+14,Prod1314,11/09/2024,Adelaide,Lowman Pauling
+14,Prod1315,11/09/2024,Adelaide,Jimmy Forrest/Lewis C. Simpkins/Oscar Washington
+14,Prod1316,11/09/2024,Adelaide,Ted Wright
+14,Prod1317,11/09/2024,Adelaide,James Brown
+14,Prod1318,11/09/2024,Adelaide,James Brown
+14,Prod1319,11/09/2024,Adelaide,Betty Newsome/James Brown
+14,Prod1320,11/09/2024,Adelaide,Alfred Ellis/James Brown
+14,Prod1321,11/09/2024,Adelaide,Alfred Ellis/James Brown
+14,Prod1322,11/09/2024,Adelaide,Bobby Byrd/James Brown/Ron Lenhoff
+14,Prod1323,11/09/2024,Adelaide,Addie William Jones/Nat Jones
+14,Prod1324,11/09/2024,Adelaide,Charles Bobbitt/James Brown
+14,Prod1325,11/09/2024,Adelaide,Charles Bobbitt/James Brown
+14,Prod1326,11/09/2024,Adelaide,Fred Wesley/James Brown/Joseph Mims
+14,Prod1327,11/09/2024,Adelaide,Deanna Brown/Deidra Jenkins/Yamma Brown
+14,Prod1328,11/09/2024,Adelaide,Brad Shapiro/George Jackson/Robert Miller/Walter Shaw
+14,Prod1329,11/09/2024,Adelaide,Charlie Midnight/Dan Hartman
+14,Prod1330,11/09/2024,Adelaide,Full Force/James Brown
+14,Prod1331,11/09/2024,Adelaide,Fred Wesley/James Brown
+14,Prod1332,11/09/2024,Adelaide,James Brown
+1,Prod2760,12/10/2021,Adelaide,"Bono, The Edge, Adam Clayton, and Larry Mullen"
+1,Prod2761,12/10/2021,Adelaide,"Bono, The Edge, Adam Clayton, and Larry Mullen"
+1,Prod1995,12/10/2021,Adelaide,"Bono, The Edge, Adam Clayton, and Larry Mullen"
+1,Prod2762,12/10/2021,Adelaide,"Bono, The Edge, Adam Clayton, and Larry Mullen"
+1,Prod2763,12/10/2021,Adelaide,"Bono, The Edge, Adam Clayton, and Larry Mullen"
+1,Prod2764,12/10/2021,Adelaide,"Bono, The Edge, Adam Clayton, and Larry Mullen"
+1,Prod2765,12/10/2021,Adelaide,"Bono, The Edge, Adam Clayton, and Larry Mullen"
+1,Prod2766,12/10/2021,Adelaide,"Bono, The Edge, Adam Clayton, and Larry Mullen"
+1,Prod2767,12/10/2021,Adelaide,"Lennon, John/McCartney, Paul"
+1,Prod2768,12/10/2021,Adelaide,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge"
+14,Prod1343,11/09/2024,Adelaide,Jay Kay
+14,Prod1344,11/09/2024,Adelaide,Jay Kay/Toby Smith
+14,Prod1345,11/09/2024,Adelaide,Jay Kay
+14,Prod1346,11/09/2024,Adelaide,Jay Kay/Toby Smith
+14,Prod1347,11/09/2024,Adelaide,Jay Kay/Toby Smith
+14,Prod1348,11/09/2024,Adelaide,Derrick McKenzie/Jay Kay/Toby Smith
+14,Prod1349,11/09/2024,Adelaide,Jay Kay
+14,Prod1350,11/09/2024,Adelaide,Jay Kay/Toby Smith
+14,Prod1351,11/09/2024,Adelaide,Jay Kay
+14,Prod930,11/09/2024,Adelaide,Jay Kay/Toby Smith
+14,Prod1352,11/09/2024,Adelaide,Toby Smith
+1,Prod2769,12/10/2021,Adelaide,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge"
+1,Prod2770,12/10/2021,Adelaide,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge"
+1,Prod2771,12/10/2021,Adelaide,"Dylan, Bob"
+1,Prod2772,12/10/2021,Adelaide,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge"
+1,Prod2773,12/10/2021,Adelaide,"Mabins, Macie/Magee, Sterling/Robinson, Bobby"
+1,Prod2741,12/10/2021,Adelaide,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge"
+1,Prod2774,12/10/2021,Adelaide,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge"
+1,Prod2775,12/10/2021,Adelaide,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge"
+1,Prod2776,12/10/2021,Adelaide,"Bono/Clayton, Adam/Dylan, Bob/Mullen Jr., Larry/The Edge"
+1,Prod2777,12/10/2021,Adelaide,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge"
+1,Prod2778,12/10/2021,Adelaide,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge"
+1,Prod2779,12/10/2021,Adelaide,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge"
+1,Prod2780,12/10/2021,Adelaide,"Hendrix, Jimi"
+1,Prod2781,12/10/2021,Adelaide,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge"
+1,Prod2782,12/10/2021,Adelaide,"Bono/Clayton, Adam/Mullen Jr., Larry/The Edge"
+1,Prod2774,12/10/2021,Adelaide,U2
+1,Prod2783,12/10/2021,Adelaide,U2
+1,Prod2784,12/10/2021,Adelaide,U2
+1,Prod2772,12/10/2021,Adelaide,U2
+1,Prod2785,12/10/2021,Adelaide,U2
+1,Prod2786,12/10/2021,Adelaide,U2
+1,Prod2787,12/10/2021,Adelaide,U2
+1,Prod2788,12/10/2021,Adelaide,U2
+1,Prod2789,12/10/2021,Adelaide,U2
+1,Prod2732,12/10/2021,Adelaide,U2 & Daragh O'Toole
+1,Prod2769,12/10/2021,Adelaide,U2
+1,Prod2777,12/10/2021,Adelaide,U2
+1,Prod2775,12/10/2021,Adelaide,U2
+1,Prod2782,12/10/2021,Adelaide,U2 & Van Dyke Parks
+1,Prod2785,12/10/2021,Adelaide,U2
+1,Prod2790,12/10/2021,Adelaide,U2
+1,Prod2783,12/10/2021,Adelaide,U2
+1,Prod2791,12/10/2021,Adelaide,U2
+1,Prod2792,12/10/2021,Adelaide,U2
+1,Prod2793,12/10/2021,Adelaide,U2
+1,Prod2794,12/10/2021,Adelaide,U2
+1,Prod2795,12/10/2021,Adelaide,U2
+1,Prod448,12/10/2021,Adelaide,U2
+1,Prod2796,12/10/2021,Adelaide,U2
+1,Prod2797,12/10/2021,Adelaide,U2; Bono
+1,Prod2798,12/10/2021,Adelaide,U2; Bono
+1,Prod2799,12/10/2021,Adelaide,"U2; Edge, The"
+1,Prod2800,12/10/2021,Adelaide,U2; Bono
+1,Prod2801,12/10/2021,Adelaide,U2; Bono
+1,Prod2802,12/10/2021,Adelaide,U2; Bono
+1,Prod2803,12/10/2021,Adelaide,U2; Bono
+1,Prod2804,12/10/2021,Adelaide,U2; Bono
+1,Prod2805,12/10/2021,Adelaide,"U2; Bono & Edge, The"
+1,Prod2806,12/10/2021,Adelaide,U2; Bono
+1,Prod2820,12/10/2021,Adelaide,Ray Davies
+1,Prod2821,12/10/2021,Adelaide,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony
+1,Prod2822,12/10/2021,Adelaide,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony
+1,Prod2823,12/10/2021,Adelaide,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony
+1,Prod2824,12/10/2021,Adelaide,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony
+1,Prod2825,12/10/2021,Adelaide,Bill Dees/Roy Orbison
+1,Prod2826,12/10/2021,Adelaide,Ivy Jo Hunter/Marvin Gaye/William Stevenson
+1,Prod2827,12/10/2021,Adelaide,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony
+1,Prod2828,12/10/2021,Adelaide,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony
+1,Prod2829,12/10/2021,Adelaide,Jack Yellen/Milton Ager
+1,Prod2830,12/10/2021,Adelaide,Alex Van Halen/David Lee Roth/Edward Van Halen/Michael Anthony
+1,Prod2831,12/10/2021,Adelaide,Dale Evans
+1,Prod2832,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony"
+1,Prod2833,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony"
+1,Prod2834,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony"
+1,Prod2835,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony"
+1,Prod2836,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony"
+1,Prod2837,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, David Lee Roth, Michael Anthony"
+1,Prod2838,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, David Lee Roth"
+1,Prod2839,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, David Lee Roth"
+1,Prod2840,12/10/2021,Adelaide,Van Halen
+1,Prod2841,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, Sammy Hagar"
+1,Prod2842,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, Sammy Hagar"
+1,Prod2843,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, Sammy Hagar"
+1,Prod2844,12/10/2021,Adelaide,Van Halen
+1,Prod2845,12/10/2021,Adelaide,Van Halen
+1,Prod2846,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, Sammy Hagar"
+1,Prod2847,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, David Lee Roth"
+1,Prod2848,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony,/Edward Van Halen, Alex Van Halen, Michael Anthony, David Lee Roth"
+1,Prod2834,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth"
+1,Prod2832,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth"
+1,Prod2849,12/10/2021,Adelaide,Ray Davies
+1,Prod2833,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth"
+1,Prod2850,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth"
+1,Prod2851,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth"
+1,Prod2852,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth"
+1,Prod2853,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth"
+1,Prod2854,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth"
+1,Prod2855,12/10/2021,Adelaide,John Brim
+1,Prod2856,12/10/2021,Adelaide,"Edward Van Halen, Alex Van Halen, Michael Anthony and David Lee Roth"
+1,Prod2857,12/10/2021,Adelaide,Van Halen
+1,Prod1828,12/10/2021,Adelaide,Van Halen
+1,Prod2858,12/10/2021,Adelaide,Van Halen
+1,Prod2859,12/10/2021,Adelaide,Van Halen
+1,Prod2860,12/10/2021,Adelaide,Van Halen
+1,Prod2014,12/10/2021,Adelaide,Van Halen
+1,Prod2861,12/10/2021,Adelaide,Van Halen
+1,Prod2862,12/10/2021,Adelaide,Van Halen
+1,Prod2863,12/10/2021,Adelaide,Van Halen
+1,Prod2864,12/10/2021,Adelaide,Van Halen
+1,Prod2865,12/10/2021,Adelaide,Van Halen
+1,Prod2866,12/10/2021,Adelaide,Van Halen
+1,Prod2867,12/10/2021,Adelaide,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash"
+1,Prod2868,12/10/2021,Adelaide,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash"
+1,Prod2869,12/10/2021,Adelaide,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash"
+1,Prod2870,12/10/2021,Adelaide,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash"
+1,Prod2871,12/10/2021,Adelaide,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash"
+1,Prod2872,12/10/2021,Adelaide,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash"
+1,Prod2873,12/10/2021,Adelaide,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash"
+1,Prod2874,12/10/2021,Adelaide,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash"
+1,Prod2875,12/10/2021,Adelaide,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash"
+1,Prod2876,12/10/2021,Adelaide,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash"
+1,Prod1720,12/10/2021,Adelaide,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash"
+1,Prod2877,12/10/2021,Adelaide,"Dave Kushner, Duff, Keith Nelson, Matt Sorum, Scott Weiland & Slash"
+1,Prod2878,12/10/2021,Adelaide,"Dave Kushner, Duff, Matt Sorum, Scott Weiland & Slash"
+1,Prod1505,12/10/2021,Melbourne,"Page, Jones"
+1,Prod3033,12/10/2021,Melbourne,
+1,Prod145,12/10/2021,Melbourne,
+1,Prod149,12/10/2021,Melbourne,
+1,Prod3034,12/10/2021,Melbourne,
+1,Prod944,12/10/2021,Melbourne,
+1,Prod150,12/10/2021,Melbourne,
+1,Prod152,12/10/2021,Melbourne,
+1,Prod3035,12/10/2021,Melbourne,
+1,Prod3036,12/10/2021,Melbourne,
+1,Prod3037,12/10/2021,Melbourne,
+1,Prod3038,12/10/2021,Melbourne,
+1,Prod1940,12/10/2021,Melbourne,
+1,Prod3039,12/10/2021,Melbourne,
+1,Prod3040,12/10/2021,Melbourne,
+1,Prod3041,12/10/2021,Melbourne,
+1,Prod3042,12/10/2021,Melbourne,
+1,Prod3043,12/10/2021,Melbourne,
+1,Prod3044,12/10/2021,Melbourne,
+1,Prod3045,12/10/2021,Melbourne,
+1,Prod3046,12/10/2021,Melbourne,
+1,Prod2524,12/10/2021,Melbourne,
+1,Prod3047,12/10/2021,Melbourne,
+1,Prod3048,12/10/2021,Melbourne,
+1,Prod3049,12/10/2021,Melbourne,
+2,Prod3097,12/10/2021,Darwin,Luca Gusella
+2,Prod3098,12/10/2021,Darwin,Andrea Dulbecco
+1,Prod3101,12/10/2021,Darwin,"Darius ""Take One"" Minwalla/Jon Auer/Ken Stringfellow/Matt Harris"
+1,Prod3103,12/10/2021,Darwin,"Darius ""Take One"" Minwalla/Jon Auer/Ken Stringfellow/Matt Harris"
+2,Prod3105,12/10/2021,Darwin,Aaron Goldberg
+15,Prod1353,3/02/2022,Adelaide,Toby Smith
+15,Prod1354,3/02/2022,Adelaide,Toby Smith
+15,Prod1355,3/02/2022,Adelaide,Toby Smith
+15,Prod1356,3/02/2022,Adelaide,Toby Smith
+15,Prod1357,3/02/2022,Adelaide,Toby Smith
+15,Prod1358,3/02/2022,Adelaide,Toby Smith
+15,Prod1359,3/02/2022,Adelaide,Stuard Zender/Toby Smith
+15,Prod1360,3/02/2022,Adelaide,Stuart Zender
+15,Prod1361,3/02/2022,Adelaide,Toby Smith/Wallis Buchanan
+15,Prod1362,3/02/2022,Adelaide,J. Kay/Jay Kay
+15,Prod1363,3/02/2022,Adelaide,J. Kay/Jay Kay
+16,Prod1429,3/02/2022,Adelaide,João Suplicy
+16,Prod1430,3/02/2022,Adelaide,João Suplicy
+16,Prod1431,3/02/2022,Adelaide,João Suplicy
+16,Prod1432,3/02/2022,Adelaide,João Suplicy
+16,Prod1433,3/02/2022,Adelaide,João Suplicy
+16,Prod1434,3/02/2022,Adelaide,João Suplicy
+16,Prod1435,3/02/2022,Adelaide,João Suplicy
+16,Prod1436,3/02/2022,Adelaide,João Suplicy
+16,Prod1437,3/02/2022,Adelaide,João Suplicy
+16,Prod1438,3/02/2022,Adelaide,João Suplicy
+16,Prod1439,3/02/2022,Adelaide,João Suplicy
+16,Prod1440,3/02/2022,Adelaide,João Suplicy
+16,Prod1441,3/02/2022,Adelaide,João Suplicy
+16,Prod1442,3/02/2022,Adelaide,João Suplicy
+16,Prod1806,3/02/2022,Adelaide,Mônica Marianno
+16,Prod1807,3/02/2022,Adelaide,Mônica Marianno
+16,Prod1808,3/02/2022,Adelaide,Mônica Marianno
+16,Prod1809,3/02/2022,Adelaide,Mônica Marianno
+16,Prod1810,3/02/2022,Adelaide,Mônica Marianno
+16,Prod1811,3/02/2022,Adelaide,Mônica Marianno
+16,Prod1812,3/02/2022,Adelaide,Mônica Marianno
+16,Prod289,3/02/2022,Adelaide,Mônica Marianno
+16,Prod1813,3/02/2022,Adelaide,Mônica Marianno
+16,Prod1814,3/02/2022,Adelaide,Mônica Marianno
+16,Prod1815,3/02/2022,Adelaide,Mônica Marianno
+16,Prod1816,3/02/2022,Adelaide,Mônica Marianno
+17,Prod2051,3/02/2022,Adelaide,
+17,Prod2052,3/02/2022,Adelaide,
+17,Prod2053,3/02/2022,Adelaide,
+17,Prod2054,3/02/2022,Adelaide,
+17,Prod2055,3/02/2022,Adelaide,
+17,Prod2056,3/02/2022,Adelaide,
+17,Prod2057,3/02/2022,Adelaide,
+17,Prod2058,3/02/2022,Adelaide,
+17,Prod2059,3/02/2022,Adelaide,
+17,Prod2060,3/02/2022,Adelaide,
+17,Prod2061,3/02/2022,Adelaide,
+17,Prod2062,3/02/2022,Adelaide,
+17,Prod2063,3/02/2022,Adelaide,
+17,Prod2064,3/02/2022,Adelaide,
+17,Prod2065,3/02/2022,Adelaide,
+17,Prod2066,3/02/2022,Adelaide,
+18,Prod2608,3/02/2022,Sydney,
+18,Prod2614,3/02/2022,Sydney,
+18,Prod2615,3/02/2022,Sydney,
+18,Prod2616,3/02/2022,Sydney,
+18,Prod2617,3/02/2022,Sydney,
+18,Prod2618,3/02/2022,Sydney,
+18,Prod2619,3/02/2022,Sydney,
+18,Prod2620,3/02/2022,Sydney,
+18,Prod2621,3/02/2022,Sydney,
+18,Prod2622,3/02/2022,Sydney,
+18,Prod2623,3/02/2022,Sydney,
+18,Prod2624,3/02/2022,Sydney,
+18,Prod2625,3/02/2022,Sydney,
+17,Prod3050,3/02/2022,Adelaide,E. Schrody/L. Muggerud
+17,Prod3051,3/02/2022,Adelaide,E. Schrody/L. Dimant
+17,Prod3052,3/02/2022,Adelaide,E. Schrody/L. Freese/L. Muggerud
+17,Prod3053,3/02/2022,Adelaide,E. Schrody/L. Dimant
+17,Prod3054,3/02/2022,Adelaide,L. Muggerud
+17,Prod3055,3/02/2022,Adelaide,E. Schrody/J. Vasquez/L. Dimant
+17,Prod3056,3/02/2022,Adelaide,E. Schrody/L. Dimant
+17,Prod3057,3/02/2022,Adelaide,E. Schrody/L. Dimant
+17,Prod3058,3/02/2022,Adelaide,E. Schrody/L. Muggerud
+17,Prod3059,3/02/2022,Adelaide,E. Schrody/L. Muggerud
+17,Prod3060,3/02/2022,Adelaide,L. Muggerud
+17,Prod3061,3/02/2022,Adelaide,E. Schrody/L. Muggerud
+17,Prod3062,3/02/2022,Adelaide,E. Schrody/L. Muggerud/R. Medrano
+17,Prod3063,3/02/2022,Adelaide,E. Schrody/R. Medrano
+17,Prod3064,3/02/2022,Adelaide,E. Schrody/L. Dimant/L. Muggerud
+17,Prod3065,3/02/2022,Adelaide,E. Schrody/R. Medrano
+17,Prod1496,3/02/2022,Adelaide,E. Schrody/L. Dimant
+17,Prod3066,3/02/2022,Adelaide,E. Schrody/L. Muggerud
+17,Prod3067,3/02/2022,Adelaide,E. Schrody/L. Dimant
+15,Prod3068,3/02/2022,Adelaide,
+15,Prod3069,3/02/2022,Adelaide,
+15,Prod3070,3/02/2022,Adelaide,
+15,Prod3071,3/02/2022,Adelaide,
+15,Prod3072,3/02/2022,Adelaide,
+15,Prod3073,3/02/2022,Adelaide,
+15,Prod3074,3/02/2022,Adelaide,
+15,Prod3075,3/02/2022,Adelaide,
+15,Prod3076,3/02/2022,Adelaide,
+15,Prod3077,3/02/2022,Adelaide,
+15,Prod3078,3/02/2022,Adelaide,
+15,Prod3079,3/02/2022,Adelaide,
+15,Prod3080,3/02/2022,Adelaide,
+15,Prod3081,3/02/2022,Adelaide,
+15,Prod3082,3/02/2022,Adelaide,
+15,Prod3083,3/02/2022,Adelaide,
+15,Prod3084,3/02/2022,Adelaide,
+16,Prod3099,3/02/2022,Darwin,Habib Koité
+15,Prod3100,3/02/2022,Darwin,Karsh Kale/Vishal Vaid
+16,Prod3102,3/02/2022,Darwin,Habib Koité
+15,Prod3106,3/02/2022,Darwin,Karsh Kale
+3,Prod77,11/05/2022,Adelaide,Apocalyptica
+3,Prod78,11/05/2022,Adelaide,Apocalyptica
+3,Prod79,11/05/2022,Adelaide,Apocalyptica
+3,Prod80,11/05/2022,Adelaide,Apocalyptica
+3,Prod81,11/05/2022,Adelaide,Apocalyptica
+3,Prod82,11/05/2022,Adelaide,Apocalyptica
+3,Prod83,11/05/2022,Adelaide,Apocalyptica
+3,Prod84,11/05/2022,Adelaide,Apocalyptica
+4,Prod99,11/05/2022,Adelaide,"Cornell, Commerford, Morello, Wilk"
+4,Prod100,11/05/2022,Adelaide,"Cornell, Commerford, Morello, Wilk"
+4,Prod101,11/05/2022,Adelaide,"Cornell, Commerford, Morello, Wilk"
+4,Prod102,11/05/2022,Adelaide,"Cornell, Commerford, Morello, Wilk"
+4,Prod103,11/05/2022,Adelaide,"Cornell, Commerford, Morello, Wilk"
+4,Prod104,11/05/2022,Adelaide,"Cornell, Commerford, Morello, Wilk"
+4,Prod105,11/05/2022,Adelaide,"Cornell, Commerford, Morello, Wilk"
+4,Prod106,11/05/2022,Adelaide,"Cornell, Commerford, Morello, Wilk"
+4,Prod107,11/05/2022,Adelaide,"Cornell, Commerford, Morello, Wilk"
+4,Prod108,11/05/2022,Adelaide,"Cornell, Commerford, Morello, Wilk"
+4,Prod109,11/05/2022,Adelaide,"Cornell, Commerford, Morello, Wilk"
+4,Prod110,11/05/2022,Adelaide,"Cornell, Commerford, Morello, Wilk"
+5,Prod111,11/05/2022,Adelaide,"Berry Gordy, Jr./Janie Bradford"
+5,Prod112,11/05/2022,Adelaide,"Enotris Johnson/Little Richard/Robert ""Bumps"" Blackwell"
+5,Prod113,11/05/2022,Adelaide,Larry Williams
+5,Prod114,11/05/2022,Adelaide,Bert Russell/Phil Medley
+5,Prod115,11/05/2022,Adelaide,Brian Holland/Freddie Gorman/Georgia Dobbins/Robert Bateman/William Garrett
+5,Prod116,11/05/2022,Adelaide,Eddie Cochran/Jerry Capehart
+5,Prod117,11/05/2022,Adelaide,Chuck Berry
+5,Prod118,11/05/2022,Adelaide,Larry Williams
+5,Prod119,11/05/2022,Adelaide,Bo Diddley
+5,Prod120,11/05/2022,Adelaide,Chuck Berry
+5,Prod121,11/05/2022,Adelaide,Little Richard
+5,Prod122,11/05/2022,Adelaide,Ned Fairchild
+3,Prod131,11/05/2022,Adelaide,
+3,Prod132,11/05/2022,Adelaide,
+3,Prod133,11/05/2022,Adelaide,
+3,Prod134,11/05/2022,Adelaide,
+3,Prod135,11/05/2022,Adelaide,
+3,Prod136,11/05/2022,Adelaide,
+3,Prod137,11/05/2022,Adelaide,
+3,Prod138,11/05/2022,Adelaide,
+3,Prod139,11/05/2022,Adelaide,
+3,Prod140,11/05/2022,Adelaide,
+3,Prod141,11/05/2022,Adelaide,
+3,Prod142,11/05/2022,Adelaide,
+3,Prod143,11/05/2022,Adelaide,
+3,Prod144,11/05/2022,Adelaide,
+3,Prod145,11/05/2022,Adelaide,
+3,Prod146,11/05/2022,Adelaide,
+3,Prod147,11/05/2022,Adelaide,
+3,Prod148,11/05/2022,Adelaide,
+3,Prod149,11/05/2022,Adelaide,
+3,Prod150,11/05/2022,Adelaide,
+3,Prod151,11/05/2022,Adelaide,
+3,Prod152,11/05/2022,Adelaide,
+3,Prod153,11/05/2022,Adelaide,
+3,Prod154,11/05/2022,Adelaide,
+3,Prod155,11/05/2022,Adelaide,
+3,Prod156,11/05/2022,Adelaide,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne"
+3,Prod157,11/05/2022,Adelaide,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne"
+3,Prod158,11/05/2022,Adelaide,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne"
+3,Prod159,11/05/2022,Adelaide,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne"
+3,Prod160,11/05/2022,Adelaide,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne"
+3,Prod145,11/05/2022,Adelaide,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne"
+3,Prod161,11/05/2022,Adelaide,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne"
+3,Prod162,11/05/2022,Adelaide,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne"
+3,Prod163,11/05/2022,Adelaide,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne"
+3,Prod164,11/05/2022,Adelaide,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne"
+4,Prod165,11/05/2022,Adelaide,
+14,Prod1636,11/09/2024,Adelaide,
+14,Prod1637,11/09/2024,Adelaide,
+14,Prod1638,11/09/2024,Adelaide,"William ""Mickey"" Stevenson"
+14,Prod1639,11/09/2024,Adelaide,Brian Holland/Eddie Holland/Lamont Dozier
+14,Prod1640,11/09/2024,Adelaide,"Robert Rogers/Warren ""Pete"" Moore/William ""Mickey"" Stevenson"
+14,Prod1641,11/09/2024,Adelaide,Allen Story/George Gordy/Robert Gordy
+14,Prod1642,11/09/2024,Adelaide,Ivy Hunter/Stevie Wonder
+14,Prod1643,11/09/2024,Adelaide,"Smokey Robinson/Warren ""Pete"" Moore"
+14,Prod1644,11/09/2024,Adelaide,"Ivy Hunter/William ""Mickey"" Stevenson"
+14,Prod1645,11/09/2024,Adelaide,Barrett Strong/Norman Whitfield
+14,Prod1646,11/09/2024,Adelaide,Barrett Strong/Norman Whitfield
+14,Prod1647,11/09/2024,Adelaide,Barrett Strong/Norman Whitfield/Roger Penzabene
+14,Prod1648,11/09/2024,Adelaide,Dick Holler
+14,Prod1649,11/09/2024,Adelaide,Al Cleveland/Marvin Gaye/Renaldo Benson
+14,Prod1650,11/09/2024,Adelaide,Marvin Gaye
+14,Prod1651,11/09/2024,Adelaide,Marvin Gaye
+14,Prod1652,11/09/2024,Adelaide,Marvin Gaye
+14,Prod1653,11/09/2024,Adelaide,Marvin Gaye
+4,Prod166,11/05/2022,Adelaide,
+4,Prod167,11/05/2022,Adelaide,
+4,Prod168,11/05/2022,Adelaide,
+4,Prod169,11/05/2022,Adelaide,
+4,Prod170,11/05/2022,Adelaide,
+4,Prod171,11/05/2022,Adelaide,
+4,Prod172,11/05/2022,Adelaide,
+4,Prod173,11/05/2022,Adelaide,
+4,Prod174,11/05/2022,Adelaide,
+4,Prod175,11/05/2022,Adelaide,
+4,Prod176,11/05/2022,Adelaide,
+4,Prod177,11/05/2022,Adelaide,
+4,Prod178,11/05/2022,Adelaide,
+4,Prod179,11/05/2022,Adelaide,
+4,Prod180,11/05/2022,Adelaide,
+4,Prod181,11/05/2022,Adelaide,
+3,Prod182,11/05/2022,Adelaide,Roy Z
+3,Prod183,11/05/2022,Adelaide,Roy Z
+3,Prod184,11/05/2022,Adelaide,Roy Z
+3,Prod185,11/05/2022,Adelaide,Adrian Smith
+3,Prod186,11/05/2022,Adelaide,Eddie Casillas/Roy Z
+3,Prod187,11/05/2022,Adelaide,Roy Z
+3,Prod188,11/05/2022,Adelaide,Roy Z
+3,Prod189,11/05/2022,Adelaide,Roy Z
+3,Prod190,11/05/2022,Adelaide,Adrian Smith
+3,Prod191,11/05/2022,Adelaide,Roy Z
+3,Prod192,11/05/2022,Adelaide,Roy Z
+3,Prod395,11/05/2022,Adelaide,Molaney/Morris/Roberts/Wainwright
+3,Prod396,11/05/2022,Adelaide,Harris/Tatler
+3,Prod397,11/05/2022,Adelaide,Black Sabbath
+3,Prod398,11/05/2022,Adelaide,Seger
+3,Prod399,11/05/2022,Adelaide,Danzig
+3,Prod400,11/05/2022,Adelaide,Cave
+3,Prod401,11/05/2022,Adelaide,Diamond/Shermann
+3,Prod402,11/05/2022,Adelaide,A.Bouchard/J.Bouchard/S.Pearlman
+3,Prod403,11/05/2022,Adelaide,Traditional
+3,Prod404,11/05/2022,Adelaide,Collins/Van Zandt
+3,Prod405,11/05/2022,Adelaide,Molaney/Morris/Roberts/Wainwright
+4,Prod455,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod456,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod457,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod458,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod459,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod460,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod432,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod461,11/05/2022,Adelaide,Mike Dirnt -Words Green Day -Music
+4,Prod462,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod463,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod464,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod465,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod466,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod467,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod468,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod469,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod470,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod471,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod155,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod472,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod473,11/05/2022,Adelaide,Billie Joe Armstrong -Words Green Day -Music
+4,Prod512,11/05/2022,Adelaide,Arnaldo Baptista - Rita Lee
+4,Prod371,11/05/2022,Adelaide,Arnaldo Baptista - Rita Lee -  Sérgio Dias
+4,Prod513,11/05/2022,Adelaide,Os Mutantes - Arnolpho Lima Filho
+4,Prod514,11/05/2022,Adelaide,Caetano Veloso
+4,Prod515,11/05/2022,Adelaide,Mutantes
+4,Prod516,11/05/2022,Adelaide,Caetano Veloso - Gilberto Gil
+4,Prod517,11/05/2022,Adelaide,Orestes Barbosa-Sílvio Caldas
+4,Prod518,11/05/2022,Adelaide,Rita Lee - Arnaldo Baptista - Sérgio Baptista
+4,Prod519,11/05/2022,Adelaide,Gilberto Gil - Caetano Veloso
+4,Prod520,11/05/2022,Adelaide,Arnaldo Baptista - Rita Lee
+4,Prod521,11/05/2022,Adelaide,Arnaldo Baptista/Rita Lee/Sérgio Dias
+4,Prod522,11/05/2022,Adelaide,Arnaldo Baptista - Rita Lee - Arnolpho Lima Filho
+4,Prod523,11/05/2022,Adelaide,B. de Filippi - F. Migliaci - Versão: Fred Jorge
+4,Prod524,11/05/2022,Adelaide,Arnaldo Baptista - Rita Lee - Sérgio Dias
+4,Prod894,11/05/2022,Adelaide,Jon Hudson/Mike Patton
+4,Prod895,11/05/2022,Adelaide,Jon Hudson/Mike Bordin/Mike Patton
+4,Prod896,11/05/2022,Adelaide,Bill Gould/Mike Patton
+4,Prod897,11/05/2022,Adelaide,Mike Patton
+4,Prod898,11/05/2022,Adelaide,Bill Gould/Mike Bordin/Mike Patton
+4,Prod899,11/05/2022,Adelaide,Bill Gould/Jon Hudson/Mike Bordin/Mike Patton
+4,Prod900,11/05/2022,Adelaide,Bill Gould/Jon Hudson/Mike Bordin/Mike Patton/Roddy Bottum
+4,Prod901,11/05/2022,Adelaide,Bill Gould/Mike Bordin/Mike Patton
+4,Prod902,11/05/2022,Adelaide,Mike Patton
+4,Prod903,11/05/2022,Adelaide,Bill Gould/Jon Hudson/Mike Bordin/Mike Patton/Roddy Bottum
+4,Prod904,11/05/2022,Adelaide,Mike Patton
+4,Prod905,11/05/2022,Adelaide,Bill Gould/Mike Patton
+4,Prod906,11/05/2022,Adelaide,
+4,Prod907,11/05/2022,Adelaide,
+4,Prod908,11/05/2022,Adelaide,
+4,Prod909,11/05/2022,Adelaide,
+4,Prod910,11/05/2022,Adelaide,
+4,Prod911,11/05/2022,Adelaide,
+4,Prod912,11/05/2022,Adelaide,
+4,Prod913,11/05/2022,Adelaide,
+4,Prod914,11/05/2022,Adelaide,
+4,Prod915,11/05/2022,Adelaide,
+4,Prod916,11/05/2022,Adelaide,
+4,Prod917,11/05/2022,Adelaide,
+4,Prod918,11/05/2022,Adelaide,
+4,Prod919,11/05/2022,Adelaide,
+4,Prod935,11/05/2022,Adelaide,Faith No More
+4,Prod936,11/05/2022,Adelaide,Faith No More
+4,Prod937,11/05/2022,Adelaide,Faith No More
+4,Prod938,11/05/2022,Adelaide,Faith No More
+4,Prod939,11/05/2022,Adelaide,Faith No More
+4,Prod940,11/05/2022,Adelaide,Faith No More
+4,Prod941,11/05/2022,Adelaide,Faith No More
+4,Prod942,11/05/2022,Adelaide,Faith No More
+4,Prod943,11/05/2022,Adelaide,Faith No More
+4,Prod944,11/05/2022,Adelaide,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne"
+4,Prod945,11/05/2022,Adelaide,Faith No More
+4,Prod980,11/05/2022,Adelaide,Foo Fighters
+4,Prod981,11/05/2022,Adelaide,Foo Fighters
+4,Prod982,11/05/2022,Adelaide,Foo Fighters
+4,Prod983,11/05/2022,Adelaide,Foo Fighters
+4,Prod984,11/05/2022,Adelaide,Foo Fighters
+4,Prod985,11/05/2022,Adelaide,Foo Fighters
+4,Prod986,11/05/2022,Adelaide,Foo Fighters
+4,Prod987,11/05/2022,Adelaide,Foo Fighters
+4,Prod988,11/05/2022,Adelaide,Foo Fighters
+4,Prod989,11/05/2022,Adelaide,Foo Fighters
+4,Prod990,11/05/2022,Adelaide,Foo Fighters
+3,Prod1089,11/05/2022,Adelaide,Sully Erna
+3,Prod1090,11/05/2022,Adelaide,Sully Erna
+3,Prod158,11/05/2022,Adelaide,Sully Erna; Tony Rombola
+3,Prod1091,11/05/2022,Adelaide,Sully Erna
+3,Prod1092,11/05/2022,Adelaide,Sully Erna
+3,Prod1093,11/05/2022,Adelaide,Sully Erna
+3,Prod1094,11/05/2022,Adelaide,Sully Erna
+3,Prod1095,11/05/2022,Adelaide,Sully Erna
+3,Prod1096,11/05/2022,Adelaide,Sully Erna
+3,Prod1097,11/05/2022,Adelaide,Sully Erna
+3,Prod1098,11/05/2022,Adelaide,Sully Erna
+3,Prod1099,11/05/2022,Adelaide,Sully Erna; Tony Rombola
+4,Prod1100,11/05/2022,Adelaide,"Billie Joe Armstrong, Mike Dirnt, Tré Cool"
+4,Prod1101,11/05/2022,Adelaide,Billie Joe Armstrong/Green Day
+4,Prod1102,11/05/2022,Adelaide,"Billie Joe Armstrong, Mike Dirnt, Tré Cool"
+4,Prod1103,11/05/2022,Adelaide,"Mike Dint, Billie Joe, Tré Cool"
+4,Prod1104,11/05/2022,Adelaide,Green Day
+4,Prod1105,11/05/2022,Adelaide,Green Day
+4,Prod1106,11/05/2022,Adelaide,Green Day
+4,Prod1107,11/05/2022,Adelaide,Green Day
+4,Prod1108,11/05/2022,Adelaide,Green Day
+4,Prod1109,11/05/2022,Adelaide,Green Day
+4,Prod1110,11/05/2022,Adelaide,"Mike Dint, Billie Joe, Tré Cool"
+4,Prod1111,11/05/2022,Adelaide,Mike Dirnt/Tré Cool
+4,Prod1112,11/05/2022,Adelaide,Green Day
+3,Prod1141,11/05/2022,Adelaide,Duff McKagan/Slash/W. Axl Rose
+3,Prod1142,11/05/2022,Adelaide,Izzy Stradlin'/W. Axl Rose
+3,Prod1143,11/05/2022,Adelaide,Billy/Del James/W. Axl Rose/West Arkeen
+3,Prod1144,11/05/2022,Adelaide,Bob Dylan
+3,Prod1145,11/05/2022,Adelaide,Duff McKagan/Slash/W. Axl Rose
+3,Prod1146,11/05/2022,Adelaide,W. Axl Rose
+3,Prod1147,11/05/2022,Adelaide,W. Axl Rose
+3,Prod1148,11/05/2022,Adelaide,Izzy Stradlin'
+3,Prod1149,11/05/2022,Adelaide,Slash/W. Axl Rose
+3,Prod1150,11/05/2022,Adelaide,Duff McKagan
+3,Prod1151,11/05/2022,Adelaide,W. Axl Rose
+3,Prod1152,11/05/2022,Adelaide,Izzy Stradlin'/W. Axl Rose
+3,Prod1153,11/05/2022,Adelaide,Izzy Stradlin'/W. Axl Rose
+3,Prod1154,11/05/2022,Adelaide,W. Axl Rose
+3,Prod1178,11/05/2022,Adelaide,Steve Harris
+3,Prod1179,11/05/2022,Adelaide,Steve Harris
+3,Prod1180,11/05/2022,Adelaide,Steve Harris
+3,Prod1181,11/05/2022,Adelaide,Steve Harris
+3,Prod1182,11/05/2022,Adelaide,Paul Di'Anno/Steve Harris
+3,Prod1183,11/05/2022,Adelaide,Steve Harris
+3,Prod1184,11/05/2022,Adelaide,David Murray/Paul Di'Anno/Steve Harris
+3,Prod1185,11/05/2022,Adelaide,Paul Di'Anno/Steve Harris
+3,Prod1186,11/05/2022,Adelaide,Steve Harris
+3,Prod1187,11/05/2022,Adelaide,Adrian Smith/Bruce Dickinson
+3,Prod1188,11/05/2022,Adelaide,Steve Harris
+3,Prod1189,11/05/2022,Adelaide,Steve Harris
+3,Prod1190,11/05/2022,Adelaide,Bruce Dickinson/Janick Gers
+3,Prod1191,11/05/2022,Adelaide,Steve Harris
+3,Prod1192,11/05/2022,Adelaide,Adrian Smith/Bruce Dickinson/Steve Harris
+3,Prod1193,11/05/2022,Adelaide,Bruce Dickinson/Janick Gers
+3,Prod1194,11/05/2022,Adelaide,Bruce Dickinson/Steve Harris
+3,Prod1195,11/05/2022,Adelaide,Adrian Smith/Bruce Dickinson/Steve Harris
+3,Prod1196,11/05/2022,Adelaide,Steve Harris
+3,Prod1197,11/05/2022,Adelaide,Bruce Dickinson
+3,Prod1198,11/05/2022,Adelaide,Steve Harris
+3,Prod1199,11/05/2022,Adelaide,Steve Harris
+3,Prod1200,11/05/2022,Adelaide,Steve Harris
+3,Prod1187,11/05/2022,Adelaide,Smith/Dickinson
+3,Prod1179,11/05/2022,Adelaide,Harris
+3,Prod1249,11/05/2022,Adelaide,Dickinson
+3,Prod1250,11/05/2022,Adelaide,Smith/Dickinson
+3,Prod1251,11/05/2022,Adelaide,
+3,Prod1252,11/05/2022,Adelaide,
+3,Prod1178,11/05/2022,Adelaide,Harris
+3,Prod1189,11/05/2022,Adelaide,Harris
+3,Prod1188,11/05/2022,Adelaide,Harris
+3,Prod1253,11/05/2022,Adelaide,Harris
+3,Prod1185,11/05/2022,Adelaide,Harris/Di Anno
+3,Prod1194,11/05/2022,Adelaide,Bruce Dickinson/Steve Harris
+3,Prod1259,11/05/2022,Adelaide,Bruce Dickinson/Steve Harris
+3,Prod1260,11/05/2022,Adelaide,Steve Harris
+3,Prod1261,11/05/2022,Adelaide,Bruce Dickinson/David Murray
+3,Prod1262,11/05/2022,Adelaide,David Murray/Steve Harris
+3,Prod1263,11/05/2022,Adelaide,Steve Harris
+3,Prod1264,11/05/2022,Adelaide,Bruce Dickinson/Steve Harris
+3,Prod1265,11/05/2022,Adelaide,Adrian Smith/Bruce Dickinson
+3,Prod1266,11/05/2022,Adelaide,Bruce Dickinson
+3,Prod1267,11/05/2022,Adelaide,Steve Harris
+3,Prod1183,11/05/2022,Adelaide,Steve Harris
+3,Prod1249,11/05/2022,Adelaide,Bruce Dickinson
+3,Prod1268,11/05/2022,Adelaide,Adrian Smith/Bruce Dickinson
+3,Prod1256,11/05/2022,Adelaide,Adrian Smith/Bruce Dickinson/Steve Harris
+3,Prod1179,11/05/2022,Adelaide,Steve Harris
+3,Prod1269,11/05/2022,Adelaide,David Murray/Steve Harris
+3,Prod1270,11/05/2022,Adelaide,Steve Harris
+3,Prod1271,11/05/2022,Adelaide,Adrian Smith/Bruce Dickinson
+3,Prod1272,11/05/2022,Adelaide,Steve Harris
+3,Prod1248,11/05/2022,Adelaide,Harris
+3,Prod1187,11/05/2022,Adelaide,Smith/Dickinson
+3,Prod1273,11/05/2022,Adelaide,Steve Harris
+3,Prod1274,11/05/2022,Adelaide,Dickinson
+3,Prod1275,11/05/2022,Adelaide,Steve Harris
+3,Prod1276,11/05/2022,Adelaide,Dickinson/Smith
+3,Prod1252,11/05/2022,Adelaide,Dickinson
+3,Prod1251,11/05/2022,Adelaide,Harris
+3,Prod1277,11/05/2022,Adelaide,
+3,Prod1201,11/05/2022,Adelaide,Adrian Smith/Bruce Dickinson/Steve Harris
+3,Prod1202,11/05/2022,Adelaide,Bruce Dickinson/Janick Gers/Steve Harris
+3,Prod1203,11/05/2022,Adelaide,Bruce Dickinson/David Murray/Steve Harris
+3,Prod1239,11/05/2022,Adelaide,Steve Harris
+3,Prod1187,11/05/2022,Adelaide,Adrian Smith/Bruce Dickinson
+3,Prod1204,11/05/2022,Adelaide,Steve Harris
+3,Prod1278,11/05/2022,Adelaide,Steve Harris
+3,Prod1205,11/05/2022,Adelaide,Janick Gers/Steve Harris
+3,Prod1179,11/05/2022,Adelaide,Steve Harris
+3,Prod1195,11/05/2022,Adelaide,Adrian Smith/Bruce Dickinson/Steve Harris
+3,Prod1280,11/05/2022,Adelaide,Adrian Smith; Bruce Dickinson
+3,Prod1281,11/05/2022,Adelaide,Steve Harris
+3,Prod1192,11/05/2022,Adelaide,Adrian Smith; Bruce Dickinson; Steve Harris
+3,Prod1195,11/05/2022,Adelaide,Adrian Smith; Bruce Dickinson; Steve Harris
+3,Prod1282,11/05/2022,Adelaide,Steve Harris
+3,Prod1283,11/05/2022,Adelaide,Dave Murray; Steve Harris
+3,Prod1199,11/05/2022,Adelaide,Adrian Smith; Bruce Dickinson; Steve Harris
+3,Prod1284,11/05/2022,Adelaide,Bruce Dickinson; Harris
+3,Prod1285,11/05/2022,Adelaide,Steve Harris
+3,Prod1286,11/05/2022,Adelaide,Adrian Smith
+3,Prod1287,11/05/2022,Adelaide,Adrian Smith
+3,Prod1198,11/05/2022,Adelaide,Steve Harris
+3,Prod1288,11/05/2022,Adelaide,Adrian Smith
+3,Prod1289,11/05/2022,Adelaide,Steve Harris
+3,Prod1290,11/05/2022,Adelaide,David Murray/Steve Harris
+3,Prod1291,11/05/2022,Adelaide,Steve Harris
+3,Prod1292,11/05/2022,Adelaide,Adrian Smith/Steve Harris
+3,Prod1255,11/05/2022,Adelaide,Steve Harris
+3,Prod1293,11/05/2022,Adelaide,Adrian Smith/Clive Burr/Steve Harris
+3,Prod1189,11/05/2022,Adelaide,Steve Harris
+3,Prod1294,11/05/2022,Adelaide,Steve Harris
+3,Prod1253,11/05/2022,Adelaide,Steve Harris
+3,Prod1295,11/05/2022,Adelaide,Adrian Smith/Steve Harris
+4,Prod1364,11/05/2022,Adelaide,C. Cester/C. Muncey
+4,Prod1365,11/05/2022,Adelaide,C. Muncey/N. Cester
+4,Prod1366,11/05/2022,Adelaide,C. Cester/N. Cester
+4,Prod1367,11/05/2022,Adelaide,N. Cester
+4,Prod1368,11/05/2022,Adelaide,C. Cester/C. Muncey/N. Cester
+4,Prod1369,11/05/2022,Adelaide,C. Cester/N. Cester
+4,Prod1370,11/05/2022,Adelaide,C. Cester/C. Muncey/N. Cester
+4,Prod1371,11/05/2022,Adelaide,C. Cester/N. Cester
+4,Prod1372,11/05/2022,Adelaide,C. Cester/C. Muncey/N. Cester
+4,Prod1373,11/05/2022,Adelaide,C. Muncey/N. Cester
+4,Prod1374,11/05/2022,Adelaide,C. Muncey/N. Cester
+4,Prod1375,11/05/2022,Adelaide,C. Cester/N. Cester
+4,Prod1376,11/05/2022,Adelaide,C. Cester
+3,Prod1443,11/05/2022,Adelaide,
+3,Prod1444,11/05/2022,Adelaide,
+3,Prod1445,11/05/2022,Adelaide,
+3,Prod1446,11/05/2022,Adelaide,
+3,Prod1447,11/05/2022,Adelaide,
+3,Prod1448,11/05/2022,Adelaide,
+3,Prod1449,11/05/2022,Adelaide,
+3,Prod1450,11/05/2022,Adelaide,
+3,Prod1451,11/05/2022,Adelaide,
+3,Prod1452,11/05/2022,Adelaide,
+3,Prod1453,11/05/2022,Adelaide,
+3,Prod1454,11/05/2022,Adelaide,
+3,Prod1455,11/05/2022,Adelaide,
+3,Prod1456,11/05/2022,Adelaide,
+3,Prod1457,11/05/2022,Adelaide,
+3,Prod1458,11/05/2022,Adelaide,
+3,Prod77,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich and Kirk Hammett"
+3,Prod81,11/05/2022,Adelaide,Ulrich
+3,Prod1664,11/05/2022,Adelaide,Ulrich
+3,Prod80,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich and Kirk Hammett"
+3,Prod83,11/05/2022,Adelaide,Ulrich
+3,Prod1665,11/05/2022,Adelaide,Ulrich
+3,Prod1666,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich and Kirk Hammett"
+3,Prod1667,11/05/2022,Adelaide,Ulrich
+3,Prod1668,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich and Kirk Hammett"
+3,Prod1669,11/05/2022,Adelaide,Ulrich
+3,Prod1670,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich and Jason Newsted"
+3,Prod1671,11/05/2022,Adelaide,Ulrich
+3,Prod898,11/05/2022,Adelaide,Harris/Tatler
+3,Prod1672,11/05/2022,Adelaide,Holocaust
+3,Prod1673,11/05/2022,Adelaide,Killing Joke
+3,Prod1674,11/05/2022,Adelaide,Bourge/Phillips/Shelley
+3,Prod1675,11/05/2022,Adelaide,Danzig
+3,Prod1676,11/05/2022,Adelaide,Harris/Tatler
+3,Prod1677,11/05/2022,Adelaide,Jones/Sirotto/Smith
+3,Prod1678,11/05/2022,Adelaide,Bourge/Phillips/Shelley
+3,Prod1679,11/05/2022,Adelaide,Harris/Tatler
+3,Prod1680,11/05/2022,Adelaide,Deacon/May/Mercury/Taylor
+3,Prod588,11/05/2022,Adelaide,Culmer/Exalt
+3,Prod1681,11/05/2022,Adelaide,Sweet Savage
+3,Prod1655,11/05/2022,Adelaide,Clarke/Kilmister/Tayler
+3,Prod1682,11/05/2022,Adelaide,Clarke/Farren/Kilmister/Tayler
+3,Prod1683,11/05/2022,Adelaide,Clarke/Kilmister/Tayler
+3,Prod1684,11/05/2022,Adelaide,Clarke/Kilmister/Tayler
+3,Prod1685,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich"
+3,Prod1686,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich, Dave Mustaine"
+3,Prod1687,11/05/2022,Adelaide,James Hetfield
+3,Prod1688,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich, Dave Mustaine"
+3,Prod1689,11/05/2022,Adelaide,Cliff Burton
+3,Prod1690,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich"
+3,Prod1691,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich, Dave Mustaine"
+3,Prod1692,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich"
+3,Prod1693,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich"
+3,Prod1694,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich, Dave Mustaine"
+3,Prod1695,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich"
+3,Prod1696,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich, Kirk Hammett"
+3,Prod1697,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich, Kirk Hammett"
+3,Prod1698,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich"
+3,Prod1699,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich, Kirk Hammett"
+3,Prod1700,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich, Kirk Hammett"
+3,Prod1701,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich, Kirk Hammett"
+3,Prod1702,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich"
+3,Prod1703,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich"
+3,Prod1704,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich, Kirk Hammett"
+3,Prod1705,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich"
+3,Prod1706,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich, Kirk Hammett"
+10,Prod1956,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+10,Prod1957,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+10,Prod1958,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+10,Prod1959,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+10,Prod1960,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+10,Prod1961,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+10,Prod1962,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+10,Prod1963,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+10,Prod1964,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+10,Prod1965,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+10,Prod1966,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+10,Prod1967,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+10,Prod1968,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+10,Prod1969,6/07/2024,Adelaide,"Brian Eno, Bono, Adam Clayton, The Edge & Larry Mullen Jnr."
+3,Prod1707,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich"
+3,Prod1708,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich"
+3,Prod1709,11/05/2022,Adelaide,J.Hetfield/L.Ulrich
+3,Prod78,11/05/2022,Adelaide,K.Hammett
+3,Prod1710,11/05/2022,Adelaide,K.Hammett
+3,Prod84,11/05/2022,Adelaide,K.Hammett
+3,Prod1711,11/05/2022,Adelaide,J.Hetfield/L.Ulrich
+3,Prod1712,11/05/2022,Adelaide,C.Burton
+3,Prod1713,11/05/2022,Adelaide,K.Hammett
+3,Prod1714,11/05/2022,Adelaide,K.Hammett
+3,Prod1715,11/05/2022,Adelaide,"Hetfield, Ulrich, Hammett"
+3,Prod1716,11/05/2022,Adelaide,"Hetfield, Ulrich"
+3,Prod1717,11/05/2022,Adelaide,"Hetfield, Ulrich"
+3,Prod1718,11/05/2022,Adelaide,"Hetfield, Ulrich, Hammett"
+3,Prod1719,11/05/2022,Adelaide,"Hetfield, Ulrich"
+3,Prod1720,11/05/2022,Adelaide,"Hetfield, Ulrich, Hammett"
+3,Prod1721,11/05/2022,Adelaide,"Hetfield, Ulrich, Hammett"
+3,Prod1722,11/05/2022,Adelaide,"Hetfield, Ulrich, Hammett"
+3,Prod1723,11/05/2022,Adelaide,"Hetfield, Ulrich, Newsted"
+3,Prod1724,11/05/2022,Adelaide,"Hetfield, Ulrich"
+3,Prod1725,11/05/2022,Adelaide,"Hetfield, Ulrich"
+3,Prod1726,11/05/2022,Adelaide,"Hetfield, Ulrich"
+3,Prod1727,11/05/2022,Adelaide,"Hetfield, Ulrich, Hammett"
+3,Prod1728,11/05/2022,Adelaide,Metallica
+3,Prod1729,11/05/2022,Adelaide,Metallica
+3,Prod1730,11/05/2022,Adelaide,Metallica
+3,Prod1731,11/05/2022,Adelaide,Metallica
+3,Prod1732,11/05/2022,Adelaide,Metallica
+3,Prod1733,11/05/2022,Adelaide,Metallica
+3,Prod82,11/05/2022,Adelaide,Metallica
+3,Prod1734,11/05/2022,Adelaide,Metallica
+3,Prod1735,11/05/2022,Adelaide,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich
+3,Prod1736,11/05/2022,Adelaide,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich
+3,Prod1737,11/05/2022,Adelaide,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich
+3,Prod1738,11/05/2022,Adelaide,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich
+3,Prod1739,11/05/2022,Adelaide,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich
+3,Prod1154,11/05/2022,Adelaide,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich
+3,Prod1740,11/05/2022,Adelaide,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich
+3,Prod1741,11/05/2022,Adelaide,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich
+3,Prod1742,11/05/2022,Adelaide,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich
+3,Prod1743,11/05/2022,Adelaide,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich
+3,Prod1744,11/05/2022,Adelaide,Bob Rock/James Hetfield/Kirk Hammett/Lars Ulrich
+3,Prod1745,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich & Jason Newsted"
+3,Prod1746,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich & Kirk Hammett"
+3,Prod1747,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich & Kirk Hammett"
+3,Prod1748,11/05/2022,Adelaide,James Hetfield & Lars Ulrich
+3,Prod1749,11/05/2022,Adelaide,James Hetfield and Lars Ulrich
+3,Prod79,11/05/2022,Adelaide,James Hetfield and Lars Ulrich
+3,Prod1750,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich and Kirk Hammett"
+3,Prod1751,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich and Cliff Burton"
+3,Prod1752,11/05/2022,Adelaide,"James Hetfield, Lars Ulrich and Kirk Hammett"
+3,Prod1791,11/05/2022,Adelaide,Clarke/Kilmister/Taylor
+3,Prod1792,11/05/2022,Adelaide,Clarke/Kilmister/Taylor
+3,Prod1793,11/05/2022,Adelaide,Clarke/Kilmister/Taylor
+3,Prod1794,11/05/2022,Adelaide,Clarke/Kilmister/Taylor
+3,Prod1795,11/05/2022,Adelaide,Clarke/Kilmister/Taylor
+3,Prod1796,11/05/2022,Adelaide,Clarke/Kilmister/Taylor
+3,Prod1797,11/05/2022,Adelaide,Clarke/Kilmister/Taylor
+3,Prod1798,11/05/2022,Adelaide,Clarke/Kilmister/Taylor
+3,Prod1799,11/05/2022,Adelaide,Clarke/Kilmister/Taylor
+3,Prod1800,11/05/2022,Adelaide,Clarke/Kilmister/Taylor
+3,Prod1801,11/05/2022,Adelaide,Clarke/Kilmister/Taylor
+3,Prod1802,11/05/2022,Adelaide,Clarke/Kilmister/Taylor
+3,Prod1803,11/05/2022,Adelaide,Clarke/Kilmister/Taylor
+3,Prod1804,11/05/2022,Adelaide,Heath/Robinson
+3,Prod1805,11/05/2022,Adelaide,Dufort/Johnson/McAuliffe/Williams
+3,Prod1817,11/05/2022,Adelaide,Mick Mars/Nikki Sixx/Tommy Lee/Vince Neil
+3,Prod1818,11/05/2022,Adelaide,Mick Mars/Nikki Sixx/Tommy Lee
+3,Prod1819,11/05/2022,Adelaide,Mick Mars/Nikki Sixx/Tommy Lee
+3,Prod1820,11/05/2022,Adelaide,Nikki Sixx
+3,Prod1821,11/05/2022,Adelaide,Nikki Sixx/Tommy Lee/Vince Neil
+3,Prod1822,11/05/2022,Adelaide,Bryan Adams/Nikki Sixx/Scott Humphrey
+3,Prod1823,11/05/2022,Adelaide,Mick Mars/Nikki Sixx
+3,Prod1824,11/05/2022,Adelaide,Mick Mars/Nikki Sixx/Tommy Lee/Vince Neil
+3,Prod1825,11/05/2022,Adelaide,Nikki Sixx/Tommy Lee/Vince Neil
+3,Prod1826,11/05/2022,Adelaide,Nikki Sixx
+3,Prod1827,11/05/2022,Adelaide,Mick Mars/Nikki Sixx
+8,Prod281,6/07/2024,Adelaide,
+8,Prod2032,6/07/2024,Adelaide,
+8,Prod2033,6/07/2024,Adelaide,
+8,Prod2034,6/07/2024,Adelaide,
+8,Prod2035,6/07/2024,Adelaide,
+8,Prod2036,6/07/2024,Adelaide,
+8,Prod2037,6/07/2024,Adelaide,
+8,Prod2038,6/07/2024,Adelaide,
+8,Prod2039,6/07/2024,Adelaide,
+8,Prod2040,6/07/2024,Adelaide,
+8,Prod2041,6/07/2024,Adelaide,
+8,Prod2042,6/07/2024,Adelaide,
+8,Prod2043,6/07/2024,Adelaide,
+3,Prod1828,11/05/2022,Adelaide,Mick Mars/Nikki Sixx
+3,Prod1829,11/05/2022,Adelaide,Cub Coda/Michael Lutz
+3,Prod1830,11/05/2022,Adelaide,Mick Mars/Nikki Sixx/Tommy Lee/Vince Neil
+3,Prod1831,11/05/2022,Adelaide,Nikki Sixx
+3,Prod1832,11/05/2022,Adelaide,Nikki Sixx
+3,Prod1833,11/05/2022,Adelaide,Nikki Sixx
+3,Prod1929,11/05/2022,Adelaide,"O. Osbourne, R. Daisley, R. Rhoads"
+3,Prod1930,11/05/2022,Adelaide,"O. Osbourne, R. Daisley, R. Rhoads"
+3,Prod1933,11/05/2022,Adelaide,"O. Osbourne, R. Daisley, R. Rhoads"
+3,Prod1934,11/05/2022,Adelaide,"O. Osbourne, R. Daisley, R. Rhoads"
+3,Prod1931,11/05/2022,Adelaide,"O. Osbourne, R. Daisley, R. Rhoads, L. Kerslake"
+3,Prod1935,11/05/2022,Adelaide,"O. Osbourne, R. Daisley, R. Rhoads"
+3,Prod1936,11/05/2022,Adelaide,"O. Osbourne, R. Daisley, R. Rhoads"
+3,Prod1937,11/05/2022,Adelaide,"O. Osbourne, R. Daisley, R. Rhoads"
+3,Prod1938,11/05/2022,Adelaide,"A. F. Iommi, W. Ward, T. Butler, J. Osbourne"
+3,Prod1939,11/05/2022,Adelaide,"A. F. Iommi, W. Ward, T. Butler, J. Osbourne"
+3,Prod1940,11/05/2022,Adelaide,"A. F. Iommi, W. Ward, T. Butler, J. Osbourne"
+3,Prod1941,11/05/2022,Adelaide,"O. Osbourne, R. Daisley, R. Rhoads"
+3,Prod1942,11/05/2022,Adelaide,"O. Osbourne, R. Daisley, R. Rhoads"
+3,Prod1943,11/05/2022,Adelaide,R. Rhoads
+4,Prod1987,11/05/2022,Adelaide,Stone Gossard
+4,Prod1988,11/05/2022,Adelaide,Eddie Vedder
+4,Prod1989,11/05/2022,Adelaide,Mike McCready & Stone Gossard
+4,Prod1990,11/05/2022,Adelaide,Eddie Vedder
+4,Prod1991,11/05/2022,Adelaide,Mike McCready
+4,Prod1992,11/05/2022,Adelaide,Stone Gossard
+4,Prod1993,11/05/2022,Adelaide,Matt Cameron & Mike McCready
+4,Prod1994,11/05/2022,Adelaide,Jeff Ament
+4,Prod1995,11/05/2022,Adelaide,Eddie Vedder
+4,Prod1996,11/05/2022,Adelaide,Stone Gossard
+4,Prod1997,11/05/2022,Adelaide,Jeff Ament
+4,Prod990,11/05/2022,Adelaide,Eddie Vedder & Mike McCready
+4,Prod1998,11/05/2022,Adelaide,Eddie Vedder & Mike McCready
+4,Prod2093,11/05/2022,Adelaide,Bill Berry/Michael Stipe/Mike Mills/Peter Buck
+4,Prod2094,11/05/2022,Adelaide,Bill Berry/Michael Stipe/Mike Mills/Peter Buck
+4,Prod1370,11/05/2022,Adelaide,Bill Berry/Michael Stipe/Mike Mills/Peter Buck
+4,Prod2095,11/05/2022,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+4,Prod2096,11/05/2022,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+4,Prod2097,11/05/2022,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+4,Prod2098,11/05/2022,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+4,Prod2099,11/05/2022,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+4,Prod2100,11/05/2022,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+4,Prod2101,11/05/2022,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+4,Prod2102,11/05/2022,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+4,Prod2103,11/05/2022,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+4,Prod2104,11/05/2022,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+4,Prod1976,11/05/2022,Adelaide,Bill Berry-Peter Buck-Mike Mills-Michael Stipe
+4,Prod2119,11/05/2022,Adelaide,Bill Berry/Michael Stipe/Mike Mills/Peter Buck
+4,Prod981,11/05/2022,Adelaide,Bill Berry/Michael Stipe/Mike Mills/Peter Buck
+4,Prod2120,11/05/2022,Adelaide,Bill Berry/Michael Stipe/Mike Mills/Peter Buck
+4,Prod2121,11/05/2022,Adelaide,Bill Berry/Michael Stipe/Mike Mills/Peter Buck
+4,Prod2122,11/05/2022,Adelaide,Bill Berry/Michael Stipe/Mike Mills/Peter Buck
+4,Prod2123,11/05/2022,Adelaide,Bill Berry/Michael Stipe/Mike Mills/Peter Buck
+4,Prod2124,11/05/2022,Adelaide,Bill Berry/Michael Stipe/Mike Mills/Peter Buck
+4,Prod2125,11/05/2022,Adelaide,Bill Berry/Michael Stipe/Mike Mills/Peter Buck
+4,Prod2126,11/05/2022,Adelaide,R.E.M.
+4,Prod2127,11/05/2022,Adelaide,R.E.M.
+4,Prod2128,11/05/2022,Adelaide,R.E.M.
+4,Prod2129,11/05/2022,Adelaide,R.E.M.
+4,Prod2130,11/05/2022,Adelaide,R.E.M.
+4,Prod2131,11/05/2022,Adelaide,R.E.M.
+4,Prod2132,11/05/2022,Adelaide,R.E.M.
+4,Prod2133,11/05/2022,Adelaide,R.E.M.
+4,Prod2134,11/05/2022,Adelaide,R.E.M.
+4,Prod2135,11/05/2022,Adelaide,R.E.M.
+4,Prod2136,11/05/2022,Adelaide,R.E.M.
+4,Prod2137,11/05/2022,Adelaide,R.E.M.
+4,Prod2138,11/05/2022,Adelaide,R.E.M.
+4,Prod2139,11/05/2022,Adelaide,R.E.M.
+4,Prod2140,11/05/2022,Adelaide,R.E.M.
+4,Prod2141,11/05/2022,Adelaide,R.E.M.
+4,Prod2142,11/05/2022,Adelaide,Rodolfo
+4,Prod2143,11/05/2022,Adelaide,Rodolfo
+4,Prod2144,11/05/2022,Adelaide,Rodolfo
+4,Prod2145,11/05/2022,Adelaide,Rodolfo
+4,Prod2146,11/05/2022,Adelaide,Rodolfo
+4,Prod2147,11/05/2022,Adelaide,Rodolfo
+4,Prod2148,11/05/2022,Adelaide,Rodolfo
+4,Prod2149,11/05/2022,Adelaide,Rodolfo
+4,Prod2150,11/05/2022,Adelaide,Rodolfo
+4,Prod2151,11/05/2022,Adelaide,Rodolfo
+4,Prod2166,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2167,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2168,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2169,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2170,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2171,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2172,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2173,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2174,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2175,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2176,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2177,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2178,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2179,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2180,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2181,11/05/2022,Adelaide,Anthony Kiedis/Chad Smith/Flea/John Frusciante
+4,Prod2182,11/05/2022,Adelaide,Robert Johnson
+4,Prod2278,11/05/2022,Adelaide,Billy Corgan
+4,Prod2279,11/05/2022,Adelaide,Billy Corgan
+4,Prod2280,11/05/2022,Adelaide,Billy Corgan
+4,Prod2281,11/05/2022,Adelaide,Billy Corgan
+4,Prod450,11/05/2022,Adelaide,James Iha
+4,Prod2282,11/05/2022,Adelaide,Billy Corgan
+4,Prod2283,11/05/2022,Adelaide,Billy Corgan
+4,Prod2284,11/05/2022,Adelaide,Billy Corgan
+4,Prod2285,11/05/2022,Adelaide,Billy Corgan
+4,Prod472,11/05/2022,Adelaide,Billy Corgan
+4,Prod2286,11/05/2022,Adelaide,Billy Corgan
+4,Prod2287,11/05/2022,Adelaide,David Cook
+4,Prod2288,11/05/2022,Adelaide,Billy Corgan
+4,Prod2289,11/05/2022,Adelaide,Billy Corgan
+4,Prod2290,11/05/2022,Adelaide,Billy Corgan
+4,Prod2291,11/05/2022,Adelaide,Billy Corgan
+4,Prod2292,11/05/2022,Adelaide,Billy Corgan
+4,Prod2293,11/05/2022,Adelaide,Billy Corgan
+4,Prod2294,11/05/2022,Adelaide,Billy Corgan
+4,Prod2295,11/05/2022,Adelaide,Billy Corgan
+4,Prod2296,11/05/2022,Adelaide,Billy Corgan
+4,Prod2297,11/05/2022,Adelaide,Billy Corgan
+4,Prod2298,11/05/2022,Adelaide,Stevie Nicks
+4,Prod2299,11/05/2022,Adelaide,Billy Corgan
+4,Prod2300,11/05/2022,Adelaide,Billy Corgan
+4,Prod2301,11/05/2022,Adelaide,Billy Corgan
+4,Prod2302,11/05/2022,Adelaide,Billy Corgan
+4,Prod2303,11/05/2022,Adelaide,Billy Corgan
+4,Prod2304,11/05/2022,Adelaide,Billy Corgan
+4,Prod40,11/05/2022,Adelaide,Billy Corgan
+4,Prod2305,11/05/2022,Adelaide,Billy Corgan
+4,Prod2306,11/05/2022,Adelaide,Billy Corgan
+4,Prod2307,11/05/2022,Adelaide,Billy Corgan
+4,Prod2308,11/05/2022,Adelaide,Billy Corgan
+3,Prod2355,11/05/2022,Adelaide,"Dolmayan, John/Malakian, Daron/Odadjian, Shavo"
+3,Prod2356,11/05/2022,Adelaide,"Tankian, Serj"
+3,Prod2357,11/05/2022,Adelaide,"Tankian, Serj"
+3,Prod2358,11/05/2022,Adelaide,"Tankian, Serj"
+3,Prod2359,11/05/2022,Adelaide,"Dolmayan, John/Malakian, Daron/Odadjian, Shavo"
+3,Prod2360,11/05/2022,Adelaide,"Tankian, Serj"
+3,Prod2361,11/05/2022,Adelaide,"Dolmayan, John/Malakian, Daron/Odadjian, Shavo"
+3,Prod2362,11/05/2022,Adelaide,"Tankian, Serj"
+3,Prod2363,11/05/2022,Adelaide,"Tankian, Serj"
+3,Prod2364,11/05/2022,Adelaide,"Dolmayan, John/Malakian, Daron/Odadjian, Shavo"
+3,Prod2365,11/05/2022,Adelaide,"Tankian, Serj"
+4,Prod2392,11/05/2022,Adelaide,Joe Strummer/Mick Jones
+4,Prod2393,11/05/2022,Adelaide,Joe Strummer/Mick Jones
+4,Prod2394,11/05/2022,Adelaide,Joe Strummer/Mick Jones
+4,Prod2395,11/05/2022,Adelaide,Joe Strummer/Mick Jones
+4,Prod2396,11/05/2022,Adelaide,Joe Strummer/Mick Jones
+4,Prod2397,11/05/2022,Adelaide,Joe Strummer/Mick Jones
+4,Prod2398,11/05/2022,Adelaide,Mick Jones/Traditional arr. Joe Strummer
+4,Prod2399,11/05/2022,Adelaide,Sonny Curtis
+4,Prod2400,11/05/2022,Adelaide,Joe Strummer/Mick Jones
+4,Prod2401,11/05/2022,Adelaide,Joe Strummer/Mick Jones
+4,Prod2402,11/05/2022,Adelaide,Joe Strummer/Mick Jones
+4,Prod2403,11/05/2022,Adelaide,The Clash
+4,Prod2404,11/05/2022,Adelaide,The Clash
+4,Prod2405,11/05/2022,Adelaide,The Clash
+4,Prod2406,11/05/2022,Adelaide,The Clash
+4,Prod2407,11/05/2022,Adelaide,The Clash
+4,Prod2408,11/05/2022,Adelaide,The Clash
+4,Prod2409,11/05/2022,Adelaide,The Clash
+4,Prod2504,11/05/2022,Adelaide,The Tea Party
+4,Prod2505,11/05/2022,Adelaide,The Tea Party
+4,Prod2506,11/05/2022,Adelaide,Daniel Lanois
+4,Prod2507,11/05/2022,Adelaide,The Tea Party
+4,Prod2508,11/05/2022,Adelaide,The Tea Party
+4,Prod2509,11/05/2022,Adelaide,The Tea Party
+4,Prod2510,11/05/2022,Adelaide,The Tea Party
+4,Prod2511,11/05/2022,Adelaide,The Tea Party
+4,Prod2023,11/05/2022,Adelaide,The Tea Party
+4,Prod2512,11/05/2022,Adelaide,The Tea Party
+4,Prod2513,11/05/2022,Adelaide,The Tea Party
+4,Prod2514,11/05/2022,Adelaide,The Tea Party
+4,Prod2515,11/05/2022,Adelaide,The Tea Party
+4,Prod2516,11/05/2022,Adelaide,The Tea Party
+4,Prod2473,11/05/2022,Adelaide,Keith Richards/Mick Jagger
+4,Prod2505,11/05/2022,Adelaide,The Tea Party
+4,Prod2517,11/05/2022,Adelaide,The Tea Party
+4,Prod2507,11/05/2022,Adelaide,The Tea Party
+4,Prod2518,11/05/2022,Adelaide,The Tea Party
+4,Prod2519,11/05/2022,Adelaide,The Tea Party
+4,Prod2023,11/05/2022,Adelaide,The Tea Party
+4,Prod2520,11/05/2022,Adelaide,The Tea Party
+4,Prod2514,11/05/2022,Adelaide,The Tea Party
+4,Prod2521,11/05/2022,Adelaide,The Tea Party
+4,Prod2522,11/05/2022,Adelaide,The Tea Party
+4,Prod2523,11/05/2022,Adelaide,The Tea Party
+4,Prod2570,11/05/2022,Adelaide,Titãs
+4,Prod2571,11/05/2022,Adelaide,Titãs
+4,Prod2572,11/05/2022,Adelaide,Titãs
+4,Prod2573,11/05/2022,Adelaide,Titãs
+4,Prod2574,11/05/2022,Adelaide,Titãs
+4,Prod2575,11/05/2022,Adelaide,Titãs
+4,Prod2576,11/05/2022,Adelaide,Titãs
+4,Prod2577,11/05/2022,Adelaide,Titãs
+4,Prod2578,11/05/2022,Adelaide,Titãs
+4,Prod2579,11/05/2022,Adelaide,Titãs
+4,Prod2580,11/05/2022,Adelaide,Titãs
+4,Prod2581,11/05/2022,Adelaide,Titãs
+4,Prod2582,11/05/2022,Adelaide,Titãs
+4,Prod2583,11/05/2022,Adelaide,Titãs
+4,Prod2584,11/05/2022,Adelaide,Titãs
+4,Prod2585,11/05/2022,Adelaide,Titãs
+4,Prod2586,11/05/2022,Adelaide,Titãs
+4,Prod2587,11/05/2022,Adelaide,Titãs
+4,Prod2588,11/05/2022,Adelaide,Titãs
+4,Prod2589,11/05/2022,Adelaide,Titãs
+4,Prod2590,11/05/2022,Adelaide,Titãs
+4,Prod2591,11/05/2022,Adelaide,Titãs
+4,Prod2592,11/05/2022,Adelaide,Branco Mello/Carlos Barmack/Ciro Pessoa/Marcelo Fromer/Toni Belloto
+4,Prod2593,11/05/2022,Adelaide,Arnaldo Antunes/Charles Gavin/Marcelo Fromer/Sérgio Britto/Toni Bellotto
+4,Prod2594,11/05/2022,Adelaide,Nando Reis
+4,Prod2595,11/05/2022,Adelaide,Charles Gavin/Marcelo Fromer/Sérgio Britto
+4,Prod2596,11/05/2022,Adelaide,Arnaldo Antunes
+4,Prod2597,11/05/2022,Adelaide,Sérgio Britto/Toni Bellotto
+4,Prod2598,11/05/2022,Adelaide,Sérgio Britto
+4,Prod2599,11/05/2022,Adelaide,Toni Bellotto
+4,Prod2600,11/05/2022,Adelaide,Arnaldo Anutnes/Marcelo Fromer/Paulo Miklos
+4,Prod2601,11/05/2022,Adelaide,Arnaldo Anutnes/Branco Mello/Marcelo Fromer/Sergio Brotto/Toni Bellotto
+4,Prod2602,11/05/2022,Adelaide,"Arnaldo Antunes/Britto, SergioMiklos, Paulo"
+4,Prod2603,11/05/2022,Adelaide,Sérgio Britto
+4,Prod2604,11/05/2022,Adelaide,Nando Reis
+4,Prod2605,11/05/2022,Adelaide,Ciro Pressoa/Marcelo Fromer
+4,Prod2606,11/05/2022,Adelaide,Erasmo Carlos/Roberto Carlos
+4,Prod2607,11/05/2022,Adelaide,Antonio Lopes
+3,Prod2894,11/05/2022,Adelaide,Sykes
+3,Prod2895,11/05/2022,Adelaide,Marsden
+3,Prod2896,11/05/2022,Adelaide,Sykes
+3,Prod2897,11/05/2022,Adelaide,Galley
+3,Prod2898,11/05/2022,Adelaide,Sykes
+3,Prod2899,11/05/2022,Adelaide,Vandenberg
+3,Prod2900,11/05/2022,Adelaide,Coverdale
+3,Prod2901,11/05/2022,Adelaide,Moody
+3,Prod2902,11/05/2022,Adelaide,Vandenberg
+3,Prod2903,11/05/2022,Adelaide,Sykes
+3,Prod2904,11/05/2022,Adelaide,Vandenberg
+3,Prod2905,11/05/2022,Adelaide,Coverdale
+3,Prod2906,11/05/2022,Adelaide,Marsden/Moody
+3,Prod2907,11/05/2022,Adelaide,Vandenberg
+19,Prod2609,3/05/2023,Sydney,
+19,Prod2610,3/05/2023,Sydney,
+19,Prod2611,3/05/2023,Sydney,
+19,Prod2612,3/05/2023,Sydney,
+19,Prod2613,3/05/2023,Sydney,
+20,Prod2626,3/05/2023,Sydney,
+20,Prod2627,3/05/2023,Sydney,
+19,Prod2628,3/05/2023,Sydney,
+21,Prod2032,3/05/2023,Sydney,
+21,Prod2629,3/05/2023,Sydney,
+21,Prod894,3/05/2023,Sydney,
+21,Prod2630,3/05/2023,Sydney,
+21,Prod2631,3/05/2023,Sydney,
+19,Prod2632,3/05/2023,Sydney,
+21,Prod2633,3/05/2023,Sydney,
+21,Prod2634,3/05/2023,Sydney,
+19,Prod2635,3/05/2023,Sydney,
+21,Prod2636,3/05/2023,Sydney,
+21,Prod2637,3/05/2023,Sydney,
+21,Prod2638,3/05/2023,Sydney,
+21,Prod2639,3/05/2023,Sydney,
+21,Prod2640,3/05/2023,Sydney,
+21,Prod2641,3/05/2023,Sydney,
+21,Prod2641,3/05/2023,Sydney,
+21,Prod2642,3/05/2023,Sydney,
+19,Prod2643,3/05/2023,Sydney,
+19,Prod2644,3/05/2023,Sydney,
+19,Prod2645,3/05/2023,Sydney,
+19,Prod2646,3/05/2023,Sydney,
+19,Prod2647,3/05/2023,Sydney,
+21,Prod2648,3/05/2023,Sydney,
+19,Prod2649,3/05/2023,Sydney,
+19,Prod2650,3/05/2023,Sydney,
+19,Prod2651,3/05/2023,Sydney,
+21,Prod2652,3/05/2023,Sydney,
+19,Prod2653,3/05/2023,Sydney,
+19,Prod2654,3/05/2023,Sydney,
+19,Prod2655,3/05/2023,Sydney,
+19,Prod2656,3/05/2023,Sydney,
+19,Prod2657,3/05/2023,Sydney,
+19,Prod2658,3/05/2023,Sydney,
+19,Prod2659,3/05/2023,Sydney,
+19,Prod2660,3/05/2023,Sydney,
+21,Prod2661,3/05/2023,Sydney,
+21,Prod2661,3/05/2023,Sydney,
+19,Prod2662,3/05/2023,Sydney,
+19,Prod2663,3/05/2023,Sydney,
+19,Prod894,3/05/2023,Sydney,
+19,Prod2664,3/05/2023,Sydney,
+21,Prod2665,3/05/2023,Sydney,
+21,Prod2666,3/05/2023,Sydney,
+19,Prod2667,3/05/2023,Sydney,
+19,Prod2668,3/05/2023,Sydney,
+19,Prod2669,3/05/2023,Sydney,
+21,Prod1288,3/05/2023,Sydney,
+19,Prod2670,3/05/2023,Sydney,
+19,Prod2671,3/05/2023,Sydney,
+21,Prod2672,3/05/2023,Sydney,
+21,Prod2673,3/05/2023,Sydney,
+21,Prod2674,3/05/2023,Sydney,
+21,Prod2675,3/05/2023,Sydney,
+19,Prod2676,3/05/2023,Sydney,
+19,Prod2677,3/05/2023,Sydney,
+21,Prod2678,3/05/2023,Sydney,
+19,Prod2679,3/05/2023,Sydney,
+21,Prod2680,3/05/2023,Sydney,
+19,Prod2681,3/05/2023,Sydney,
+21,Prod2682,3/05/2023,Sydney,
+21,Prod2683,3/05/2023,Sydney,
+19,Prod2634,3/05/2023,Sydney,
+21,Prod2684,3/05/2023,Sydney,
+21,Prod2685,3/05/2023,Sydney,
+19,Prod2686,3/05/2023,Sydney,
+21,Prod2687,3/05/2023,Sydney,
+19,Prod2688,3/05/2023,Sydney,
+21,Prod2689,3/05/2023,Sydney,
+21,Prod2690,3/05/2023,Sydney,
+21,Prod2691,3/05/2023,Sydney,
+19,Prod2692,3/05/2023,Sydney,
+19,Prod2693,3/05/2023,Sydney,
+21,Prod2694,3/05/2023,Sydney,
+19,Prod2695,3/05/2023,Sydney,
+19,Prod2696,3/05/2023,Sydney,
+19,Prod2697,3/05/2023,Sydney,
+21,Prod2698,3/05/2023,Sydney,
+19,Prod2699,3/05/2023,Sydney,
+19,Prod2700,3/05/2023,Sydney,
+19,Prod2701,3/05/2023,Sydney,
+19,Prod2702,3/05/2023,Sydney,
+19,Prod2703,3/05/2023,Sydney,
+21,Prod2704,3/05/2023,Sydney,
+19,Prod2705,3/05/2023,Sydney,
+19,Prod2706,3/05/2023,Sydney,
+19,Prod2707,3/05/2023,Sydney,
+21,Prod2927,3/05/2023,Sydney,
+21,Prod2928,3/05/2023,Sydney,
+21,Prod2929,3/05/2023,Sydney,
+21,Prod2930,3/05/2023,Sydney,
+21,Prod2931,3/05/2023,Sydney,
+21,Prod2932,3/05/2023,Sydney,
+21,Prod2298,3/05/2023,Sydney,
+19,Prod2933,3/05/2023,Sydney,
+19,Prod2934,3/05/2023,Sydney,
+19,Prod2935,3/05/2023,Sydney,
+19,Prod2936,3/05/2023,Sydney,
+19,Prod2937,3/05/2023,Sydney,
+19,Prod2938,3/05/2023,Sydney,
+19,Prod2939,3/05/2023,Sydney,
+19,Prod2940,3/05/2023,Sydney,
+19,Prod2941,3/05/2023,Sydney,
+19,Prod2942,3/05/2023,Sydney,
+19,Prod2943,3/05/2023,Sydney,
+19,Prod2944,3/05/2023,Sydney,
+19,Prod2945,3/05/2023,Sydney,
+19,Prod2946,3/05/2023,Sydney,
+19,Prod2947,3/05/2023,Sydney,
+19,Prod2948,3/05/2023,Sydney,
+19,Prod2949,3/05/2023,Sydney,
+19,Prod2950,3/05/2023,Sydney,
+19,Prod2951,3/05/2023,Sydney,
+19,Prod2952,3/05/2023,Sydney,
+19,Prod2953,3/05/2023,Sydney,
+19,Prod2954,3/05/2023,Sydney,
+19,Prod2955,3/05/2023,Sydney,
+19,Prod2956,3/05/2023,Sydney,
+19,Prod2957,3/05/2023,Sydney,
+19,Prod2958,3/05/2023,Sydney,
+19,Prod2959,3/05/2023,Sydney,
+19,Prod2960,3/05/2023,Sydney,
+19,Prod2961,3/05/2023,Sydney,
+19,Prod2962,3/05/2023,Sydney,
+19,Prod2963,3/05/2023,Sydney,
+19,Prod2964,3/05/2023,Sydney,
+19,Prod2965,3/05/2023,Sydney,
+19,Prod2966,3/05/2023,Sydney,
+19,Prod2967,3/05/2023,Sydney,
+19,Prod2968,3/05/2023,Sydney,
+22,Prod2969,3/05/2023,Sydney,
+22,Prod2970,3/05/2023,Sydney,
+22,Prod2971,3/05/2023,Sydney,
+22,Prod2972,3/05/2023,Sydney,
+22,Prod2973,3/05/2023,Sydney,
+22,Prod2974,3/05/2023,Sydney,
+22,Prod2975,3/05/2023,Sydney,
+22,Prod2976,3/05/2023,Sydney,
+22,Prod2977,3/05/2023,Sydney,
+22,Prod2978,3/05/2023,Sydney,
+22,Prod2979,3/05/2023,Sydney,
+22,Prod2980,3/05/2023,Sydney,
+22,Prod2981,3/05/2023,Sydney,
+22,Prod2982,3/05/2023,Sydney,
+22,Prod2983,3/05/2023,Sydney,
+21,Prod2984,3/05/2023,Sydney,
+21,Prod2985,3/05/2023,Sydney,
+20,Prod2986,3/05/2023,Sydney,
+20,Prod2987,3/05/2023,Sydney,
+20,Prod2988,3/05/2023,Sydney,
+20,Prod2989,3/05/2023,Sydney,
+20,Prod2990,3/05/2023,Sydney,
+20,Prod2991,3/05/2023,Sydney,
+20,Prod2992,3/05/2023,Sydney,
+20,Prod2993,3/05/2023,Sydney,
+20,Prod2994,3/05/2023,Sydney,
+20,Prod2995,3/05/2023,Sydney,
+20,Prod2996,3/05/2023,Sydney,
+20,Prod2997,3/05/2023,Sydney,
+20,Prod2998,3/05/2023,Sydney,
+20,Prod2999,3/05/2023,Sydney,
+20,Prod3000,3/05/2023,Sydney,
+20,Prod3001,3/05/2023,Sydney,
+20,Prod3002,3/05/2023,Sydney,
+20,Prod3003,3/05/2023,Sydney,
+20,Prod3004,3/05/2023,Sydney,
+20,Prod3005,3/05/2023,Sydney,
+20,Prod3006,3/05/2023,Sydney,
+20,Prod3007,3/05/2023,Sydney,
+20,Prod3008,3/05/2023,Sydney,
+20,Prod3009,3/05/2023,Sydney,
+19,Prod3010,3/05/2023,Sydney,
+21,Prod3011,3/05/2023,Sydney,
+21,Prod3012,3/05/2023,Sydney,
+21,Prod3085,3/05/2023,Sydney,
+21,Prod3086,3/05/2023,Sydney,
+21,Prod3087,3/05/2023,Sydney,
+21,Prod3088,3/05/2023,Sydney,
+21,Prod3089,3/05/2023,Sydney,
+21,Prod3090,3/05/2023,Sydney,
+19,Prod3091,3/05/2023,Sydney,
+21,Prod3092,3/05/2023,Sydney,
+21,Prod3093,3/05/2023,Sydney,
+19,Prod3094,3/05/2023,Sydney,
+19,Prod3095,3/05/2023,Sydney,
+21,Prod3096,3/05/2023,Sydney,
+21,Prod3108,3/05/2023,Sydney,
+21,Prod3109,3/05/2023,Sydney,
+21,Prod3110,3/05/2023,Sydney,
+21,Prod3111,3/05/2023,Sydney,
+21,Prod3112,3/05/2023,Sydney,
+22,Prod2967,3/05/2023,Sydney,
+22,Prod3175,3/05/2023,Sydney,
+6,Prod193,9/08/2023,Adelaide,Eurreal Montgomery
+6,Prod194,9/08/2023,Adelaide,Willie Dixon
+6,Prod195,9/08/2023,Adelaide,Buddy Guy
+6,Prod196,9/08/2023,Adelaide,Willie Dixon
+6,Prod197,9/08/2023,Adelaide,Al Perkins/Willie Dixon
+6,Prod198,9/08/2023,Adelaide,Buddy Guy
+6,Prod199,9/08/2023,Adelaide,Buddy Guy
+6,Prod200,9/08/2023,Adelaide,Sonny Boy Williamson [I]
+6,Prod201,9/08/2023,Adelaide,Robert Geddins/Ron Badger/Sheldon Feinberg
+6,Prod202,9/08/2023,Adelaide,Willie Dixon
+6,Prod203,9/08/2023,Adelaide,Amos Blakemore/Buddy Guy
+7,Prod204,9/08/2023,Adelaide,Jorge Ben
+7,Prod205,9/08/2023,Adelaide,Tradicional
+7,Prod206,9/08/2023,Adelaide,Tom Jobim - Newton Mendoça
+7,Prod207,9/08/2023,Adelaide,Caetano Veloso
+7,Prod208,9/08/2023,Adelaide,Caetano Veloso
+7,Prod209,9/08/2023,Adelaide,Caetano Veloso
+7,Prod210,9/08/2023,Adelaide,Gilberto Gil
+7,Prod211,9/08/2023,Adelaide,Gilberto Gil
+7,Prod212,9/08/2023,Adelaide,Caetano Veloso
+7,Prod213,9/08/2023,Adelaide,Chico Buarque
+7,Prod214,9/08/2023,Adelaide,Peninha
+7,Prod215,9/08/2023,Adelaide,Caetano Veloso
+7,Prod216,9/08/2023,Adelaide,Caetano Veloso - Waly Salomão
+7,Prod217,9/08/2023,Adelaide,Caetano Veloso - Djavan
+7,Prod218,9/08/2023,Adelaide,Caetano Veloso
+7,Prod219,9/08/2023,Adelaide,Caetano Veloso
+7,Prod220,9/08/2023,Adelaide,David Corrêa - Paulinho Carvalho - Carlos Sena - Bira do Ponto
+7,Prod221,9/08/2023,Adelaide,Fausto Nilo - Armandinho
+7,Prod222,9/08/2023,Adelaide,
+7,Prod223,9/08/2023,Adelaide,
+7,Prod224,9/08/2023,Adelaide,
+7,Prod213,9/08/2023,Adelaide,
+7,Prod225,9/08/2023,Adelaide,
+7,Prod226,9/08/2023,Adelaide,
+7,Prod227,9/08/2023,Adelaide,
+7,Prod228,9/08/2023,Adelaide,
+7,Prod229,9/08/2023,Adelaide,
+7,Prod230,9/08/2023,Adelaide,
+7,Prod231,9/08/2023,Adelaide,
+7,Prod232,9/08/2023,Adelaide,
+7,Prod233,9/08/2023,Adelaide,
+7,Prod234,9/08/2023,Adelaide,
+7,Prod235,9/08/2023,Adelaide,
+7,Prod236,9/08/2023,Adelaide,
+7,Prod237,9/08/2023,Adelaide,
+7,Prod238,9/08/2023,Adelaide,
+7,Prod239,9/08/2023,Adelaide,
+7,Prod240,9/08/2023,Adelaide,
+7,Prod241,9/08/2023,Adelaide,
+7,Prod242,9/08/2023,Adelaide,
+7,Prod243,9/08/2023,Adelaide,
+7,Prod244,9/08/2023,Adelaide,Chico Science
+7,Prod245,9/08/2023,Adelaide,Chico Science
+7,Prod246,9/08/2023,Adelaide,Chico Science
+7,Prod247,9/08/2023,Adelaide,Chico Science
+7,Prod248,9/08/2023,Adelaide,Chico Science
+7,Prod249,9/08/2023,Adelaide,Chico Science
+7,Prod250,9/08/2023,Adelaide,Chico Science
+7,Prod251,9/08/2023,Adelaide,Chico Science
+7,Prod252,9/08/2023,Adelaide,Chico Science
+7,Prod253,9/08/2023,Adelaide,Chico Science
+7,Prod254,9/08/2023,Adelaide,Chico Science
+7,Prod255,9/08/2023,Adelaide,Chico Science
+7,Prod256,9/08/2023,Adelaide,Chico Science
+7,Prod257,9/08/2023,Adelaide,Chico Science
+7,Prod258,9/08/2023,Adelaide,Chico Science
+7,Prod259,9/08/2023,Adelaide,Chico Science
+7,Prod260,9/08/2023,Adelaide,Chico Science
+7,Prod261,9/08/2023,Adelaide,Chico Science
+7,Prod262,9/08/2023,Adelaide,Chico Science
+7,Prod263,9/08/2023,Adelaide,Chico Science
+7,Prod264,9/08/2023,Adelaide,Chico Science
+7,Prod265,9/08/2023,Adelaide,Chico Science
+7,Prod266,9/08/2023,Adelaide,Chico Science
+7,Prod267,9/08/2023,Adelaide,
+7,Prod267,9/08/2023,Adelaide,
+7,Prod268,9/08/2023,Adelaide,
+7,Prod269,9/08/2023,Adelaide,
+7,Prod270,9/08/2023,Adelaide,
+7,Prod271,9/08/2023,Adelaide,
+7,Prod272,9/08/2023,Adelaide,
+7,Prod273,9/08/2023,Adelaide,
+7,Prod274,9/08/2023,Adelaide,
+7,Prod275,9/08/2023,Adelaide,
+7,Prod276,9/08/2023,Adelaide,
+7,Prod277,9/08/2023,Adelaide,
+7,Prod278,9/08/2023,Adelaide,
+7,Prod302,9/08/2023,Adelaide,
+7,Prod303,9/08/2023,Adelaide,
+7,Prod304,9/08/2023,Adelaide,
+7,Prod217,9/08/2023,Adelaide,
+7,Prod305,9/08/2023,Adelaide,
+7,Prod306,9/08/2023,Adelaide,
+7,Prod307,9/08/2023,Adelaide,
+7,Prod308,9/08/2023,Adelaide,
+7,Prod309,9/08/2023,Adelaide,
+7,Prod310,9/08/2023,Adelaide,
+7,Prod362,9/08/2023,Adelaide,Marcos Valle
+7,Prod363,9/08/2023,Adelaide,Jorge Ben
+7,Prod364,9/08/2023,Adelaide,J.r.Bertami/Parana
+7,Prod365,9/08/2023,Adelaide,Donato/Gilberto Gil
+7,Prod366,9/08/2023,Adelaide,Antonio Carlos Jobim
+7,Prod367,9/08/2023,Adelaide,Antonio Carlos Jobim/Vinicius de Moraes
+7,Prod368,9/08/2023,Adelaide,Baden Powell/Vinicius de Moraes
+7,Prod369,9/08/2023,Adelaide,Jorge Vercilo/Jota Maranhao
+7,Prod370,9/08/2023,Adelaide,Caetano Veloso
+7,Prod371,9/08/2023,Adelaide,Caetano Veloso
+7,Prod372,9/08/2023,Adelaide,Luiz Melodia/Ricardo Augusto
+7,Prod373,9/08/2023,Adelaide,Nando Reis
+7,Prod374,9/08/2023,Adelaide,Alexandre Brazil/Pedro Luis/Rodrigo Cabelo
+7,Prod375,9/08/2023,Adelaide,Macelo Yuka/O Rappa
+7,Prod376,9/08/2023,Adelaide,Bombom/Ed Motta
+7,Prod377,9/08/2023,Adelaide,Luiz Carlos/Oberdan
+7,Prod378,9/08/2023,Adelaide,Alba Carvalho/Fernando Porto
+7,Prod64,9/08/2023,Adelaide,Vários
+7,Prod379,9/08/2023,Adelaide,Vários
+7,Prod380,9/08/2023,Adelaide,Vários
+7,Prod381,9/08/2023,Adelaide,Vários
+7,Prod382,9/08/2023,Adelaide,Vários
+7,Prod383,9/08/2023,Adelaide,Vários
+7,Prod384,9/08/2023,Adelaide,Vários
+7,Prod385,9/08/2023,Adelaide,Vários
+7,Prod386,9/08/2023,Adelaide,Vários
+7,Prod387,9/08/2023,Adelaide,Vários
+7,Prod388,9/08/2023,Adelaide,Vários
+7,Prod389,9/08/2023,Adelaide,Vários
+7,Prod390,9/08/2023,Adelaide,Vários
+7,Prod391,9/08/2023,Adelaide,Vários
+7,Prod392,9/08/2023,Adelaide,Vários
+7,Prod393,9/08/2023,Adelaide,Vários
+7,Prod394,9/08/2023,Adelaide,Vários
+7,Prod486,9/08/2023,Adelaide,Gonzaga Jr.
+7,Prod487,9/08/2023,Adelaide,
+7,Prod488,9/08/2023,Adelaide,
+7,Prod489,9/08/2023,Adelaide,
+7,Prod490,9/08/2023,Adelaide,Gonzaga Jr/Gonzaguinha
+7,Prod491,9/08/2023,Adelaide,
+7,Prod492,9/08/2023,Adelaide,Gonzaga Jr.
+7,Prod493,9/08/2023,Adelaide,
+7,Prod494,9/08/2023,Adelaide,Gonzaga Jr.
+7,Prod495,9/08/2023,Adelaide,
+7,Prod496,9/08/2023,Adelaide,
+7,Prod497,9/08/2023,Adelaide,Gonzaga Jr
+7,Prod498,9/08/2023,Adelaide,
+7,Prod499,9/08/2023,Adelaide,Gonzaguinha
+7,Prod500,9/08/2023,Adelaide,
+7,Prod501,9/08/2023,Adelaide,
+7,Prod502,9/08/2023,Adelaide,
+7,Prod503,9/08/2023,Adelaide,
+7,Prod504,9/08/2023,Adelaide,
+7,Prod505,9/08/2023,Adelaide,
+7,Prod370,9/08/2023,Adelaide,
+7,Prod506,9/08/2023,Adelaide,
+7,Prod507,9/08/2023,Adelaide,
+7,Prod508,9/08/2023,Adelaide,
+7,Prod509,9/08/2023,Adelaide,
+7,Prod510,9/08/2023,Adelaide,
+7,Prod207,9/08/2023,Adelaide,
+7,Prod511,9/08/2023,Adelaide,
+7,Prod538,9/08/2023,Adelaide,Guga/Marquinho Lessa/Tuninho Professor
+7,Prod539,9/08/2023,Adelaide,Caruso/Cleber/Deo/Osmar
+7,Prod540,9/08/2023,Adelaide,Dadinho/Gilbreto Gomes/Gustavo/P.C. Portugal/R. Mocoto
+7,Prod541,9/08/2023,Adelaide,"Domenil/J. Brito/Joaozinho/Rap, Marcelo Do"
+7,Prod542,9/08/2023,Adelaide,"Douglas/Neves, Vicente Das/Silva, Gilmar L./Toninho Gentil/Wantuir"
+7,Prod543,9/08/2023,Adelaide,"Augusto/Craig Negoescu/Rocco Filho/Saara, Ze Carlos Da"
+7,Prod544,9/08/2023,Adelaide,Bizuca/Clóvis Pê/Gilson Bernini/Marelo D'Aguia
+7,Prod545,9/08/2023,Adelaide,"Dito/Djalma Falcao/Ilha, Almir Da/Márcio André"
+7,Prod546,9/08/2023,Adelaide,Carlos Santos/Ciro/Claudio Russo/Zé Luiz
+7,Prod547,9/08/2023,Adelaide,Flavio Bororo/Paulo Apparicio/Wagner Alves/Zeca Sereno
+7,Prod548,9/08/2023,Adelaide,Gule/Jorge 101/Lequinho/Luiz Piao
+7,Prod549,9/08/2023,Adelaide,Adalto Magalha/Lourenco
+7,Prod550,9/08/2023,Adelaide,Arlindo Cruz/Carlos Sena/Elmo Caetano/Mauricao
+7,Prod551,9/08/2023,Adelaide,"Claudio Martins/David Lima/Kleber Rodrigues/Livre, Cesare Som"
+7,Prod565,9/08/2023,Adelaide,
+7,Prod566,9/08/2023,Adelaide,
+7,Prod567,9/08/2023,Adelaide,
+7,Prod568,9/08/2023,Adelaide,
+7,Prod389,9/08/2023,Adelaide,
+7,Prod569,9/08/2023,Adelaide,
+7,Prod570,9/08/2023,Adelaide,
+7,Prod571,9/08/2023,Adelaide,
+7,Prod572,9/08/2023,Adelaide,
+7,Prod573,9/08/2023,Adelaide,
+7,Prod574,9/08/2023,Adelaide,
+7,Prod575,9/08/2023,Adelaide,
+7,Prod576,9/08/2023,Adelaide,
+7,Prod577,9/08/2023,Adelaide,
+7,Prod642,9/08/2023,Adelaide,
+7,Prod643,9/08/2023,Adelaide,
+7,Prod644,9/08/2023,Adelaide,
+7,Prod645,9/08/2023,Adelaide,
+7,Prod646,9/08/2023,Adelaide,
+7,Prod647,9/08/2023,Adelaide,
+7,Prod648,9/08/2023,Adelaide,
+7,Prod649,9/08/2023,Adelaide,
+7,Prod650,9/08/2023,Adelaide,
+7,Prod651,9/08/2023,Adelaide,
+7,Prod652,9/08/2023,Adelaide,
+7,Prod653,9/08/2023,Adelaide,
+7,Prod654,9/08/2023,Adelaide,
+7,Prod655,9/08/2023,Adelaide,
+7,Prod695,9/08/2023,Adelaide,
+7,Prod696,9/08/2023,Adelaide,
+7,Prod697,9/08/2023,Adelaide,
+7,Prod698,9/08/2023,Adelaide,
+7,Prod699,9/08/2023,Adelaide,
+7,Prod700,9/08/2023,Adelaide,
+7,Prod701,9/08/2023,Adelaide,
+7,Prod702,9/08/2023,Adelaide,
+7,Prod703,9/08/2023,Adelaide,
+7,Prod704,9/08/2023,Adelaide,
+7,Prod705,9/08/2023,Adelaide,
+7,Prod706,9/08/2023,Adelaide,
+7,Prod707,9/08/2023,Adelaide,
+7,Prod708,9/08/2023,Adelaide,
+7,Prod709,9/08/2023,Adelaide,
+7,Prod710,9/08/2023,Adelaide,
+7,Prod711,9/08/2023,Adelaide,
+7,Prod712,9/08/2023,Adelaide,
+7,Prod713,9/08/2023,Adelaide,
+7,Prod714,9/08/2023,Adelaide,
+7,Prod715,9/08/2023,Adelaide,
+7,Prod716,9/08/2023,Adelaide,
+7,Prod717,9/08/2023,Adelaide,
+7,Prod718,9/08/2023,Adelaide,
+7,Prod719,9/08/2023,Adelaide,
+7,Prod720,9/08/2023,Adelaide,
+7,Prod721,9/08/2023,Adelaide,
+7,Prod722,9/08/2023,Adelaide,
+7,Prod723,9/08/2023,Adelaide,
+7,Prod724,9/08/2023,Adelaide,
+7,Prod826,9/08/2023,Adelaide,
+7,Prod827,9/08/2023,Adelaide,
+7,Prod828,9/08/2023,Adelaide,
+7,Prod829,9/08/2023,Adelaide,
+7,Prod830,9/08/2023,Adelaide,
+7,Prod831,9/08/2023,Adelaide,
+7,Prod832,9/08/2023,Adelaide,
+7,Prod833,9/08/2023,Adelaide,
+7,Prod834,9/08/2023,Adelaide,
+7,Prod835,9/08/2023,Adelaide,
+7,Prod836,9/08/2023,Adelaide,
+7,Prod837,9/08/2023,Adelaide,
+7,Prod838,9/08/2023,Adelaide,
+7,Prod839,9/08/2023,Adelaide,Djavan
+7,Prod840,9/08/2023,Adelaide,Djavan
+7,Prod841,9/08/2023,Adelaide,Djavan
+7,Prod842,9/08/2023,Adelaide,Djavan
+7,Prod843,9/08/2023,Adelaide,Djavan
+7,Prod844,9/08/2023,Adelaide,Djavan
+7,Prod845,9/08/2023,Adelaide,Djavan
+7,Prod846,9/08/2023,Adelaide,Djavan
+7,Prod847,9/08/2023,Adelaide,Djavan
+7,Prod848,9/08/2023,Adelaide,"Djavan - Gabriel, O Pensador"
+7,Prod849,9/08/2023,Adelaide,Djavan
+7,Prod837,9/08/2023,Adelaide,Djavan
+7,Prod838,9/08/2023,Adelaide,Djavan
+7,Prod850,9/08/2023,Adelaide,
+7,Prod851,9/08/2023,Adelaide,
+7,Prod852,9/08/2023,Adelaide,
+7,Prod853,9/08/2023,Adelaide,
+7,Prod854,9/08/2023,Adelaide,
+7,Prod855,9/08/2023,Adelaide,
+7,Prod856,9/08/2023,Adelaide,
+7,Prod857,9/08/2023,Adelaide,
+7,Prod858,9/08/2023,Adelaide,
+7,Prod859,9/08/2023,Adelaide,
+7,Prod860,9/08/2023,Adelaide,
+7,Prod861,9/08/2023,Adelaide,
+7,Prod862,9/08/2023,Adelaide,
+7,Prod863,9/08/2023,Adelaide,
+6,Prod864,9/08/2023,Adelaide,Clapton/Gordon
+6,Prod865,9/08/2023,Adelaide,Clapton/Harrison
+6,Prod866,9/08/2023,Adelaide,Bruce/Clapton
+6,Prod867,9/08/2023,Adelaide,Bruce/Clapton
+6,Prod868,9/08/2023,Adelaide,Clapton/Robert Johnson Arr: Eric Clapton
+6,Prod869,9/08/2023,Adelaide,Clapton/Collins/Pappalardi
+6,Prod870,9/08/2023,Adelaide,Bruce/Clapton
+6,Prod871,9/08/2023,Adelaide,Clapton
+6,Prod872,9/08/2023,Adelaide,Cale/Clapton
+6,Prod873,9/08/2023,Adelaide,Marley
+6,Prod874,9/08/2023,Adelaide,Clapton/J. J. Cale
+6,Prod875,9/08/2023,Adelaide,Clapton/Trad. Arr. Clapton
+6,Prod876,9/08/2023,Adelaide,Clapton/Levy
+6,Prod877,9/08/2023,Adelaide,Clapton/Dylan
+6,Prod878,9/08/2023,Adelaide,Clapton
+6,Prod879,9/08/2023,Adelaide,Clapton
+6,Prod880,9/08/2023,Adelaide,Clapton/F.eldman/Linn
+6,Prod881,9/08/2023,Adelaide,Clapton
+6,Prod882,9/08/2023,Adelaide,Eric Clapton
+6,Prod686,9/08/2023,Adelaide,Eugene McDaniel
+6,Prod883,9/08/2023,Adelaide,Big Bill Broonzy
+6,Prod884,9/08/2023,Adelaide,"Eric Clapton, Will Jennings"
+6,Prod885,9/08/2023,Adelaide,Eric Clapton
+6,Prod886,9/08/2023,Adelaide,Jimmy Cox
+6,Prod864,9/08/2023,Adelaide,"Eric Clapton, Jim Gordon"
+6,Prod887,9/08/2023,Adelaide,Jerry Lynn Williams
+6,Prod888,9/08/2023,Adelaide,Robert Johnson
+6,Prod889,9/08/2023,Adelaide,Traditional
+6,Prod890,9/08/2023,Adelaide,Jesse Fuller
+6,Prod891,9/08/2023,Adelaide,Robert Johnson
+6,Prod892,9/08/2023,Adelaide,"Eric Clapton, Robert Cray"
+6,Prod893,9/08/2023,Adelaide,McKinley Morgenfield (Muddy Waters)
+7,Prod946,9/08/2023,Adelaide,
+7,Prod947,9/08/2023,Adelaide,
+7,Prod948,9/08/2023,Adelaide,
+7,Prod949,9/08/2023,Adelaide,
+7,Prod950,9/08/2023,Adelaide,
+7,Prod951,9/08/2023,Adelaide,
+7,Prod952,9/08/2023,Adelaide,
+7,Prod953,9/08/2023,Adelaide,
+7,Prod954,9/08/2023,Adelaide,
+7,Prod955,9/08/2023,Adelaide,
+7,Prod956,9/08/2023,Adelaide,
+7,Prod957,9/08/2023,Adelaide,
+7,Prod958,9/08/2023,Adelaide,
+7,Prod959,9/08/2023,Adelaide,
+7,Prod1028,9/08/2023,Adelaide,
+7,Prod1029,9/08/2023,Adelaide,
+7,Prod1030,9/08/2023,Adelaide,
+7,Prod1031,9/08/2023,Adelaide,
+7,Prod1032,9/08/2023,Adelaide,
+7,Prod1033,9/08/2023,Adelaide,
+7,Prod1034,9/08/2023,Adelaide,
+7,Prod1035,9/08/2023,Adelaide,
+7,Prod1036,9/08/2023,Adelaide,Emerson Villani
+7,Prod1037,9/08/2023,Adelaide,
+7,Prod1038,9/08/2023,Adelaide,
+7,Prod1039,9/08/2023,Adelaide,
+7,Prod1040,9/08/2023,Adelaide,
+7,Prod1041,9/08/2023,Adelaide,
+7,Prod1042,9/08/2023,Adelaide,
+7,Prod1043,9/08/2023,Adelaide,
+7,Prod1058,9/08/2023,Adelaide,
+7,Prod1059,9/08/2023,Adelaide,
+7,Prod1060,9/08/2023,Adelaide,
+7,Prod1061,9/08/2023,Adelaide,
+7,Prod1062,9/08/2023,Adelaide,
+7,Prod1063,9/08/2023,Adelaide,
+7,Prod1064,9/08/2023,Adelaide,
+7,Prod1065,9/08/2023,Adelaide,
+7,Prod1066,9/08/2023,Adelaide,
+7,Prod1067,9/08/2023,Adelaide,
+7,Prod1068,9/08/2023,Adelaide,
+7,Prod1069,9/08/2023,Adelaide,
+7,Prod1070,9/08/2023,Adelaide,
+7,Prod1071,9/08/2023,Adelaide,
+7,Prod1072,9/08/2023,Adelaide,
+7,Prod1076,9/08/2023,Adelaide,Gilberto Gil
+7,Prod1077,9/08/2023,Adelaide,Gilberto Gil
+7,Prod1078,9/08/2023,Adelaide,Gilberto Gil
+7,Prod1079,9/08/2023,Adelaide,Gilberto Gil
+7,Prod1080,9/08/2023,Adelaide,Gilberto Gil
+7,Prod211,9/08/2023,Adelaide,Gilberto Gil
+7,Prod365,9/08/2023,Adelaide,Gilberto Gil
+7,Prod1081,9/08/2023,Adelaide,Gilberto Gil
+7,Prod507,9/08/2023,Adelaide,Gilberto Gil
+7,Prod1082,9/08/2023,Adelaide,Gilberto Gil
+7,Prod1083,9/08/2023,Adelaide,Gilberto Gil
+7,Prod1084,9/08/2023,Adelaide,Gilberto Gil
+7,Prod1085,9/08/2023,Adelaide,Gilberto Gil
+7,Prod1086,9/08/2023,Adelaide,Gilberto Gil
+7,Prod1087,9/08/2023,Adelaide,Gilberto Gil
+7,Prod1088,9/08/2023,Adelaide,Gilberto Gil
+6,Prod1229,9/08/2023,Adelaide,Steve Harris
+6,Prod1230,9/08/2023,Adelaide,David Murray/Paul Di'Anno/Steve Harris
+6,Prod1231,9/08/2023,Adelaide,Harris/Paul Di´Anno
+6,Prod1232,9/08/2023,Adelaide,Harris/Paul Di´Anno
+6,Prod1233,9/08/2023,Adelaide,Steve Harris
+8,Prod779,6/07/2024,Adelaide,
+8,Prod2807,6/07/2024,Adelaide,
+8,Prod2808,6/07/2024,Adelaide,
+8,Prod2809,6/07/2024,Adelaide,
+8,Prod2810,6/07/2024,Adelaide,
+8,Prod2811,6/07/2024,Adelaide,
+8,Prod2812,6/07/2024,Adelaide,
+8,Prod2813,6/07/2024,Adelaide,
+8,Prod2814,6/07/2024,Adelaide,
+8,Prod2815,6/07/2024,Adelaide,
+8,Prod2816,6/07/2024,Adelaide,
+8,Prod2817,6/07/2024,Adelaide,
+8,Prod2818,6/07/2024,Adelaide,
+8,Prod2819,6/07/2024,Adelaide,
+6,Prod1234,9/08/2023,Adelaide,Steve Harris
+6,Prod1235,9/08/2023,Adelaide,Steve Harris
+6,Prod1236,9/08/2023,Adelaide,Murray  Dave
+6,Prod1237,9/08/2023,Adelaide,Steve Harris
+7,Prod1403,9/08/2023,Adelaide,
+7,Prod1404,9/08/2023,Adelaide,
+7,Prod1405,9/08/2023,Adelaide,
+7,Prod1406,9/08/2023,Adelaide,
+7,Prod1407,9/08/2023,Adelaide,
+7,Prod1408,9/08/2023,Adelaide,
+7,Prod1409,9/08/2023,Adelaide,
+7,Prod1410,9/08/2023,Adelaide,
+7,Prod1411,9/08/2023,Adelaide,
+7,Prod1412,9/08/2023,Adelaide,
+7,Prod1413,9/08/2023,Adelaide,
+7,Prod1414,9/08/2023,Adelaide,
+7,Prod1415,9/08/2023,Adelaide,
+7,Prod1416,9/08/2023,Adelaide,
+7,Prod1417,9/08/2023,Adelaide,
+7,Prod1418,9/08/2023,Adelaide,Hyldon
+7,Prod1419,9/08/2023,Adelaide,
+7,Prod1420,9/08/2023,Adelaide,
+7,Prod1421,9/08/2023,Adelaide,
+7,Prod1422,9/08/2023,Adelaide,
+7,Prod1423,9/08/2023,Adelaide,Marco Tulio Lara/Rogerio Flausino
+7,Prod1424,9/08/2023,Adelaide,
+7,Prod1425,9/08/2023,Adelaide,
+7,Prod1426,9/08/2023,Adelaide,
+7,Prod1427,9/08/2023,Adelaide,
+7,Prod1428,9/08/2023,Adelaide,
+7,Prod1537,9/08/2023,Adelaide,Renato Russo
+7,Prod1538,9/08/2023,Adelaide,Renato Russo
+7,Prod1539,9/08/2023,Adelaide,Renato Russo
+7,Prod1540,9/08/2023,Adelaide,Renato Russo - Marcelo Bonfá
+7,Prod1541,9/08/2023,Adelaide,Renato Russo
+7,Prod1542,9/08/2023,Adelaide,Renato Russo
+7,Prod1543,9/08/2023,Adelaide,Renato Russo
+7,Prod1544,9/08/2023,Adelaide,Renato Russo - Marisa Monte
+7,Prod1545,9/08/2023,Adelaide,Renato Russo
+7,Prod1546,9/08/2023,Adelaide,Renato Russo
+7,Prod1547,9/08/2023,Adelaide,Renato Russo
+7,Prod1548,9/08/2023,Adelaide,Renato Russo
+7,Prod1549,9/08/2023,Adelaide,Renato Russo
+7,Prod1550,9/08/2023,Adelaide,Renato Russo
+7,Prod1551,9/08/2023,Adelaide,Renato Russo
+7,Prod1552,9/08/2023,Adelaide,Dado Villa-Lobos/Marcelo Bonfá
+7,Prod1553,9/08/2023,Adelaide,Dado Villa-Lobos/Ico Ouro-Preto/Marcelo Bonfá
+7,Prod1554,9/08/2023,Adelaide,Renato Russo
+7,Prod1555,9/08/2023,Adelaide,Renato Russo
+7,Prod1556,9/08/2023,Adelaide,Renato Russo
+7,Prod1557,9/08/2023,Adelaide,Renato Russo
+7,Prod1558,9/08/2023,Adelaide,Renato Russo
+7,Prod1559,9/08/2023,Adelaide,Renato Russo
+7,Prod1560,9/08/2023,Adelaide,Dado Villa-Lobos/Marcelo Bonfá
+7,Prod1561,9/08/2023,Adelaide,Dado Villa-Lobos/Marcelo Bonfá
+7,Prod1562,9/08/2023,Adelaide,Dado Villa-Lobos/Marcelo Bonfá
+7,Prod1563,9/08/2023,Adelaide,Dado Villa-Lobos/Marcelo Bonfá
+7,Prod1564,9/08/2023,Adelaide,Dado Villa-Lobos/Marcelo Bonfá
+7,Prod1565,9/08/2023,Adelaide,Dado Villa-Lobos/Marcelo Bonfá
+7,Prod1545,9/08/2023,Adelaide,Dado Villa-Lobos/Marcelo Bonfá
+7,Prod1566,9/08/2023,Adelaide,Dado Villa-Lobos
+7,Prod1581,9/08/2023,Adelaide,
+7,Prod1582,9/08/2023,Adelaide,
+7,Prod1583,9/08/2023,Adelaide,
+7,Prod1584,9/08/2023,Adelaide,
+7,Prod1585,9/08/2023,Adelaide,
+7,Prod1586,9/08/2023,Adelaide,
+7,Prod1587,9/08/2023,Adelaide,
+7,Prod1588,9/08/2023,Adelaide,
+7,Prod1589,9/08/2023,Adelaide,
+7,Prod1590,9/08/2023,Adelaide,
+7,Prod1591,9/08/2023,Adelaide,
+7,Prod1592,9/08/2023,Adelaide,
+7,Prod1593,9/08/2023,Adelaide,
+7,Prod1594,9/08/2023,Adelaide,
+7,Prod1595,9/08/2023,Adelaide,
+7,Prod1596,9/08/2023,Adelaide,
+7,Prod1597,9/08/2023,Adelaide,
+7,Prod1598,9/08/2023,Adelaide,
+7,Prod1599,9/08/2023,Adelaide,
+7,Prod1600,9/08/2023,Adelaide,
+7,Prod1601,9/08/2023,Adelaide,
+7,Prod1602,9/08/2023,Adelaide,
+7,Prod1603,9/08/2023,Adelaide,
+7,Prod1604,9/08/2023,Adelaide,
+7,Prod1605,9/08/2023,Adelaide,
+7,Prod1606,9/08/2023,Adelaide,
+7,Prod1607,9/08/2023,Adelaide,
+7,Prod1608,9/08/2023,Adelaide,
+7,Prod1619,9/08/2023,Adelaide,Carlinhos Brown
+7,Prod1620,9/08/2023,Adelaide,Carlinhos Brown
+7,Prod1621,9/08/2023,Adelaide,Morais
+7,Prod1622,9/08/2023,Adelaide,Gilberto Gil
+7,Prod1623,9/08/2023,Adelaide,Lulu Santos
+7,Prod1624,9/08/2023,Adelaide,Carlinhos Brown
+7,Prod1625,9/08/2023,Adelaide,Marisa Monte/poema de Octavio Paz/versão: Haroldo de Campos
+7,Prod516,9/08/2023,Adelaide,Caetano Veloso e Gilberto Gil
+7,Prod1626,9/08/2023,Adelaide,Caetano Veloso e Gilberto Gil
+7,Prod1627,9/08/2023,Adelaide,Caetano Veloso e Gilberto Gil
+7,Prod1628,9/08/2023,Adelaide,Caetano Veloso e Gilberto Gil
+7,Prod1629,9/08/2023,Adelaide,Caetano Veloso e Gilberto Gil
+7,Prod1630,9/08/2023,Adelaide,Caetano Veloso e Gilberto Gil
+7,Prod1631,9/08/2023,Adelaide,Caetano Veloso e Gilberto Gil
+7,Prod1632,9/08/2023,Adelaide,Caetano Veloso e Gilberto Gil
+7,Prod1633,9/08/2023,Adelaide,Caetano Veloso e Gilberto Gil
+7,Prod1634,9/08/2023,Adelaide,Caetano Veloso e Gilberto Gil
+7,Prod1635,9/08/2023,Adelaide,Caetano Veloso e Gilberto Gil
+7,Prod1766,9/08/2023,Adelaide,"Wagner Tiso, Milton Nascimento"
+7,Prod1767,9/08/2023,Adelaide,Dolores Duran
+7,Prod1768,9/08/2023,Adelaide,"Lô Borges, Fernando Brant"
+7,Prod1769,9/08/2023,Adelaide,Folclore
+7,Prod1770,9/08/2023,Adelaide,"Milton Nascimento, Fernando Brant"
+7,Prod1771,9/08/2023,Adelaide,"Milton Nascimento, Fernando Brant"
+7,Prod1772,9/08/2023,Adelaide,"Milton Nascimento, Fernando Brant"
+7,Prod696,9/08/2023,Adelaide,"Milton Nascimento, Fernando Brant"
+7,Prod1773,9/08/2023,Adelaide,"Beto Guedes, Ronaldo Bastos"
+7,Prod1774,9/08/2023,Adelaide,"Milton Nascimento, Ronaldo Bastos"
+7,Prod1775,9/08/2023,Adelaide,"Milton Nascimento, Fernando Brant"
+7,Prod1776,9/08/2023,Adelaide,"Lô Borges, Márcio Borges, Fernando Brant"
+7,Prod1777,9/08/2023,Adelaide,"Milton Nascimento, Fernando Brant"
+7,Prod1778,9/08/2023,Adelaide,"Milton Nascimento, Caetano Veloso"
+7,Prod1779,9/08/2023,Adelaide,"Milton Nascimento, Ronaldo Bastos"
+7,Prod1780,9/08/2023,Adelaide,Toninho Horta
+7,Prod1781,9/08/2023,Adelaide,"Milton Nascimento, Fernando Brant"
+7,Prod1782,9/08/2023,Adelaide,"Milton Nascimento, Márcio Borges"
+7,Prod1783,9/08/2023,Adelaide,"Milton Nascimento, Fernando Brant"
+7,Prod1784,9/08/2023,Adelaide,"Milton Nascimento, Ronaldo Bastos"
+7,Prod1785,9/08/2023,Adelaide,"Milton Nascimento, Fernando Brant"
+7,Prod1786,9/08/2023,Adelaide,Milton Nascimento
+7,Prod1787,9/08/2023,Adelaide,"Milton Nascimento, Caetano Veloso"
+7,Prod1788,9/08/2023,Adelaide,Nelson Angelo
+7,Prod1789,9/08/2023,Adelaide,"John Lennon, Paul McCartney"
+7,Prod1790,9/08/2023,Adelaide,"Beto Guedes, Márcio Borges"
+7,Prod1872,9/08/2023,Adelaide,
+7,Prod1873,9/08/2023,Adelaide,
+7,Prod1874,9/08/2023,Adelaide,
+7,Prod1875,9/08/2023,Adelaide,
+7,Prod1876,9/08/2023,Adelaide,
+7,Prod1877,9/08/2023,Adelaide,
+7,Prod1878,9/08/2023,Adelaide,
+7,Prod1879,9/08/2023,Adelaide,
+7,Prod1880,9/08/2023,Adelaide,
+7,Prod1881,9/08/2023,Adelaide,
+7,Prod1882,9/08/2023,Adelaide,
+7,Prod1883,9/08/2023,Adelaide,
+7,Prod1884,9/08/2023,Adelaide,
+7,Prod1885,9/08/2023,Adelaide,
+7,Prod1886,9/08/2023,Adelaide,Bi Ribeira/Herbert Vianna/João Barone
+7,Prod1887,9/08/2023,Adelaide,Herbert Vianna
+7,Prod255,9/08/2023,Adelaide,Chico Science/Dengue/Lúcio Maia
+7,Prod1888,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1889,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1890,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1891,9/08/2023,Adelaide,James Brown/Tim Maia
+7,Prod1892,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1893,9/08/2023,Adelaide,C. A./C.A./Celso Alvim/Herbert Vianna/Mário Moura/Pedro Luís/Sidon Silva
+7,Prod1894,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1895,9/08/2023,Adelaide,Bi Ribeiro/Herbert Vianna/João Barone
+7,Prod1896,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1897,9/08/2023,Adelaide,Herbert Vianna/Tet Tillett
+7,Prod1558,9/08/2023,Adelaide,Renato Russo
+7,Prod1898,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1899,9/08/2023,Adelaide,Beto Guedes/Fernando Brant/L Borges
+7,Prod1900,9/08/2023,Adelaide,Bahiano/Chuck Rio/Diego Blanco/Herbert Vianna
+7,Prod1901,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1902,9/08/2023,Adelaide,Chris Frantz/David Byrne/Jerry Harrison/Tina Weymouth
+7,Prod1903,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1904,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1905,9/08/2023,Adelaide,Fito Paez/Herbert Vianna
+7,Prod1897,9/08/2023,Adelaide,Herbert Vianna/Tetê Tillet
+7,Prod1906,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1907,9/08/2023,Adelaide,Bahiano/Diego Blanco/Herbert Vianna
+7,Prod1908,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1909,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1910,9/08/2023,Adelaide,Carlinhos Brown/Herbert Vianna
+7,Prod1911,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1912,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1913,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1914,9/08/2023,Adelaide,Herbert Vianna
+7,Prod1915,9/08/2023,Adelaide,Herbert Vianna/Paulo Sérgio Valle
+7,Prod1904,9/08/2023,Adelaide,
+7,Prod1916,9/08/2023,Adelaide,
+7,Prod1917,9/08/2023,Adelaide,
+7,Prod1918,9/08/2023,Adelaide,
+7,Prod699,9/08/2023,Adelaide,
+7,Prod1919,9/08/2023,Adelaide,
+7,Prod1920,9/08/2023,Adelaide,
+7,Prod1921,9/08/2023,Adelaide,
+7,Prod1894,9/08/2023,Adelaide,
+7,Prod1922,9/08/2023,Adelaide,
+7,Prod1923,9/08/2023,Adelaide,
+7,Prod1924,9/08/2023,Adelaide,
+7,Prod1895,9/08/2023,Adelaide,
+7,Prod1925,9/08/2023,Adelaide,
+7,Prod1926,9/08/2023,Adelaide,
+7,Prod1927,9/08/2023,Adelaide,
+6,Prod2335,9/08/2023,Adelaide,Doyle Bramhall/Stevie Ray Vaughan
+6,Prod2336,9/08/2023,Adelaide,B. Carter/C. Layton/R. Ellsworth/R. Wynans/T. Shannon
+6,Prod2337,9/08/2023,Adelaide,Doyle Bramhall/Stevie Ray Vaughan
+6,Prod194,9/08/2023,Adelaide,Willie Dixon
+6,Prod198,9/08/2023,Adelaide,B. Guy
+9,Prod3013,6/07/2024,Melbourne,
+9,Prod3014,6/07/2024,Melbourne,
+9,Prod3015,6/07/2024,Melbourne,
+9,Prod3016,6/07/2024,Melbourne,
+9,Prod3017,6/07/2024,Melbourne,
+9,Prod3018,6/07/2024,Melbourne,
+9,Prod3019,6/07/2024,Melbourne,
+9,Prod3020,6/07/2024,Melbourne,
+9,Prod3021,6/07/2024,Melbourne,
+9,Prod3022,6/07/2024,Melbourne,
+9,Prod3023,6/07/2024,Melbourne,
+9,Prod3024,6/07/2024,Melbourne,
+9,Prod3025,6/07/2024,Melbourne,
+9,Prod3026,6/07/2024,Melbourne,
+9,Prod3022,6/07/2024,Melbourne,
+9,Prod3027,6/07/2024,Melbourne,
+9,Prod3028,6/07/2024,Melbourne,
+9,Prod3029,6/07/2024,Melbourne,
+9,Prod3030,6/07/2024,Melbourne,
+9,Prod3020,6/07/2024,Melbourne,
+9,Prod3031,6/07/2024,Melbourne,
+9,Prod3032,6/07/2024,Melbourne,
+9,Prod2307,6/07/2024,Melbourne,
+6,Prod2338,9/08/2023,Adelaide,Stevie Ray Vaughan
+6,Prod2339,9/08/2023,Adelaide,Doyle Bramhall/Stevie Ray Vaughan
+6,Prod2340,9/08/2023,Adelaide,Doyle Bramhall/Stevie Ray Vaughan
+6,Prod2341,9/08/2023,Adelaide,C. Burnett
+6,Prod2342,9/08/2023,Adelaide,Stevie Ray Vaughan
+6,Prod2373,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2374,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2375,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2376,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2377,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2378,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2379,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2380,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2381,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2382,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2383,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2384,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2385,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2386,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2387,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2388,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2389,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+6,Prod2390,9/08/2023,Adelaide,A.Isbell/A.Jones/O.Redding
+6,Prod2391,9/08/2023,Adelaide,Chris Robinson/Rich Robinson
+7,Prod563,9/08/2023,Adelaide,Genival Cassiano/Silvio Rochael
+7,Prod2544,9/08/2023,Adelaide,Tim Maia
+7,Prod2545,9/08/2023,Adelaide,Tim Maia
+7,Prod1589,9/08/2023,Adelaide,Gilson Mendonça/Michel
+7,Prod2546,9/08/2023,Adelaide,Tim Maia
+7,Prod700,9/08/2023,Adelaide,"Do Vale, João/Luiz Wanderley"
+7,Prod2547,9/08/2023,Adelaide,Tim Maia
+7,Prod2548,9/08/2023,Adelaide,Tim Maia
+7,Prod2549,9/08/2023,Adelaide,Tim Maia
+7,Prod2550,9/08/2023,Adelaide,Carlos Imperial/Edardo Araújo
+7,Prod2551,9/08/2023,Adelaide,Genival Cassiano
+7,Prod2552,9/08/2023,Adelaide,Carlos Imperial/Tim Maia
+7,Prod2553,9/08/2023,Adelaide,Tim Maia
+7,Prod2554,9/08/2023,Adelaide,Tim Maia
+7,Prod2555,9/08/2023,Adelaide,Tim Maia
+7,Prod2556,9/08/2023,Adelaide,
+7,Prod307,9/08/2023,Adelaide,
+7,Prod2557,9/08/2023,Adelaide,
+7,Prod2558,9/08/2023,Adelaide,
+7,Prod2559,9/08/2023,Adelaide,
+7,Prod2560,9/08/2023,Adelaide,
+7,Prod2561,9/08/2023,Adelaide,
+7,Prod2562,9/08/2023,Adelaide,
+7,Prod2563,9/08/2023,Adelaide,
+7,Prod2564,9/08/2023,Adelaide,
+7,Prod2565,9/08/2023,Adelaide,
+7,Prod2566,9/08/2023,Adelaide,
+7,Prod2567,9/08/2023,Adelaide,
+7,Prod2568,9/08/2023,Adelaide,
+7,Prod2569,9/08/2023,Adelaide,
+7,Prod2879,9/08/2023,Adelaide,
+7,Prod2880,9/08/2023,Adelaide,
+7,Prod2881,9/08/2023,Adelaide,
+7,Prod2882,9/08/2023,Adelaide,
+7,Prod2883,9/08/2023,Adelaide,
+7,Prod2884,9/08/2023,Adelaide,
+23,Prod944,7/02/2024,Hobart,
+7,Prod2885,9/08/2023,Adelaide,
+7,Prod2886,9/08/2023,Adelaide,
+7,Prod2887,9/08/2023,Adelaide,
+7,Prod2888,9/08/2023,Adelaide,
+7,Prod2889,9/08/2023,Adelaide,
+7,Prod2890,9/08/2023,Adelaide,
+7,Prod2891,9/08/2023,Adelaide,
+7,Prod2892,9/08/2023,Adelaide,
+7,Prod2893,9/08/2023,Adelaide,
+7,Prod2908,9/08/2023,Adelaide,Beto Gogo/Jessé Pai/Luiz Carlos/Zeca Pagodinho
+7,Prod2909,9/08/2023,Adelaide,Dudu Nobre
+7,Prod2910,9/08/2023,Adelaide,Jorge Aragão/Zeca Pagodinho
+7,Prod2911,9/08/2023,Adelaide,Alcides Dias Lopes
+7,Prod2912,9/08/2023,Adelaide,Mauro Diniz/Ratino Sigem
+7,Prod2913,9/08/2023,Adelaide,Paulinho Rezende/Toninho Geraes
+7,Prod2914,9/08/2023,Adelaide,Alcino Corrêa/Monarco
+7,Prod2915,9/08/2023,Adelaide,Augusto Garcez/Nelson Cavaquinho
+7,Prod2916,9/08/2023,Adelaide,"Arlindo Cruz/Franco/Marquinhos PQD/Negro, Jovelina Pérolo/Zeca Pagodinho"
+7,Prod2917,9/08/2023,Adelaide,Aldir Blanc/Jayme Vignoli
+7,Prod2918,9/08/2023,Adelaide,Dudu Nobre/Zeca Pagodinho
+7,Prod2919,9/08/2023,Adelaide,Almir Guineto/Dedé Paraiso/Luverci Ernesto
+7,Prod2920,9/08/2023,Adelaide,Acyr Marques/Arlindo Cruz/Franco
+24,Prod3107,7/02/2024,Darwin,Ludwig van Beethoven
+7,Prod2921,9/08/2023,Adelaide,"Acyi Marques/Arlindo Bruz/Braço, Beto Sem/Zeca Pagodinho"
+7,Prod2922,9/08/2023,Adelaide,Nei Lopes/Wilson Moreira
+7,Prod2923,9/08/2023,Adelaide,Murilão
+7,Prod2924,9/08/2023,Adelaide,Ratinho/Zeca Pagodinho
+7,Prod2925,9/08/2023,Adelaide,Grazielle/Roque Ferreira
+23,Prod3113,7/02/2024,Melbourne,
+23,Prod3114,7/02/2024,Melbourne,
+23,Prod3115,7/02/2024,Melbourne,
+23,Prod3116,7/02/2024,Melbourne,
+23,Prod3117,7/02/2024,Melbourne,
+23,Prod3118,7/02/2024,Melbourne,
+23,Prod3119,7/02/2024,Melbourne,
+23,Prod3120,7/02/2024,Melbourne,
+23,Prod3121,7/02/2024,Melbourne,
+23,Prod3122,7/02/2024,Melbourne,
+23,Prod3123,7/02/2024,Melbourne,Chris Cornell
+23,Prod3124,7/02/2024,Melbourne,Chris Cornell
+23,Prod3125,7/02/2024,Melbourne,Chris Cornell
+23,Prod3126,7/02/2024,Melbourne,Chris Cornell
+23,Prod3127,7/02/2024,Melbourne,Chris Cornell
+23,Prod3128,7/02/2024,Melbourne,Chris Cornell
+23,Prod3129,7/02/2024,Melbourne,Chris Cornell
+23,Prod3130,7/02/2024,Melbourne,Michael Jackson
+23,Prod3131,7/02/2024,Melbourne,Chris Cornell
+23,Prod3132,7/02/2024,Melbourne,Chris Cornell
+23,Prod3133,7/02/2024,Melbourne,Chris Cornell
+23,Prod3134,7/02/2024,Melbourne,Chris Cornell
+23,Prod3135,7/02/2024,Melbourne,Chris Cornell
+23,Prod3136,7/02/2024,Melbourne,Chris Cornell
+23,Prod1249,7/02/2024,Melbourne,
+23,Prod3137,7/02/2024,Melbourne,
+23,Prod3138,7/02/2024,Melbourne,
+23,Prod3139,7/02/2024,Melbourne,
+23,Prod3140,7/02/2024,Melbourne,
+23,Prod3141,7/02/2024,Melbourne,
+23,Prod3142,7/02/2024,Melbourne,
+23,Prod3143,7/02/2024,Melbourne,
+23,Prod3144,7/02/2024,Melbourne,
+23,Prod3145,7/02/2024,Melbourne,
+23,Prod3146,7/02/2024,Melbourne,
+23,Prod3147,7/02/2024,Melbourne,
+23,Prod3148,7/02/2024,Melbourne,
+23,Prod3149,7/02/2024,Sydney,
+24,Prod3150,7/02/2024,Melbourne,Anonymous
+24,Prod3151,7/02/2024,Melbourne,Gregorio Allegri
+24,Prod3152,7/02/2024,Melbourne,Johann Pachelbel
+24,Prod3153,7/02/2024,Melbourne,Antonio Vivaldi
+24,Prod3154,7/02/2024,Melbourne,Johann Sebastian Bach
+24,Prod3155,7/02/2024,Melbourne,Johann Sebastian Bach
+24,Prod3156,7/02/2024,Melbourne,Johann Sebastian Bach
+24,Prod3157,7/02/2024,Melbourne,George Frideric Handel
+24,Prod3158,7/02/2024,Melbourne,George Frideric Handel
+24,Prod3159,7/02/2024,Melbourne,Wolfgang Amadeus Mozart
+24,Prod3160,7/02/2024,Melbourne,Wolfgang Amadeus Mozart
+24,Prod3161,7/02/2024,Hobart,Franz Joseph Haydn
+24,Prod3162,7/02/2024,Melbourne,Ludwig van Beethoven
+24,Prod3163,7/02/2024,Melbourne,Franz Schubert
+24,Prod3164,7/02/2024,Melbourne,Giuseppe Verdi
+24,Prod3165,7/02/2024,Melbourne,Richard Wagner
+24,Prod3166,7/02/2024,Melbourne,Gabriel Fauré
+24,Prod3167,7/02/2024,Melbourne,Peter Ilyich Tchaikovsky
+24,Prod3168,7/02/2024,Melbourne,Edward Elgar
+24,Prod3169,7/02/2024,Melbourne,Giacomo Puccini
+24,Prod3170,7/02/2024,Melbourne,Gustav Holst
+24,Prod3171,7/02/2024,Melbourne,Giacomo Puccini
+24,Prod3172,7/02/2024,Melbourne,Samuel Barber
+24,Prod3173,7/02/2024,Melbourne,Carl Orff
+24,Prod3174,7/02/2024,Melbourne,Aaron Copland
+7,Prod2926,9/08/2023,Adelaide,Carlinhos Santana/Nelson Rufino
+7,Prod3104,9/08/2023,Darwin,Luciana Souza
+24,Prod3176,7/02/2024,Melbourne,Johann Sebastian Bach
+24,Prod3177,7/02/2024,Melbourne,Sergei Prokofiev
+24,Prod3178,7/02/2024,Melbourne,Nikolai Rimsky-Korsakov
+24,Prod3179,7/02/2024,Melbourne,Johann Sebastian Bach
+24,Prod3180,7/02/2024,Melbourne,Frédéric Chopin
+24,Prod3181,7/02/2024,Melbourne,Pietro Mascagni
+24,Prod3182,7/02/2024,Melbourne,Jean Sibelius
+24,Prod3183,7/02/2024,Melbourne,Ludwig van Beethoven
+24,Prod3184,7/02/2024,Melbourne,Ralph Vaughan Williams
+24,Prod3185,7/02/2024,Melbourne,Gustav Mahler
+24,Prod3186,7/02/2024,Melbourne,Edward Elgar
+24,Prod3187,7/02/2024,Melbourne,John Adams
+24,Prod3188,7/02/2024,Melbourne,Ludwig van Beethoven
+24,Prod3189,7/02/2024,Melbourne,Giovanni Pierluigi da Palestrina
+24,Prod3190,7/02/2024,Melbourne,
+24,Prod3191,7/02/2024,Melbourne,Johann Strauss II
+24,Prod3192,7/02/2024,Melbourne,Hector Berlioz
+24,Prod3193,7/02/2024,Melbourne,Georges Bizet
+24,Prod3194,7/02/2024,Melbourne,Thomas Tallis
+24,Prod3195,7/02/2024,Melbourne,George Frideric Handel
+24,Prod3196,7/02/2024,Melbourne,Edvard Grieg
+25,Prod3197,7/02/2024,Melbourne,Wolfgang Amadeus Mozart
+24,Prod3198,7/02/2024,Hobart,
+24,Prod3199,7/02/2024,Melbourne,John Dowland
+24,Prod3200,7/02/2024,Melbourne,Wolfgang Amadeus Mozart
+14,Prod3201,11/09/2024,Melbourne,
+14,Prod3202,11/09/2024,Melbourne,
+14,Prod3203,11/09/2024,Melbourne,
+14,Prod3204,11/09/2024,Melbourne,
+14,Prod3205,11/09/2024,Melbourne,Mark Ronson
+14,Prod3206,11/09/2024,Melbourne,
+14,Prod3207,11/09/2024,Melbourne,Nickolas Ashford & Valerie Simpson
+14,Prod3208,11/09/2024,Melbourne,Paul O'duffy
+14,Prod3209,11/09/2024,Melbourne,
+14,Prod3210,11/09/2024,Melbourne,Richard Poindexter & Robert Poindexter
+14,Prod3211,11/09/2024,Melbourne,
+14,Prod3212,11/09/2024,Melbourne,
+9,Prod3213,6/07/2024,Melbourne,
+9,Prod3214,6/07/2024,Melbourne,
+9,Prod3215,6/07/2024,Melbourne,Salaam Remi
+9,Prod3216,6/07/2024,Melbourne,
+9,Prod3217,6/07/2024,Melbourne,Isham Jones & Marty Symes
+9,Prod3218,6/07/2024,Melbourne,Salaam Remi
+9,Prod3219,6/07/2024,Melbourne,Luke Smith
+9,Prod3220,6/07/2024,Melbourne,Matt Rowe & Stefan Skarbek
+9,Prod3221,6/07/2024,Melbourne,"Delroy ""Chris"" Cooper, Donovan Jackson, Earl Chinna Smith, Felix Howard, Gordon Williams, Luke Smith, Paul Watson & Wilburn Squiddley Cole"
+9,Prod3222,6/07/2024,Melbourne,"Freddy James, Jimmy hogarth & Larry Stock"
+9,Prod3223,6/07/2024,Melbourne,"Astor Campbell, Delroy ""Chris"" Cooper"
+23,Prod3224,7/02/2024,Melbourne,
+24,Prod3225,7/02/2024,Hobart,Ludwig van Beethoven
+24,Prod3226,7/02/2024,Hobart,Béla Bartók
+24,Prod3227,7/02/2024,Melbourne,
+24,Prod3228,7/02/2024,Melbourne,Johann Sebastian Bach
+24,Prod3229,7/02/2024,Melbourne,Marc-Antoine Charpentier
+24,Prod3230,7/02/2024,Melbourne,Astor Piazzolla
+24,Prod3231,7/02/2024,Melbourne,Henryk Górecki
+24,Prod3232,7/02/2024,Melbourne,Henry Purcell
+24,Prod3233,7/02/2024,Melbourne,Erik Satie
+24,Prod3234,7/02/2024,Melbourne,Henry Purcell
+24,Prod3235,7/02/2024,Melbourne,Kurt Weill
+24,Prod3236,7/02/2024,Melbourne,Johann Sebastian Bach
+24,Prod3237,7/02/2024,Melbourne,Igor Stravinsky
+24,Prod3238,7/02/2024,Melbourne,William Byrd
+24,Prod3239,7/02/2024,Melbourne,Karol Szymanowski
+24,Prod3240,7/02/2024,Melbourne,Carl Nielsen
+24,Prod3241,7/02/2024,Melbourne,Niccolò Paganini
+24,Prod3242,7/02/2024,Hobart,
+24,Prod3243,7/02/2024,Melbourne,
+24,Prod3244,7/02/2024,Hobart,Pietro Antonio Locatelli
+24,Prod3245,7/02/2024,Melbourne,
+24,Prod3246,7/02/2024,Melbourne,Franz Schubert
+24,Prod3247,7/02/2024,Melbourne,Claudio Monteverdi
+24,Prod3248,7/02/2024,Melbourne,Wolfgang Amadeus Mozart
+10,Prod3249,6/07/2024,Melbourne,Philip Glass

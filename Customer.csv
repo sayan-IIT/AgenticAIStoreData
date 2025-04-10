@@ -1,0 +1,58 @@
+Cust Id,Country,Phone,Email,Product ID
+2,Germany,+49 0711 2842222,leonekohler@surfeu.de,"prod5, prod 23"
+3,Canada,+1 (514) 721-4711,ftremblay@gmail.com,
+4,Norway,+47 22 44 22 22,bjorn.hansen@yahoo.no,"prod2646, prod2029, prod1253, prod595, prod6"
+5,Czech Republic,+420 2 4172 5555,frantisekw@jetbrains.com,"prod2678, prod2046, prod1278, prod604, prod33"
+6,Czech Republic,+420 2 4177 0449,hholy@gmail.com,"prod2703, prod2059, prod1293, prod609, prod58"
+7,Austria,+43 01 5134505,astrid.gruber@apple.at,"prod2712, prod2063, prod1311, prod610, prod61"
+8,Belgium,+32 02 219 03 03,daan_peeters@apple.be,"prod2714, prod2074, prod1355, prod611, prod78"
+9,Denmark,+453 3331 9991,kara.nielsen@jubii.dk,"prod2725, prod2078, prod1382, prod637, prod84"
+10,Brazil,+55 (11) 3033-5446,eduardo@woodstock.com.br,"prod2741, prod2118, prod1409, prod650, prod90"
+11,Brazil,+55 (11) 3055-3278,alero@uol.com.br,"prod2750, prod2151, prod1414, prod667, prod109"
+12,Brazil,+55 (21) 2271-7000,roberto.almeida@riotur.gov.br,"prod2789, prod2173, prod1423, prod672, prod111"
+13,Brazil,+55 (61) 3363-5547,fernadaramos4@uol.com.br,"prod2790, prod2188, prod1426, prod699, prod127"
+14,Canada,+1 (780) 434-4554,mphilips12@shaw.ca,"prod2799, prod2237, prod1443, prod710, prod130"
+15,Canada,+1 (604) 688-2255,jenniferp@rogers.ca,"prod2802, prod2244, prod1487, prod736, prod152"
+16,USA,+1 (650) 253-0000,fharris@google.com,"prod2810, prod2257, prod1488, prod756, prod157"
+17,USA,+1 (425) 882-8080,jacksmith@microsoft.com,"prod2827, prod2261, prod1496, prod787, prod179"
+18,USA,+1 (212) 221-3546,michelleb@aol.com,"prod2900, prod2273, prod1516, prod790, prod198"
+19,USA,+1 (408) 996-1010,tgoyer@apple.com,"prod2905, prod2293, prod1557, prod797, prod206"
+20,USA,+1 (650) 644-3358,dmiller@comcast.com,"prod2906, prod2308, prod1588, prod819, prod223"
+21,USA,+1 (775) 223-7665,kachase@hotmail.com,"prod2931, prod2327, prod1614, prod824, prod233"
+22,USA,+1 (407) 999-7788,hleacock@gmail.com,"prod2941, prod2329, prod1622, prod841, prod235"
+23,USA,+1 (617) 522-1333,johngordon22@yahoo.com,"prod2943, prod2338, prod1627, prod872, prod238"
+24,USA,+1 (312) 332-3232,fralston@gmail.com,"prod2949, prod2348, prod1637, prod875, prod258"
+25,USA,+1 (608) 257-0597,vstevens@yahoo.com,"prod2976, prod2373, prod1654, prod889, prod297"
+26,USA,+1 (817) 924-7272,ricunningham@hotmail.com,"prod2996, prod2387, prod1663, prod903, prod340"
+27,USA,+1 (520) 622-4200,patrick.gray@aol.com,"prod3006, prod2422, prod1702, prod906, prod373"
+28,USA,+1 (801) 531-7272,jubarnett@gmail.com,"prod3009, prod2434, prod1705, prod929, prod383"
+29,Canada,+1 (416) 363-8888,robbrown@shaw.ca,"prod3014, prod2437, prod1709, prod953, prod391"
+30,Canada,+1 (613) 234-3322,edfrancis@yachoo.ca,"prod3019, prod2443, prod1722, prod980, prod412"
+31,Canada,+1 (902) 450-0450,marthasilk@gmail.com,"prod3037, prod2461, prod1772, prod1013, prod421"
+32,Canada,+1 (204) 452-6452,aaronmitchell@yahoo.ca,"prod3060, prod2468, prod1830, prod1031, prod427"
+33,Canada,+1 (867) 920-2233,ellie.sullivan@shaw.ca,"prod3074, prod2473, prod1832, prod1042, prod459"
+34,Portugal,+351 (213) 466-111,jfernandes@yahoo.pt,"prod3080, prod2486, prod1835, prod1055, prod479"
+35,Portugal,+351 (225) 022-448,masampaio@sapo.pt,"prod3083, prod2488, prod1851, prod1076, prod504"
+36,Germany,+49 030 26550280,hannah.schneider@yahoo.de,"prod3089, prod2492, prod1875, prod1095, prod519"
+37,Germany,+49 069 40598889,fzimmermann@yahoo.de,"prod3092, prod2524, prod1879, prod1105, prod555"
+38,Germany,+49 030 2141444,nschroder@surfeu.de,"prod3113, prod2530, prod1977, prod1119, prod561"
+39,France,+33 01 49 70 65 65,camille.bernard@yahoo.fr,"prod3129, prod2531, prod1985, prod1147"
+40,France,+33 01 47 42 71 71,dominiquelefebvre@gmail.com,"prod3147, prod2551, prod1987"
+41,France,+33 04 78 30 30 30,marc.dubois@hotmail.com,"prod3167, prod2560"
+42,France,+33 05 56 96 96 96,wyatt.girard@yahoo.fr,"prod3176, prod2566"
+43,France,+33 03 80 73 66 99,isabelle_mercier@apple.fr,"prod3182, prod2612"
+44,Finland,+358 09 870 2000,terhi.hamalainen@apple.fi,"prod3271, prod2628"
+45,Hungary,,ladislav_kovacs@apple.hu,"prod3273, prod2633"
+46,Ireland,+353 01 6792424,hughoreilly@apple.ie,"prod3285, prod1157"
+47,Italy,+39 06 39733434,lucas.mancini@yahoo.it,"prod3310, prod1165"
+48,Netherlands,+31 020 6223130,johavanderberg@yahoo.nl,"prod3327, prod1225"
+49,Poland,+48 22 828 37 39,stanisław.wójcik@wp.pl,"prod3336, prod1229"
+50,Spain,+34 914 454 454,enrique_munoz@yahoo.es,prod3338
+51,Sweden,+46 08-651 52 52,joakim.johansson@yahoo.se,
+52,United Kingdom,+44 020 7707 0707,emma_jones@hotmail.com,
+53,United Kingdom,+44 020 7976 5722,phil.hughes@gmail.com,
+63,United Kingdom,+44 0131 315 3300,steve.murray@yahoo.uk,
+89,Australia,+61 (02) 9332 3633,mark.taylor@yahoo.au,
+72,Argentina,+54 (0)11 4311 4333,diego.gutierrez@yahoo.ar,
+94,Chile,+56 (0)2 635 4444,luisrojas@yahoo.cl,
+99,India,+91 0124 39883988,manoj.pareek@rediff.com,
